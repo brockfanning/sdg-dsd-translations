@@ -1,1 +1,5 @@
 venv
+Gemfile.lock
+_site
+public/.jekyll-cache
+public/dsd-exported.xml
