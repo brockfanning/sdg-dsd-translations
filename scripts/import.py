@@ -10,4 +10,4 @@ for language in translations:
     for concept in translations[language]:
         filename = os.path.join('translations', language, concept) + '.yml'
         with open(filename, 'w', encoding='utf-8') as stream:
-            yaml.dump(translations[language][concept], stream)
+            yaml.dump(translations[language][concept], stream, allow_unicode=True)
