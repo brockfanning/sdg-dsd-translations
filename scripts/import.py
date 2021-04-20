@@ -3,7 +3,7 @@ import yaml
 import os
 from sdg.translations import TranslationInputSdmx
 
-translation_input = TranslationInputSdmx(source='SDG_DSD.xml')
+translation_input = TranslationInputSdmx(source='dsd.xml')
 translation_input.execute()
 translations = translation_input.get_translations()
 for language in translations:
