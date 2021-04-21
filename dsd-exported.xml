@@ -54,7 +54,7 @@ The main aims of the ILO are to promote rights at work, encourage decent employm
           <com:Name xml:lang="en">Bhutan National Statistics Bureau (NSB)</com:Name>
         </str:Agency>
         <str:Agency id="BOI" urn="urn:sdmx:org.sdmx.infomodel.base.Agency=BOI">
-          <com:Description xml:lang="en">The Bank of Israel is the central bank of the State of Israel. 
+          <com:Description xml:lang="en">The Bank of Israel is the central bank of the State of Israel.
 The main objectives of the Bank are listed and prioritized in the Bank of Israel Law : To maintain price stability; to support other objectives of the Government's economic policy, especially growth, employment, and reducing social gaps; and supporting the stability of the financial system.</com:Description>
         </str:Agency>
         <str:Agency id="UNSD" urn="urn:sdmx:org.sdmx.infomodel.base.Agency=UNSD">
