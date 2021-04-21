@@ -69,7 +69,7 @@
 '24': Angola
 '242': Fiji
 '246': Finland
-'248': "\xC5land Islands"
+'248': Åland Islands
 '250': France
 '254': French Guiana
 '258': French Polynesia
@@ -115,7 +115,7 @@
 '372': Ireland
 '376': Israel
 '380': Italy
-'384': "C\xF4te d'Ivoire"
+'384': Côte d'Ivoire
 '388': Jamaica
 '39': Southern Europe
 '392': Japan
@@ -168,8 +168,7 @@
 '51': Armenia
 '512': Oman
 '513': Europe and Northern America
-'514': Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia
-  & New Zealand)
+'514': Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)
 '515': Developing regions
 '516': Namibia
 '518': Eastern Asia (excluding Japan)
@@ -180,7 +179,7 @@
 '528': Netherlands
 '53': Australia and New Zealand
 '530': Netherlands Antilles
-'531': "Cura\xE7ao"
+'531': Curaçao
 '533': Aruba
 '534': Sint Maarten (Dutch part)
 '535': Bonaire, Sint Eustatius and Saba
@@ -221,12 +220,12 @@
 '630': Puerto Rico
 '634': Qatar
 '636': Other non-oecd Americas
-'638': "R\xE9union"
+'638': Réunion
 '64': Bhutan
 '642': Romania
 '643': Russian Federation
 '646': Rwanda
-'652': "Saint Barth\xE9lemy"
+'652': Saint Barthélemy
 '654': Saint Helena
 '659': Saint Kitts and Nevis
 '660': Anguilla
@@ -364,7 +363,7 @@
 '99037': 'Residual/unallocated ODA: Latin America and the Caribbean'
 '99038': 'Residual/unallocated ODA: Oceania excl. Aus. and N. Zealand'
 '99039': 'Residual/unallocated ODA: Sub-Saharan Africa'
-'99040': "Residual/unallocated ODA: Western Asia\_and Northern Africa"
+'99040': 'Residual/unallocated ODA: Western Asia and Northern Africa'
 '99041': Belgium and Luxembourg
 AD: Andorra
 AE: United Arab Emirates
@@ -381,7 +380,7 @@ AS: American Samoa
 AT: Austria
 AU: Australia
 AW: Aruba
-AX: "\xC5land Islands"
+AX: Åland Islands
 AZ: Azerbaijan
 BA: Bosnia and Herzegovina
 BB: Barbados
@@ -392,7 +391,7 @@ BG: Bulgaria
 BH: Bahrain
 BI: Burundi
 BJ: Benin
-BL: "Saint Barth\xE9lemy"
+BL: Saint Barthélemy
 BM: Bermuda
 BN: Brunei Darussalam
 BO: Bolivia (Plurinational State of)
@@ -410,7 +409,7 @@ CD: Democratic Republic of the Congo
 CF: Central African Republic
 CG: Congo
 CH: Switzerland
-CI: "C\xF4te d'Ivoire"
+CI: Côte d'Ivoire
 CK: Cook Islands
 CL: Chile
 CM: Cameroon
@@ -419,7 +418,7 @@ CO: Colombia
 CR: Costa Rica
 CU: Cuba
 CV: Cabo Verde
-CW: "Cura\xE7ao"
+CW: Curaçao
 CX: Christmas Island
 CY: Cyprus
 CZ: Czechia
@@ -555,7 +554,7 @@ PT: Portugal
 PW: Palau
 PY: Paraguay
 QA: Qatar
-RE: "R\xE9union"
+RE: Réunion
 REF_AREA: Reference area
 RO: Romania
 RS: Serbia

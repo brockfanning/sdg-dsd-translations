@@ -5,8 +5,7 @@ ISIC4_B: Mining and quarrying
 ISIC4_BTFXE: Industries
 ISIC4_BTU: Non-agriculture
 ISIC4_C: Manufacturing
-ISIC4_C10T32X19: Manufacturing excl. coke and refined petroleum products and repair
-  and installation of machinery and equipment
+ISIC4_C10T32X19: Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment
 ISIC4_D: Electricity, gas, steam and air conditioning supply
 ISIC4_E: Water supply; sewerage, waste management and remediation activities
 ISIC4_F: Construction
@@ -25,7 +24,6 @@ ISIC4_P: Education
 ISIC4_Q: Human health and social work activities
 ISIC4_R: Arts, entertainment and recreation
 ISIC4_S: Other service activities
-ISIC4_T: Activities of households as employers; undifferentiated goods- and services-producing
-  activities of households for own use
+ISIC4_T: Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
 ISIC4_U: Activities of extraterritorial organisations and bodies
 _T: No breakdown

@@ -1,19 +1,12 @@
-ABT2_ACHIEVE: 'ABT2 status: National target reflecting ABT2 exists and progress is
-  on track to achieve it'
-ABT2_DIGRESS: 'ABT2 status: National target reflecting ABT2 exists, but moving away
-  from it'
-ABT2_EXCEED: 'ABT2 status: National target reflecting ABT2  exists and progress is
-  on track to exceed it'
-ABT2_INSUFNT: 'ABT2 status: National target reflecting ABT2  exists and progress is
-  there, but at as insufficient rate'
+ABT2_ACHIEVE: 'ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it'
+ABT2_DIGRESS: 'ABT2 status: National target reflecting ABT2 exists, but moving away from it'
+ABT2_EXCEED: 'ABT2 status: National target reflecting ABT2  exists and progress is on track to exceed it'
+ABT2_INSUFNT: 'ABT2 status: National target reflecting ABT2  exists and progress is there, but at as insufficient rate'
 ABT2_NONTLT: 'ABT2 status: No national target reflecting ABT 2'
 ABT2_NOPROG: 'ABT2 status: National target reflecting ABT2  exists, but no progress'
 COD_EXPLOSIVES: 'Cause of death: Planted explosives and unexploded ordnance (UXO)'
 COD_HEAVYWEAPONS: 'Cause of death: Heavy weapons and explosive munitions'
-COD_OTHER: Incendiary; Chemical, biological, radiological, nuclear (CBRN); Electromagnetic
-  weapons; Less lethal weapons; Denial of access to/ destruction of objects indispensable
-  to survival; Accidents related to conflict; Use of objects and other means; Multiple
-  Weapons Used.
+COD_OTHER: Incendiary; Chemical, biological, radiological, nuclear (CBRN); Electromagnetic weapons; Less lethal weapons; Denial of access to/ destruction of objects indispensable to survival; Accidents related to conflict; Use of objects and other means; Multiple Weapons Used.
 COD_SMALLARMS: 'Cause of death: Small arms and light weapons'
 COD_U: 'Cause of death: Unknown'
 COMPOSITE_BREAKDOWN: Composite breakdown
@@ -24,13 +17,11 @@ DEG_MLOW: 'Degree: Medium-low level'
 DEG_VHIG: 'Degree: Very high level'
 DEG_VLOW: 'Degree: Very low level'
 ELV_1: Elevation > 4.500 meters
-ELV_2: "Elevation 3.500\u20134.500 meters"
-ELV_3: "Elevation 2.500\u20133.500 meters"
-ELV_4: "Elevation 1.500\u20132.500 meters and slope > 2"
-ELV_5: "Elevation 1.000\u20131.500 meters and slope > 5 or local elevation range (LER\
-  \ 7 kilometer radius) > 300 meters"
-ELV_6: "Elevation 300\u20131.000 meters and local elevation range (7 kilometer radius)\
-  \ > 300 meters"
+ELV_2: Elevation 3.500–4.500 meters
+ELV_3: Elevation 2.500–3.500 meters
+ELV_4: Elevation 1.500–2.500 meters and slope > 2
+ELV_5: Elevation 1.000–1.500 meters and slope > 5 or local elevation range (LER 7 kilometer radius) > 300 meters
+ELV_6: Elevation 300–1.000 meters and local elevation range (7 kilometer radius) > 300 meters
 FCC_E: 'Frequency of Chlorophyll-a concentration: Extreme'
 FCC_H: 'Frequency of Chlorophyll-a concentration: High'
 FCC_M: 'Frequency of Chlorophyll-a concentration: Moderate'
@@ -167,8 +158,7 @@ NCD_CARDIO: 'Non-communicable disease: Cardiovascular disease'
 NCD_CNCR: 'Non-communicable disease: Cancer'
 NCD_CRESPD: 'Non-communicable disease: Chronic respiratory disease'
 NCD_DIABTS: 'Non-communicable disease: Diabetes'
-NCD_NCOM: 'Non-communicable disease: Cardiovascular disease, cancer, diabetes, or
-  chronic respiratory disease'
+NCD_NCOM: 'Non-communicable disease: Cardiovascular disease, cancer, diabetes, or chronic respiratory disease'
 PC_DEFENCE: 'Parliamentary committee: Defence'
 PC_FAFF_DEF: 'Parliamentary committee: Foreign Affairs and Defence'
 PC_FAFF_DEF_FIN: 'Parliamentary committee: Foreign Affairs, Defence and Finance'
@@ -184,14 +174,10 @@ PD_3: Policy Domain 3. Cooperation and partnerships
 PD_4: Policy Domain 4. Socioeconomic well-being
 PD_5: Policy Domain 5. Mobility dimensions of crises
 PD_6: Policy Domain 6. Safe, orderly and regular migration
-POL_ECONFIS: 'Policy instruments: Economic and fiscal instruments (taxes and tax incentives,
-  grants, preferential loans, etc.)'
-POL_MACRO: 'Policy instruments: Macro policies (e.g. national strategies/action plans,
-  new institutions/entities)'
-POL_REGLEG: 'Policy instruments: Regulatory and legal instruments (e.g. laws, standards,
-  enforcement measures)'
-POL_VOLSRG: 'Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral
-  partnerships, codes of conduct, CSR initiatives)'
+POL_ECONFIS: 'Policy instruments: Economic and fiscal instruments (taxes and tax incentives, grants, preferential loans, etc.)'
+POL_MACRO: 'Policy instruments: Macro policies (e.g. national strategies/action plans, new institutions/entities)'
+POL_REGLEG: 'Policy instruments: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)'
+POL_VOLSRG: 'Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes of conduct, CSR initiatives)'
 RO_FIFTH: 'Report Ordinal: Fifth'
 RO_FIRST: 'Report Ordinal: First'
 RO_FOURTH: 'Report Ordinal: Fourth'
@@ -202,35 +188,29 @@ RO_THIRD: 'Report Ordinal: Third'
 SKILL_ICTATCH: 'Skill: ICT Skill: Sending e-mails with attached files'
 SKILL_ICTCDV: 'Skill: ICT Skill: connecting and installing new devices'
 SKILL_ICTCMFL: 'Skill: ICT Skill: Copying or moving a file or folder'
-SKILL_ICTCPT: 'Skill: ICT Skill: Using copy and paste tools to duplicate or move information
-  within a document'
-SKILL_ICTPRGM: 'Skill: ICT Skill: Writing a computer program using a specialized programming
-  language'
-SKILL_ICTPST: 'Skill: ICT Skill: Creating electronic presentations with presentation
-  software'
-SKILL_ICTSFWR: 'Skill: ICT Skill: Finding, downloading, installing and configuring
-  software'
+SKILL_ICTCPT: 'Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document'
+SKILL_ICTPRGM: 'Skill: ICT Skill: Writing a computer program using a specialized programming language'
+SKILL_ICTPST: 'Skill: ICT Skill: Creating electronic presentations with presentation software'
+SKILL_ICTSFWR: 'Skill: ICT Skill: Finding, downloading, installing and configuring software'
 SKILL_ICTSSHT: 'Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet'
-SKILL_ICTTRFF: 'Skill: ICT Skill: Transferring files between a computer and other
-  devices'
+SKILL_ICTTRFF: 'Skill: ICT Skill: Transferring files between a computer and other devices'
 SKILL_LTRCY: 'Skill: Functional literacy'
 SKILL_MATH: 'Skill: Mathematics'
 SKILL_NMRCY: 'Skill: Functional numeracy'
 SKILL_READ: 'Skill: Reading'
 SPAR_01: 'State Party Annual Report: Legislation and Financing'
-SPAR_02: "State Party Annual Report: IHR Coordination and National IHR Focal Point\
-  \ Functions\_"
-SPAR_03: "State Party Annual Report: Zoonotic events and the human\u2013animal interface\_"
-SPAR_04: "State Party Annual Report: Food safety\_"
-SPAR_05: "State Party Annual Report: Laboratory\_"
-SPAR_06: "State Party Annual Report: Surveillance\_"
-SPAR_07: "State Party Annual Report: Human resources\_"
-SPAR_08: "State Party Annual Report: National Health Emergency Framework\_"
-SPAR_09: "State Party Annual Report: Health Service Provision\_"
-SPAR_10: "State Party Annual Report: Risk Communication\_"
-SPAR_11: "State Party Annual Report: Points of entry\_"
-SPAR_12: "State Party Annual Report: Chemical events\_"
-SPAR_13: "State Party Annual Report: Radiation emergencies\_"
+SPAR_02: 'State Party Annual Report: IHR Coordination and National IHR Focal Point Functions '
+SPAR_03: 'State Party Annual Report: Zoonotic events and the human–animal interface '
+SPAR_04: 'State Party Annual Report: Food safety '
+SPAR_05: 'State Party Annual Report: Laboratory '
+SPAR_06: 'State Party Annual Report: Surveillance '
+SPAR_07: 'State Party Annual Report: Human resources '
+SPAR_08: 'State Party Annual Report: National Health Emergency Framework '
+SPAR_09: 'State Party Annual Report: Health Service Provision '
+SPAR_10: 'State Party Annual Report: Risk Communication '
+SPAR_11: 'State Party Annual Report: Points of entry '
+SPAR_12: 'State Party Annual Report: Chemical events '
+SPAR_13: 'State Party Annual Report: Radiation emergencies '
 SUD_ALCOHOL: 'Substance use disorder: Alcohol'
 SUD_ATS: 'Substance use disorder: Amphetamine-type stimulants (ATS)'
 SUD_CANNABIS: 'Substance use disorder: Cannabis'

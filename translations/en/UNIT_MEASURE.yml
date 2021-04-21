@@ -6,8 +6,7 @@ HA: Hectares
 IX: Index
 KG: Kilograms
 KG_CO2_PER_GDP_CON_PPP_USD: kg CO2 equivalent per USD1 constant PPP GDP
-KG_C_KM2_PER_DAY: kilograms of carbon from algae biomass per sq. km. of river basin
-  area per day
+KG_C_KM2_PER_DAY: kilograms of carbon from algae biomass per sq. km. of river basin area per day
 KG_OE_PER_GDP_CON_PPP_USD: kg oil equivalent per USD1,000 constant PPP GDP
 KG_OE_PER_GDP_USD: kg oil equivalent per USD1,000 GDP
 KG_PER_CON_USD: Kilograms per constant USD
