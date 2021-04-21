@@ -1,34 +1,60 @@
 import sdmx
 import yaml
 import os
-from sdg.translations import TranslationInputSdmx
+from sdg.translations import TranslationInputYaml
+import xml.etree.ElementTree as ET
 
-msg = sdmx.read_sdmx('dsd.xml')
-dsd = msg.structure[0]
+translation_input = TranslationInputYaml(source='translations')
+translation_input.execute()
+translations = translation_input.get_translations()
 
-for subdir, dirs, files in os.walk('translations'):
-    if subdir == 'translations':
-        continue
-    language = os.path.split(subdir)[1]
-    for filename in files:
-        concept_code = os.path.splitext(filename)[0]
-        filepath = os.path.join('translations', language, filename)
-        with open(filepath, 'r', encoding='utf-8') as stream:
-            translations = yaml.load(stream, Loader=yaml.FullLoader)
+filename = 'dsd.xml'
+namespaces = dict([node for _, node in ET.iterparse(filename, events=['start-ns'])])
+if 'xml' not in namespaces:
+    namespaces['xml'] = 'http://www.w3.org/XML/1998/namespace'
+for ns in namespaces:
+    ET.register_namespace(ns, namespaces[ns])
 
-        concept = None
-        dimension_matches = [dim for dim in dsd.dimensions if dim.id == concept_code]
-        if len(dimension_matches) > 0:
-            concept = dimension_matches[0]
-        else:
-            attribute_matches = [att for att in dsd.attributes if att.id == concept_code]
-            if len(attribute_matches) > 0:
-                concept = attribute_matches[0]
+def get_namespace_alias(namespace_address):
+    for alias, address in namespaces.items():
+        if address == namespace_address:
+            return alias
+    raise Exception('Unable to find alias for ' + namespace_address)
 
-        if concept.local_representation is not None and concept.local_representation.enumerated is not None:
-            for code in concept.local_representation.enumerated:
-                if code.id in translations and translations[code.id] != '':
-                    code.name[language] = translations[code.id]
+tree = ET.parse(filename)
+root = tree.getroot()
+structure_ns = get_namespace_alias('http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure')
+common_ns = get_namespace_alias('http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common')
+def str_ns(element):
+    return structure_ns + ':' + element
+def com_ns(element):
+    return common_ns + ':' + element
+def get_codes(concept):
+    codelist = concept.find('./' + str_ns('LocalRepresentation') + '/' + str_ns('Enumeration') + '/Ref', namespaces)
+    if codelist is None:
+        return []
+    else:
+        return root.findall('.//' + str_ns('Codelist') + '[@id="' + codelist.attrib['id'] + '"]/' + str_ns('Code'), namespaces)
 
-with open(os.path.join('public', 'dsd-exported.xml'), 'wb') as f:
-    f.write(sdmx.to_xml(msg, encoding='utf-8', pretty_print=True))
+dimensions = root.findall('.//' + str_ns('DimensionList') + '/' + str_ns('Dimension'), namespaces)
+attributes = root.findall('.//' + str_ns('AttributeList') + '/' + str_ns('Attribute'), namespaces)
+for concept in dimensions + attributes:
+    key = concept.attrib['id']
+    for code in get_codes(concept):
+        code_id = code.attrib['id']
+        for language in translations:
+            if key in translations[language] and code_id in translations[language][key] and translations[language][key][code_id] != '':
+                found_name = False
+                lang_ns = '{' + namespaces['xml'] + '}lang'
+                for name in code.findall('./' + com_ns('Name'), namespaces):
+                    code_lang = name.attrib[lang_ns]
+                    if code_lang == language:
+                        found_name = True
+                        if name.text != translations[language][key][code_id]:
+                            name.text = translations[language][key][code_id]
+                if not found_name:
+                    name = ET.SubElement(code, com_ns('Name'), {lang_ns: language})
+                    name.text = translations[language][key][code_id]
+
+export_filename = os.path.join('public', 'dsd-exported.xml')
+tree.write(export_filename, encoding='utf-8', xml_declaration=True)
