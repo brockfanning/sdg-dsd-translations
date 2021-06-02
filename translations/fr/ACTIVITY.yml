@@ -1,1 +1,33 @@
-{}
+_T: Pas de ventilation
+ISIC4_U: Activités des organisations et organismes extraterritoriaux
+ISIC4_T: Activités des ménages en tant qu'employeurs ; activités indifférenciées des
+  ménages en tant que producteurs de biens et services pour usage propre
+ISIC4_S: Autres activités de services
+ISIC4_R: Arts, divertissements et loisirs
+ISIC4_Q: Activités de santé humaine et d'action sociale
+ISIC4_P: Éducation
+ISIC4_O: Administration publique et défense ; sécurité sociale obligatoire
+ISIC4_N: Activités de services administratifs et de soutien
+ISIC4_M: Activités professionnelles, scientifiques et techniques
+ISIC4_L: Activités immobilières
+ISIC4_K: Activités financières et d'assurance
+ISIC4_J: Information et communication
+ISIC4_I: Hébergement et restauration
+ISIC4_H: Transport et stockage
+ISIC4_GTS_HH: Services et activités des ménages
+ISIC4_GTS: Services
+ISIC4_G: Commerce de gros et de détail ; réparation de véhicules automobiles et de
+  motocycles
+ISIC4_F: Construction
+ISIC4_E: Approvisionnement en eau ; assainissement, gestion des déchets et activités
+  de dépollution
+ISIC4_D: Fourniture d'électricité, de gaz, de vapeur et d'air conditionné
+ISIC4_C10T32X19: Fabrication, à l'exclusion du coke et des produits pétroliers raffinés,
+  et réparation et installation de machines et d'équipements
+ISIC4_C: Paramètres des outils de fabrication
+ISIC4_BTU: Non-agriculture
+ISIC4_BTFXE: Industries
+ISIC4_B: Mines et carrières
+ISIC4_A: Agriculture, sylviculture et pêche
+HH: Activités des ménages
+ACTIVITY: Activité économique
