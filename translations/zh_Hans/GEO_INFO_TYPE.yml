@@ -1,1 +1,5 @@
-{}
+KML_2_2: KML 2.2版
+GeoJSON_1_1: GeoJSON 1.0版
+GMLJP2: 用于地理图像的JPEG 2000中的GML
+GML: 地理标记语言
+GEO_INFO_TYPE: 地理信息类型
