@@ -1,1 +1,256 @@
-{}
+SUD_OPIOIDS: "Trouble lié à l'utilisation de substances : Opioïdes"
+SUD_COCAINE: "Trouble lié à l'usage de substances : cocaïne"
+SUD_CANNABIS: "Trouble lié à l'usage de substances : Cannabis"
+SUD_ATS: "Trouble lié à l'usage de substances : stimulants de type amphétamine (STA)"
+SUD_ALCOHOL: "Trouble lié à l'usage de substances : alcool"
+SPAR_13: "Rapport annuel de l'État partie : Urgences radiologiques "
+SPAR_12: "Rapport annuel de l'État partie : événements chimiques "
+SPAR_11: "Rapport annuel de l'État partie : points d'entrée "
+SPAR_10: "Rapport annuel de l'État partie : Communication des risques "
+SPAR_09: "Rapport annuel de l'État partie : Prestation de services de santé "
+SPAR_08: "Rapport annuel de l'État partie : Cadre national d'urgence sanitaire "
+SPAR_07: "Rapport annuel de l'État partie : ressources humaines "
+SPAR_06: "Rapport annuel de l'État partie : Surveillance "
+SPAR_05: "Rapport annuel de l'État partie : Laboratoire "
+SPAR_04: "Rapport annuel de l'État partie : Sécurité sanitaire des aliments "
+SPAR_03: "Rapport annuel de l'État partie : événements zoonotiques et interface homme-animal "
+SPAR_02: "Rapport annuel de l'État partie : coordination RSI et fonctions des points\
+  \ focaux nationaux RSI "
+SPAR_01: "Rapport annuel de l'État partie : Législation et financement"
+SKILL_READ: 'Compétence : Lecture'
+SKILL_NMRCY: 'Compétence : Calcul fonctionnel'
+SKILL_MATH: 'Compétence : Mathématiques'
+SKILL_LTRCY: 'Compétence : Alphabétisation fonctionnelle'
+SKILL_ICTTRFF: "Compétence : TIC Compétence : Transférer des fichiers entre un ordinateur\
+  \ et d'autres appareils"
+SKILL_ICTSSHT: 'Compétence : TIC Compétence : Utiliser une formule arithmétique de
+  base dans une feuille de calcul'
+SKILL_ICTSFWR: 'Compétence : TIC Compétence : Trouver, télécharger, installer et configurer
+  des logiciels'
+SKILL_ICTPST: 'Compétence : TIC Compétence : Créer des présentations électroniques
+  avec un logiciel de présentation'
+SKILL_ICTPRGM: "Compétence : TIC Compétence : Écrire un programme informatique à l'aide\
+  \ d'un langage de programmation spécialisé"
+SKILL_ICTCPT: 'Compétence : Compétence TIC : Utiliser des outils de copier-coller
+  pour dupliquer ou déplacer des informations dans un document'
+SKILL_ICTCMFL: 'Compétence : TIC Compétence : Copier ou déplacer un fichier ou un
+  dossier'
+SKILL_ICTCDV: 'Compétence : Compétence TIC : connecter et installer de nouveaux appareils'
+SKILL_ICTATCH: "Compétence : TIC Compétence : Envoi d'e-mails avec fichiers joints"
+RO_THIRD: 'Ordinal du rapport : troisième'
+RO_SIXTH: 'Ordinal du rapport : sixième'
+RO_SEVENTH: 'Ordinal du rapport : septième'
+RO_SECOND: Ordinal du rapport : deuxième
+RO_FOURTH: 'Ordinal du rapport : quatrième'
+RO_FIRST: Rapport Ordinal : Premier
+RO_FIFTH: 'Ordinal du rapport : cinquième'
+POL_VOLSRG: "Instruments politiques : régimes volontaires et d'autorégulation (par\
+  \ exemple, partenariats sectoriels, codes de conduite, initiatives de RSE)"
+POL_REGLEG: "Instruments politiques : instruments réglementaires et juridiques (par\
+  \ exemple, lois, normes, mesures d'application)"
+POL_MACRO: Instruments politiques : politiques macroéconomiques (par exemple, stratégies/plans
+  d'action nationaux, nouvelles institutions/entités)
+POL_ECONFIS: 'Instruments politiques : Instruments économiques et fiscaux (taxes et
+  incitations fiscales, subventions, prêts préférentiels, etc.)'
+PD_6: Domaine de politique 6. Migration sûre, ordonnée et régulière
+PD_5: Domaine politique 5. Dimensions de mobilité des crises
+PD_4: Domaine politique 4. Bien-être socio-économique
+PD_3: Domaine politique 3. Coopération et partenariats
+PD_2: Domaine politique 2. Politiques pangouvernementales/basées sur des données probantes
+PD_1: Domaine de politique 1. Droits des migrants
+PC_HUM_RIGH: "Commission parlementaire : Droits de l'Homme"
+PC_HR_GEQU: "Commission parlementaire : Droits de l'homme et égalité des genres"
+PC_GEN_EQU: 'Commission parlementaire : Égalité des genres'
+PC_FOR_AFF: 'Commission parlementaire : Affaires étrangères'
+PC_FINANCE: 'Commission parlementaire : Finances'
+PC_FAFF_DEF_HR: "Commission parlementaire : Affaires étrangères, Défense et Droits\
+  \ de l'Homme"
+PC_FAFF_DEF_FIN: 'Commission parlementaire : Affaires étrangères, Défense et Finances'
+PC_FAFF_DEF: 'Commission parlementaire : Affaires étrangères et Défense'
+PC_DEFENCE: 'Commission parlementaire : Défense'
+NCD_NCOM: 'Maladie non transmissible : maladie cardiovasculaire, cancer, diabète ou
+  maladie respiratoire chronique'
+NCD_DIABTS: 'Maladie non transmissible : diabète'
+NCD_CRESPD: 'Maladie non transmissible : Maladie respiratoire chronique'
+NCD_CNCR: 'Maladie non transmissible : Cancer'
+NCD_CARDIO: 'Maladie non transmissible : Maladie cardiovasculaire'
+MS_NONEUMIGRANT: 'Statut de migrant : migrant hors UE'
+MS_NOMIGRANT: 'Statut de migrant : Non migrant'
+MS_MIGRANT: 'Statut de migrant : migrant'
+MS_EUMIGRANT: "Statut de migrant : migrant de l'UE"
+MOT_SEA: 'Mode de transport : Maritime'
+MOT_ROA: 'Mode de transport : Route'
+MOT_RAI: 'Mode de transport : ferroviaire'
+MOT_IWW: 'Mode de transport : Transport fluvial'
+MOT_AIR: 'Mode de transport : Aérien'
+LOR_MINIMUM: "Niveau d'exigence : Minimum"
+LOR_ADVANCED: "Niveau d'exigence : Avancé"
+IS_GE10M: 'Vitesse Internet : 10 Mbit/s ou plus'
+IS_2MT10M: 'Débit Internet : 2 Mbit/s à moins de 10 Mbit/s'
+IS_256KT2M: 'Débit Internet : 256 kbit/s à moins de 2 Mbit/s'
+IO_WTO: 'Organisation internationale : Organisation mondiale du commerce'
+IO_UNSC: "Organisation internationale : Conseil de sécurité de l'ONU"
+IO_UNGA: 'Organisation internationale : Assemblée générale des Nations Unies'
+IO_IMF: 'Organisation internationale : Fonds monétaire international'
+IO_IFC: 'Organisation internationale : Société financière internationale'
+IO_IBRD: 'Organisation internationale : Banque internationale pour la reconstruction
+  et le développement'
+IO_IADB: 'Organisation internationale : Banque interaméricaine de développement'
+IO_FSB: 'Organisation internationale : Conseil de stabilité financière'
+IO_ECOSOC: 'Organisation internationale : Conseil économique et social des Nations
+  Unies'
+IO_AFDB: 'Organisation internationale : Banque africaine de développement'
+IO_ADB: 'Organisation internationale : Banque asiatique de développement'
+IHR_13: 'Capacité RSI : Urgences radionucléaires'
+IHR_12: 'Capacité RSI : événements chimiques'
+IHR_11: 'Capacité RSI : Sécurité alimentaire'
+IHR_10: 'Capacité RSI : Événements zoonotiques'
+IHR_09: "Capacité RSI : points d'entrée"
+IHR_08: 'Capacité RSI : Laboratoire'
+IHR_07: 'Capacité RSI : Ressources humaines'
+IHR_06: 'Capacité RSI : Communication des risques'
+IHR_05: 'Capacité RSI : Préparation'
+IHR_04: 'Capacité RSI : Réponse'
+IHR_03: 'Capacité RSI : Surveillance'
+IHR_02: 'Capacité RSI : Coordination et communications avec les points focaux nationaux'
+IHR_01: 'Capacité RSI : législation, politique et financement nationaux'
+HZT_WNDST: 'Type de danger : tempête de vent'
+HZT_WLDFR: 'Type de danger : Feu de forêt'
+HZT_VOLER: 'Type de danger : éruption volcanique'
+HZT_TSUNM: Type de danger : Tsunami
+HZT_TORND: 'Type de danger : tornade'
+HZT_TECHH: 'Type de danger : Danger technologique'
+HZT_SUBSD: 'Type de danger : Affaissement'
+HZT_STUCK: 'Type de danger : coincé'
+HZT_STORM: 'Type de danger : tempête'
+HZT_STCOL: 'Type de danger : effondrement structurel'
+HZT_SNSTM: 'Type de danger : tempête de neige'
+HZT_SEDMN: 'Type de danger : sédimentation'
+HZT_SANDS: 'Type de danger : tempête de sable'
+HZT_POLUT: 'Type de danger : Pollution'
+HZT_PLGUE: 'Type de danger : Peste'
+HZT_PESTX: 'Type de danger : Ravageur'
+HZT_PEATX: 'Type de danger : tourbe'
+HZT_PANIC: 'Type de danger : panique'
+HZT_OTHER: 'Type de danger : Autre'
+HZT_NUCIN: 'Type de danger : incident nucléaire'
+HZT_LNDSL: 'Type de danger : glissement de terrain'
+HZT_LNDRG: 'Type de danger : Dégradation des terres'
+HZT_LIQFN: 'Type de danger : liquéfaction'
+HZT_LAHAR: 'Type de danger : Lahar'
+HZT_INTOX: 'Type de danger : Intoxication'
+HZT_INFET: "Type de danger : Infestation d'insectes"
+HZT_HEVRN: 'Type de danger : fortes pluies'
+HZT_HETWA: 'Type de danger : Vague de chaleur'
+HZT_HAILS: 'Type de danger : tempête de grêle'
+HZT_GLCFL: 'Type de danger : inondation du lac glaciaire'
+HZT_FRZRN: 'Type de danger : pluie verglaçante'
+HZT_FROST: 'Type de danger : Gel'
+HZT_FOGXX: 'Type de danger : Brouillard'
+HZT_FLSFL: 'Type de danger : crue éclair'
+HZT_FLOOD: 'Type de danger : inondation'
+HZT_FIREX: 'Type de danger : Incendie'
+HZT_EXTEM: 'Type de danger : température extrême'
+HZT_EXPLN: 'Type de danger : Explosion'
+HZT_ERQAK: 'Type de danger : tremblement de terre'
+HZT_EROSN: 'Type de danger : érosion'
+HZT_EPIZT: 'Type de danger : épizootique'
+HZT_EPIDM: 'Type de danger : épidémies'
+HZT_ELEST: 'Type de danger : tempête électrique'
+HZT_DZUD: 'Type de danger : Dzud'
+HZT_DROUG: 'Type de danger : Sécheresse'
+HZT_DFRST: 'Type de danger : Déforestation'
+HZT_CYCLN: 'Type de danger : Cyclone'
+HZT_CSOLD: 'Type de danger : Consolider'
+HZT_COSFL: 'Type de danger : inondation côtière'
+HZT_COSER: 'Type de danger : érosion côtière'
+HZT_CONTM: 'Type de danger : Contamination'
+HZT_COLDW: 'Type de danger : Vague de froid'
+HZT_CHESP: 'Type de danger : déversement de produits chimiques'
+HZT_BIOGL: 'Type de danger : biologique'
+HZT_AVALE: 'Type de danger : Avalanche'
+HZT_ANIAK: "Type de danger : attaque d'animaux"
+HZT_ALLUV: 'Type de danger : Alluvion'
+HZT_ACIDT: 'Type de danger : Accident'
+HZT_ACIDR: 'Type de danger : pluie acide'
+GRD_WEDLOCK: 'Motifs de discrimination : né hors mariage'
+GRD_WEALTH: 'Motifs de discrimination : situation de fortune'
+GRD_SOCIOECON: 'Motifs de discrimination : statut socio-économique'
+GRD_SEXOGENID: 'Motifs de discrimination : orientation sexuelle et identité de genre'
+GRD_SEXO: 'Motifs de discrimination : orientation sexuelle'
+GRD_SEX: 'Motifs de discrimination : sexe'
+GRD_RES: 'Motifs de discrimination : Lieu de résidence'
+GRD_RELIGION: 'Motifs de discrimination : Religion'
+GRD_RACE: 'Motifs de discrimination : Race'
+GRD_PREGY: 'Motifs de discrimination : Grossesse'
+GRD_POLVIEW: 'Motifs de discrimination : Opinion politique'
+GRD_OTHER: 'Motifs de discrimination : Autre'
+GRD_MIG: 'Motifs de discrimination : Statut migratoire'
+GRD_MARFAM: 'Motifs de discrimination : Situation matrimoniale et familiale'
+GRD_MAR: 'Motifs de discrimination : état civil'
+GRD_LANDIA: 'Motifs de discrimination : Langue ou dialecte'
+GRD_GEO: 'Motifs de discrimination : Situation géographique'
+GRD_GENID: 'Motifs de discrimination : Identité de genre'
+GRD_FAM: 'Motifs de discrimination : Situation familiale'
+GRD_ETHCOLLANNAL: 'Motifs de discrimination : Ethnicité, couleur, langue, nationalité'
+GRD_ETHCOLLAN: 'Motifs de discrimination : origine ethnique, couleur, langue'
+GRD_ETH: 'Motifs de discrimination : ethnique'
+GRD_EDU: 'Motifs de discrimination : Éducation'
+GRD_DISHEA: 'Motifs de discrimination : Handicap ou état de santé'
+GRD_AGE: 'Motifs de discrimination : Âge'
+FWS_RTL: 'Secteur des déchets alimentaires : Commerce de détail'
+FWS_OOHC: 'Filière Déchets Alimentaires : Consommation Hors Domicile'
+FWS_MNFC: 'Secteur des déchets alimentaires : fabrication'
+FWS_HHS: Secteur des déchets alimentaires : ménages
+FIS_PREFIS_INC: "Étape d'intervention fiscale : Recettes préfiscales"
+FIS_POSTFIS_DIS_INC: "Étape d'intervention fiscale : Revenu disponible post-fiscal"
+FIS_POSTFIS_CON_INC: "Étape de l'intervention fiscale : Revenu consommable post-fiscal"
+FCC_M: 'Fréquence de concentration de chlorophylle-a : modérée'
+FCC_H: 'Fréquence de la concentration de chlorophylle-a : élevée'
+FCC_E: 'Fréquence de concentration de chlorophylle-a : Extrême'
+ELV_6: Élévation de 300 à 1 000 mètres et plage d'élévation locale (rayon de 7 kilomètres)
+  > 300 mètres
+ELV_5: Altitude 1.000 à 1.500 mètres et pente > 5 ou plage d'altitude locale (LER
+  7 kilomètres de rayon) > 300 mètres
+ELV_4: Altitude 1.500-2.500 mètres et pente > 2
+ELV_3: Altitude 2.500-3.500 mètres
+ELV_2: Altitude 3.500-4.500 mètres
+ELV_1: Altitude > 4.500 mètres
+DEG_VLOW: 'Degré : Niveau très bas'
+DEG_VHIG: 'Diplôme : Très haut niveau'
+DEG_MLOW: 'Diplôme : niveau moyen-bas'
+DEG_MHIG: 'Diplôme : Niveau moyen-élevé'
+DEG_LOW: 'Diplôme : Niveau bas'
+DEG_HIG: 'Diplôme : Haut niveau'
+COMPOSITE_BREAKDOWN: Répartition composite
+COD_U: 'Cause du décès : inconnue'
+COD_SMALLARMS: 'Cause du décès : Armes légères et de petit calibre'
+COD_OTHER: Incendiaire; Chimique, biologique, radiologique, nucléaire (CBRN); Armes
+  électromagnétiques; Armes moins meurtrières ; Refus d'accès/destruction des objets
+  indispensables à la survie ; Accidents liés à un conflit ; Utilisation d'objets
+  et d'autres moyens ; Plusieurs armes utilisées.
+COD_HEAVYWEAPONS: 'Cause de la mort : Armes lourdes et munitions explosives'
+COD_EXPLOSIVES: 'Cause du décès : Explosifs plantés et munitions non explosées (UXO)'
+ABT2_NOPROG: "Statut ABT2 : L'objectif national reflétant l'ABT2 existe, mais aucun\
+  \ progrès"
+ABT2_NONTLT: "Statut ABT2 : Pas d'objectif national reflétant ABT 2"
+ABT2_INSUFNT: "Statut ABT2 : L'objectif national reflétant l'ABT2 existe et les progrès\
+  \ sont là, mais à un rythme tout aussi insuffisant"
+ABT2_EXCEED: "Statut ABT2 : L'objectif national reflétant l'ABT2 existe et les progrès\
+  \ sont en passe de le dépasser"
+ABT2_DIGRESS: "Statut ABT2 : La cible nationale reflétant l'ABT2 existe, mais s'en\
+  \ éloigne"
+ABT2_ACHIEVE: "Statut ABT2 : L'objectif national reflétant l'ABT2 existe et les progrès\
+  \ sont en bonne voie pour l'atteindre"
+_T: Pas de ventilation
+WT_RECYCL: 'Traitement des déchets : Recyclage'
+WT_OTHERWM: 'Traitement des déchets : Autre type de gestion des déchets'
+WT_LANDFILNCTL: 'Traitement des déchets : Enfouissement, non contrôlé'
+WT_LANDFILCTL: 'Traitement des déchets : Enfouissement, contrôlé'
+WT_LANDFIL: 'Traitement des déchets : Enfouissement'
+WT_INCINRT: 'Traitement des déchets : Incinération'
+WT_COMPOST: 'Traitement des déchets : Compostage'
+TOS_OTHER: 'Type de soutien : Autre'
+TOS_MITIGATION: 'Type de soutien : Atténuation'
+TOS_CROSS_CUTTING: 'Type de support : Transversal'
+TOS_ADAPTATION: "Type d'accompagnement : Adaptation"
