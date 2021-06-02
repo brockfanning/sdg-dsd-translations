@@ -1,1 +1,11 @@
-{}
+_T: Total (media nacional) o sin desglose
+R60: El 60% más rico
+R50: El 50% más rico
+Q5: Quintil 5 (más rico)
+Q4: Quintil 4
+Q3: Quintil 3
+Q2: Quintil 2
+Q1: Quintil 1 (más pobre)
+INCOME_WEALTH_QUANTILE: Cuantil de renta o riqueza
+B50: El 50% inferior
+B40: El 40% inferior
