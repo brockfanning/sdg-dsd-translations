@@ -1,1 +1,30 @@
-{}
+_T: Pas de ventilation
+PRODUCT: Type de produit
+MF_AGG3B: Minéraux non métalliques - dominante industrielle ou agricole (flux de matières)
+MF_AGG3A: Minéraux non métalliques - construction dominante (flux de matériaux)
+MF422: Gaz naturel (flux de matières)
+MF421: Pétrole (flux de matières)
+MF413: Schiste bitumineux et sables bitumineux (flux de matières)
+MF41: Charbon (flux de matières)
+MF4: Combustibles fossiles (flux de matières)
+MF3: Minéraux non métalliques (flux de matières)
+MF22: Minerais non ferreux (flux de matières)
+MF21: Minerais ferreux (flux de matières)
+MF2: Minerais métalliques (flux de matières)
+MF14: Captures et récoltes sauvages (flux de matières)
+MF13: Bois (flux de matières)
+MF122: Biomasse pâturée et cultures fourragères (flux de matières)
+MF121: Résidus de récoltes (flux de matières)
+MF11: Cultures (flux de matières)
+MF1: Biomasse (flux de matières)
+CPC2_1_118: Millet
+CPC2_1_114: Sorgho
+CPC2_1_113: Riz
+CPC2_1_112: Maïs
+CPC2_1_111: Blé
+AGG_TXT: Textiles
+AGG_OIL: Pétrole
+AGG_IND: Produits industriels
+AGG_CLTH: Habits
+AGG_ARMS: Bras
+AGG_AGR: Produits agricoles
