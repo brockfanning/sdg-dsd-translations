@@ -1,1 +1,32 @@
-{}
+'-11': Cent milliardièmes
+'-10': Dix milliardièmes
+'-1': Dixièmes
+UNIT_MULT: Multiplicateur d'unités
+'9': Milliards
+'8': Des centaines de millions
+'7': Des dizaines de millions
+'6': Millions
+'5': Des centaines de milliers
+'4': Des dizaines de milliers
+'3': Milliers
+'2': Des centaines de personnes
+'15': Billiard
+'14': Des centaines de trillions
+'13': Des dizaines de trillions
+'12': Trillions
+'11': Des centaines de milliards
+'10': Des dizaines de milliards
+'1': Tens
+'0': Unités
+'-9': Milliards
+'-8': Cent-millionièmes
+'-7': Dix-millionièmes
+'-6': Millionièmes
+'-5': Cent-millièmes
+'-4': Dix-millièmes
+'-3': Millièmes
+'-2': Centièmes
+'-15': Quadrillionièmes
+'-14': Cent trillionièmes
+'-13': Dix trillionièmes
+'-12': Trillionièmes
