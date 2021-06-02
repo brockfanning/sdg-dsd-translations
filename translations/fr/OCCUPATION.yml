@@ -1,1 +1,44 @@
-{}
+_T: Toutes les professions ou aucune ventilation par profession
+OCCUPATION: Profession
+ISCO88_X: Non classé ailleurs
+ISCO88_9: Professions élémentaires
+ISCO88_8: Opérateurs et monteurs d'installations et de machines
+ISCO88_7: Artisans et travailleurs des métiers connexes
+ISCO88_6: Travailleurs qualifiés de l'agriculture et de la pêche
+ISCO88_5: Travailleurs des services et vendeurs de magasins et de marchés
+ISCO88_4: Greffiers
+ISCO88_3: Techniciens et professionnels associés
+ISCO88_223: Professionnels des soins infirmiers et des sages-femmes
+ISCO88_2224: Pharmaciens
+ISCO88_2222: Dentistes
+ISCO88_2221: Médecins
+ISCO88_2: Pro
+ISCO88_1: Législateurs, hauts fonctionnaires et gestionnaires
+ISCO88_0: Forces armées
+ISCO68_X: Non classé ailleurs
+ISCO68_AF: Forces armées
+ISCO68_7-9: Ouvriers de production et assimilés, conducteurs de matériel de transport
+  et manœuvres
+ISCO68_6: Travailleurs de l'agriculture, de l'élevage et de la sylviculture, pêcheurs
+  et chasseurs
+ISCO68_5: Travailleurs de service
+ISCO68_4: Vendeurs
+ISCO68_3: Employés de bureau et personnel assimilé
+ISCO68_2: Personnel administratif et de direction
+ISCO68_0-1: Travailleurs professionnels, techniques et assimilés
+ISCO08_X: Non classé ailleurs
+ISCO08_9: Professions élémentaires
+ISCO08_8: Conducteurs d'installations et de machines, et monteurs
+ISCO08_7: Artisans et travailleurs des métiers connexes
+ISCO08_6: Travailleurs qualifiés de l'agriculture, de la sylviculture et de la pêche
+ISCO08_5: Personnel de service et de vente
+ISCO08_4: Employés de soutien administratif
+ISCO08_3: Techniciens et professionnels associés
+ISCO08_2262: Pharmaciens
+ISCO08_2261: Dentistes
+ISCO08_222_322: Personnel infirmier et sages-femmes
+ISCO08_2221_3221: Personnel infirmier
+ISCO08_221: Médecins
+ISCO08_2: Pro
+ISCO08_1: Responsables
+ISCO08_0: Professions des forces armées
