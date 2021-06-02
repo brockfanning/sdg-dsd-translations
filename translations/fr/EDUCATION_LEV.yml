@@ -1,1 +1,60 @@
-{}
+_T: Ventilation totale ou pas par niveau d'éducation
+ISCED97_6: Deuxième cycle de l'enseignement supérieur (conduisant à un diplôme de
+  recherche avancée)
+ISCED97_5B: Premier cycle de l'enseignement supérieur (pratique/technique/professionnel)
+ISCED97_5A: Premier stade de l'enseignement supérieur (fondé sur la théorie/préparatoire
+  à la recherche)
+ISCED97_5: Premier cycle de l'enseignement supérieur (ne conduisant pas directement
+  à un diplôme de recherche avancée)
+ISCED97_4: Enseignement post-secondaire non-tertiaire
+ISCED97_3: Enseignement secondaire supérieur
+ISCED97_2: Premier cycle de l'enseignement secondaire ou deuxième cycle de l'enseignement
+  de base
+ISCED97_1: Enseignement primaire ou premier cycle de l'enseignement de base
+ISCED97_0: Enseignement pré-primaire
+ISCED11_99: Non classé ailleurs
+ISCED11_9: Non classé ailleurs
+ISCED11_8: Doctorat ou niveau équivalent
+ISCED11_7: Maîtrise ou niveau équivalent
+ISCED11_6: Baccalauréat ou niveau équivalent
+ISCED11_55: Enseignement professionnel tertiaire à cycle court
+ISCED11_54: Enseignement général tertiaire à cycle court
+ISCED11_5: Enseignement supérieur à cycle court
+ISCED11_45: Enseignement professionnel post-secondaire non tertiaire
+ISCED11_44: Enseignement général post-secondaire non-tertiaire
+ISCED11_4: Enseignement post-secondaire non-tertiaire
+ISCED11_35: Enseignement secondaire supérieur professionnel
+ISCED11_34: Enseignement secondaire supérieur général
+ISCED11_3: Enseignement secondaire supérieur
+ISCED11_25_35_45: Enseignement secondaire professionnel
+ISCED11_25: Enseignement secondaire inférieur professionnel
+ISCED11_24: Enseignement secondaire inférieur général
+ISCED11_2: Enseignement secondaire inférieur
+ISCED11_10: Enseignement primaire
+ISCED11_1: Enseignement primaire
+ISCED11_02: Enseignement pré-primaire
+ISCED11_01: Développement éducatif de la petite enfance
+ISCED11_0: Éducation de la petite enfance
+ISCED11A_8: Doctorat ou niveau équivalent, suffisant pour l'achèvement du niveau.
+ISCED11A_7: Maîtrise ou niveau équivalent, suffisant pour l'achèvement du niveau.
+ISCED11A_6: Baccalauréat ou niveau équivalent, suffisant pour l'achèvement du niveau
+ISCED11A_5: Enseignement tertiaire à cycle court, suffisant pour l'obtention d'un
+  niveau d'études.
+ISCED11A_4: Enseignement post-secondaire non tertiaire, suffisant pour achever un
+  niveau d'études.
+ISCED11A_3: Enseignement secondaire supérieur, suffisant pour compléter le niveau
+ISCED11A_2: Enseignement secondaire inférieur, suffisant pour achever un niveau
+ISCED11A_1: Enseignement primaire, suffisant pour achever un niveau
+ISCED11A_0_G23: Enseignement primaire partiel, 2e ou 3e année
+ISCED11A_03: Un peu d'éducation primaire
+ISCED11A_02: Une partie de l'éducation de la petite enfance
+ISCED11A_01: N'a jamais suivi de programme d'éducation / Pas de scolarité
+ISCED11A_0: Moins que l'enseignement primaire
+EDUCATION_LEV: Niveau d'éducation
+AGG_5T8: Enseignement tertiaire
+AGG_3_4: Enseignement secondaire et post-secondaire non tertiaire (intermédiaire)
+AGG_2_3: Enseignement secondaire (enseignement secondaire inférieur et supérieur)
+AGG_1_2: Enseignement primaire et secondaire inférieur (éducation de base)
+AGG_1T3: Enseignement primaire et secondaire
+AGG_02T8: De l'enseignement préprimaire à l'enseignement supérieur
+AGGA_01_02: Pas de scolarité primaire
