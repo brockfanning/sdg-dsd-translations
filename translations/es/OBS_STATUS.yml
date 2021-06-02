@@ -1,1 +1,21 @@
-{}
+W: Incluye datos de otra categoría
+V: Valor no validado
+U: Baja fiabilidad
+S: Huelga y otros eventos especiales
+Q: Valor perdido; suprimido
+P: Valor provisional
+OBS_STATUS: Estado de observación
+O: Valor perdido
+N: No es significativo
+M: Valor ausente; los datos no pueden existir
+L: Valor ausente; los datos existen pero no se recogieron
+K: Datos incluidos en otra categoría
+J: Excepción
+I: Valor imputado (definición CCSA)
+H: Valor ausente; vacaciones o fin de semana
+G: Valor experimental
+F: Valor previsto
+E: Valor estimado
+D: La definición difiere
+B: Ruptura de la serie temporal
+A: Valor normal
