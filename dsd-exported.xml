@@ -25646,203 +25646,203 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="CON_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).CON_USD">
                     <com:Name xml:lang="en">Constant USD</com:Name>
                     <com:Description xml:lang="en">Constant USD</com:Description>
-                <com:Name xml:lang="fr">USD constant</com:Name><com:Name xml:lang="es">USD constantes</com:Name><com:Name xml:lang="zh_Hans">恒定美元</com:Name><com:Name xml:lang="ru">Постоянный доллар США</com:Name></str:Code>
+                <com:Name xml:lang="fr">USD constant</com:Name><com:Name xml:lang="es">USD constantes</com:Name><com:Name xml:lang="zh_Hans">恒定美元</com:Name><com:Name xml:lang="ru">Постоянный доллар США</com:Name><com:Name xml:lang="ar">ثابت بالدولار الأمريكي</com:Name></str:Code>
                 <str:Code id="HA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).HA">
                     <com:Name xml:lang="en">Hectares</com:Name>
                     <com:Description xml:lang="en">Hectares</com:Description>
-                <com:Name xml:lang="fr">Hectares</com:Name><com:Name xml:lang="es">Hectáreas</com:Name><com:Name xml:lang="zh_Hans">公顷</com:Name><com:Name xml:lang="ru">Гектары</com:Name></str:Code>
+                <com:Name xml:lang="fr">Hectares</com:Name><com:Name xml:lang="es">Hectáreas</com:Name><com:Name xml:lang="zh_Hans">公顷</com:Name><com:Name xml:lang="ru">Гектары</com:Name><com:Name xml:lang="ar">هكتار</com:Name></str:Code>
                 <str:Code id="IX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).IX">
                     <com:Name xml:lang="en">Index</com:Name>
                     <com:Description xml:lang="en">Index</com:Description>
-                <com:Name xml:lang="fr">Index</com:Name><com:Name xml:lang="es">Indice</com:Name><com:Name xml:lang="zh_Hans">目录</com:Name><com:Name xml:lang="ru">Содержание</com:Name></str:Code>
+                <com:Name xml:lang="fr">Index</com:Name><com:Name xml:lang="es">Indice</com:Name><com:Name xml:lang="zh_Hans">目录</com:Name><com:Name xml:lang="ru">Содержание</com:Name><com:Name xml:lang="ar">صفحة الفهرس</com:Name></str:Code>
                 <str:Code id="KG_CO2_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_CO2_PER_GDP_CON_PPP_USD">
                     <com:Name xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</com:Name>
                     <com:Description xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</com:Description>
-                <com:Name xml:lang="fr">kg d'équivalent CO2 par USD1 PIB PPA constant</com:Name><com:Name xml:lang="es">kg de CO2 equivalente por 1 USD de PIB PPA constante</com:Name><com:Name xml:lang="zh_Hans">每1美元恒定购买力平价国内生产总值的公斤二氧化碳当量</com:Name><com:Name xml:lang="ru">кг CO2-эквивалента на 1 доллар США постоянного ВВП по ППС</com:Name></str:Code>
+                <com:Name xml:lang="fr">kg d'équivalent CO2 par USD1 PIB PPA constant</com:Name><com:Name xml:lang="es">kg de CO2 equivalente por 1 USD de PIB PPA constante</com:Name><com:Name xml:lang="zh_Hans">每1美元恒定购买力平价国内生产总值的公斤二氧化碳当量</com:Name><com:Name xml:lang="ru">кг CO2-эквивалента на 1 доллар США постоянного ВВП по ППС</com:Name><com:Name xml:lang="ar">كجم من مكافئ ثاني أكسيد الكربون لكل دولار أمريكي واحد من إجمالي الناتج المحلي الثابت على أساس تعادل القوة الشرائية</com:Name></str:Code>
                 <str:Code id="KG_OE_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_OE_PER_GDP_CON_PPP_USD">
                     <com:Name xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</com:Name>
                     <com:Description xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</com:Description>
-                <com:Name xml:lang="fr">kg d'équivalent pétrole par 1 000 USD de PIB PPA constant</com:Name><com:Name xml:lang="es">kg de equivalente de petróleo por 1.000 USD de PIB constante en PPA</com:Name><com:Name xml:lang="zh_Hans">每1,000美元固定购买力平价GDP的公斤油当量</com:Name><com:Name xml:lang="ru">кг нефтяного эквивалента на 1000 долларов США постоянного ВВП по ППС</com:Name></str:Code>
+                <com:Name xml:lang="fr">kg d'équivalent pétrole par 1 000 USD de PIB PPA constant</com:Name><com:Name xml:lang="es">kg de equivalente de petróleo por 1.000 USD de PIB constante en PPA</com:Name><com:Name xml:lang="zh_Hans">每1,000美元固定购买力平价GDP的公斤油当量</com:Name><com:Name xml:lang="ru">кг нефтяного эквивалента на 1000 долларов США постоянного ВВП по ППС</com:Name><com:Name xml:lang="ar">كيلو جرام من المكافئ النفطي لكل 1000 دولار أمريكي من الناتج المحلي الإجمالي الثابت على أساس تعادل القوة الشرائية</com:Name></str:Code>
                 <str:Code id="KG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG">
                     <com:Name xml:lang="en">Kilograms</com:Name>
                     <com:Description xml:lang="en">Kilograms</com:Description>
-                <com:Name xml:lang="fr">Kilogrammes</com:Name><com:Name xml:lang="es">Kilogramos</com:Name><com:Name xml:lang="zh_Hans">千克</com:Name><com:Name xml:lang="ru">Килограммы</com:Name></str:Code>
+                <com:Name xml:lang="fr">Kilogrammes</com:Name><com:Name xml:lang="es">Kilogramos</com:Name><com:Name xml:lang="zh_Hans">千克</com:Name><com:Name xml:lang="ru">Килограммы</com:Name><com:Name xml:lang="ar">كيلوغرام</com:Name></str:Code>
                 <str:Code id="KG_PER_CON_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_PER_CON_USD">
                     <com:Name xml:lang="en">Kilograms per constant USD</com:Name>
                     <com:Description xml:lang="en">Kilograms per constant USD</com:Description>
-                <com:Name xml:lang="fr">Kilogrammes par USD constant</com:Name><com:Name xml:lang="es">Kilogramos por dólar constante</com:Name><com:Name xml:lang="zh_Hans">每恒定美元的公斤数</com:Name><com:Name xml:lang="ru">Килограммы на постоянный доллар США</com:Name></str:Code>
+                <com:Name xml:lang="fr">Kilogrammes par USD constant</com:Name><com:Name xml:lang="es">Kilogramos por dólar constante</com:Name><com:Name xml:lang="zh_Hans">每恒定美元的公斤数</com:Name><com:Name xml:lang="ru">Килограммы на постоянный доллар США</com:Name><com:Name xml:lang="ar">كيلوغرام لكل دولار أمريكي ثابت</com:Name></str:Code>
                 <str:Code id="KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KM">
                     <com:Name xml:lang="en">Kilometers</com:Name>
                     <com:Description xml:lang="en">Kilometers</com:Description>
-                <com:Name xml:lang="fr">Kilomètres</com:Name><com:Name xml:lang="es">Kilómetros</com:Name><com:Name xml:lang="zh_Hans">千米</com:Name><com:Name xml:lang="ru">Километров</com:Name></str:Code>
+                <com:Name xml:lang="fr">Kilomètres</com:Name><com:Name xml:lang="es">Kilómetros</com:Name><com:Name xml:lang="zh_Hans">千米</com:Name><com:Name xml:lang="ru">Километров</com:Name><com:Name xml:lang="ar">كيلومترات</com:Name></str:Code>
                 <str:Code id="KM2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KM2">
                     <com:Name xml:lang="en">Square kilometers</com:Name>
                     <com:Description xml:lang="en">Square kilometers</com:Description>
-                <com:Name xml:lang="fr">Kilomètres carrés</com:Name><com:Name xml:lang="es">Kilómetros cuadrados</com:Name><com:Name xml:lang="zh_Hans">平方公里</com:Name><com:Name xml:lang="ru">Квадратные километры</com:Name></str:Code>
+                <com:Name xml:lang="fr">Kilomètres carrés</com:Name><com:Name xml:lang="es">Kilómetros cuadrados</com:Name><com:Name xml:lang="zh_Hans">平方公里</com:Name><com:Name xml:lang="ru">Квадратные километры</com:Name><com:Name xml:lang="ar">كيلومترات مربعة</com:Name></str:Code>
                 <str:Code id="LITRES_PURE_ALCOHOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).LITRES_PURE_ALCOHOL">
                     <com:Name xml:lang="en">Litres pure alcohol</com:Name>
                     <com:Description xml:lang="en">Litres pure alcohol</com:Description>
-                <com:Name xml:lang="fr">Litres d'alcool pur</com:Name><com:Name xml:lang="es">Litros de alcohol puro</com:Name><com:Name xml:lang="zh_Hans">公升纯酒精</com:Name><com:Name xml:lang="ru">Литры чистого спирта</com:Name></str:Code>
+                <com:Name xml:lang="fr">Litres d'alcool pur</com:Name><com:Name xml:lang="es">Litros de alcohol puro</com:Name><com:Name xml:lang="zh_Hans">公升纯酒精</com:Name><com:Name xml:lang="ru">Литры чистого спирта</com:Name><com:Name xml:lang="ar">لتر من الكحول النقي</com:Name></str:Code>
                 <str:Code id="CUR_LCU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).CUR_LCU">
                     <com:Name xml:lang="en">Local currency</com:Name>
                     <com:Description xml:lang="en">Local currency</com:Description>
-                <com:Name xml:lang="fr">Monnaie locale</com:Name><com:Name xml:lang="es">Moneda local</com:Name><com:Name xml:lang="zh_Hans">当地货币</com:Name><com:Name xml:lang="ru">Местная валюта</com:Name></str:Code>
+                <com:Name xml:lang="fr">Monnaie locale</com:Name><com:Name xml:lang="es">Moneda local</com:Name><com:Name xml:lang="zh_Hans">当地货币</com:Name><com:Name xml:lang="ru">Местная валюта</com:Name><com:Name xml:lang="ar">العملة المحلية</com:Name></str:Code>
                 <str:Code id="LCU_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).LCU_PPP_USD">
                     <com:Name xml:lang="en">Local currency per USD (PPP)</com:Name>
                     <com:Description xml:lang="en">Local currency per USD (PPP)</com:Description>
-                <com:Name xml:lang="fr">Monnaie locale par USD (PPA)</com:Name><com:Name xml:lang="es">Moneda local por USD (PPA)</com:Name><com:Name xml:lang="zh_Hans">每美元的当地货币(购买力平价)</com:Name><com:Name xml:lang="ru">Местная валюта на доллар США (ППС)</com:Name></str:Code>
+                <com:Name xml:lang="fr">Monnaie locale par USD (PPA)</com:Name><com:Name xml:lang="es">Moneda local por USD (PPA)</com:Name><com:Name xml:lang="zh_Hans">每美元的当地货币(购买力平价)</com:Name><com:Name xml:lang="ru">Местная валюта на доллар США (ППС)</com:Name><com:Name xml:lang="ar">العملة المحلية لكل دولار أمريكي (تعادل القوة الشرائية)</com:Name></str:Code>
                 <str:Code id="MJ_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).MJ_PER_GDP_CON_PPP_USD">
                     <com:Name xml:lang="en">Megajoules per USD constant PPP GDP</com:Name>
                     <com:Description xml:lang="en">Megajoules per USD constant PPP GDP</com:Description>
-                <com:Name xml:lang="fr">Mégajoules par USD constant PPA PIB</com:Name><com:Name xml:lang="es">Megajulios por PIB PPA constante en USD</com:Name><com:Name xml:lang="zh_Hans">每美元固定购买力平价GDP的兆焦耳数</com:Name><com:Name xml:lang="ru">Мегаджоули на доллар США постоянного ВВП по ППС</com:Name></str:Code>
+                <com:Name xml:lang="fr">Mégajoules par USD constant PPA PIB</com:Name><com:Name xml:lang="es">Megajulios por PIB PPA constante en USD</com:Name><com:Name xml:lang="zh_Hans">每美元固定购买力平价GDP的兆焦耳数</com:Name><com:Name xml:lang="ru">Мегаджоули на доллар США постоянного ВВП по ППС</com:Name><com:Name xml:lang="ar">ميغاجول لكل الناتج المحلي الإجمالي الثابت على أساس تعادل القوة الشرائية بالدولار الأمريكي</com:Name></str:Code>
                 <str:Code id="T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T">
                     <com:Name xml:lang="en">Metric Tons</com:Name>
                     <com:Description xml:lang="en">Metric Tons</com:Description>
-                <com:Name xml:lang="fr">Tonnes métriques</com:Name><com:Name xml:lang="es">Toneladas métricas</com:Name><com:Name xml:lang="zh_Hans">公吨</com:Name><com:Name xml:lang="ru">Метрические тонны</com:Name></str:Code>
+                <com:Name xml:lang="fr">Tonnes métriques</com:Name><com:Name xml:lang="es">Toneladas métricas</com:Name><com:Name xml:lang="zh_Hans">公吨</com:Name><com:Name xml:lang="ru">Метрические тонны</com:Name><com:Name xml:lang="ar">طن متري</com:Name></str:Code>
                 <str:Code id="GPERM3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).GPERM3">
                     <com:Name xml:lang="en">Micrograms per cubic meter</com:Name>
                     <com:Description xml:lang="en">Micrograms per cubic meter</com:Description>
-                <com:Name xml:lang="fr">Microgrammes par mètre cube</com:Name><com:Name xml:lang="es">Microgramos por metro cúbico</com:Name><com:Name xml:lang="zh_Hans">每立方米微克</com:Name><com:Name xml:lang="ru">Микрограммы на кубический метр</com:Name></str:Code>
+                <com:Name xml:lang="fr">Microgrammes par mètre cube</com:Name><com:Name xml:lang="es">Microgramos por metro cúbico</com:Name><com:Name xml:lang="zh_Hans">每立方米微克</com:Name><com:Name xml:lang="ru">Микрограммы на кубический метр</com:Name><com:Name xml:lang="ar">ميكروجرام لكل متر مكعب</com:Name></str:Code>
                 <str:Code id="NUMBER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).NUMBER">
                     <com:Name xml:lang="en">Number</com:Name>
                     <com:Description xml:lang="en">Number</com:Description>
-                <com:Name xml:lang="fr">Numéro</com:Name><com:Name xml:lang="es">Número</com:Name><com:Name xml:lang="zh_Hans">编号</com:Name><com:Name xml:lang="ru">Номер</com:Name></str:Code>
+                <com:Name xml:lang="fr">Numéro</com:Name><com:Name xml:lang="es">Número</com:Name><com:Name xml:lang="zh_Hans">编号</com:Name><com:Name xml:lang="ru">Номер</com:Name><com:Name xml:lang="ar">رقم</com:Name></str:Code>
                 <str:Code id="PER_USD_GDP_PPP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_USD_GDP_PPP">
                     <com:Name xml:lang="en">Per 1 USD GDP (PPP)</com:Name>
                     <com:Description xml:lang="en">Per 1 USD GDP (PPP)</com:Description>
-                <com:Name xml:lang="fr">Pour 1 USD de PIB (PPA)</com:Name><com:Name xml:lang="es">Por 1 USD de PIB (PPA)</com:Name><com:Name xml:lang="zh_Hans">每1美元国内生产总值（购买力平价）的</com:Name><com:Name xml:lang="ru">На 1 доллар ВВП (ППС)</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 1 USD de PIB (PPA)</com:Name><com:Name xml:lang="es">Por 1 USD de PIB (PPA)</com:Name><com:Name xml:lang="zh_Hans">每1美元国内生产总值（购买力平价）的</com:Name><com:Name xml:lang="ru">На 1 доллар ВВП (ППС)</com:Name><com:Name xml:lang="ar">لكل 1 دولار أمريكي من الناتج المحلي الإجمالي (تعادل القوة الشرائية)</com:Name></str:Code>
                 <str:Code id="PER_1000_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_LIVE_BIRTHS">
                     <com:Name xml:lang="en">Per 1,000 live births</com:Name>
                     <com:Description xml:lang="en">Per 1,000 live births</com:Description>
-                <com:Name xml:lang="fr">Pour 1 000 naissances vivantes</com:Name><com:Name xml:lang="es">Por cada 1.000 nacidos vivos</com:Name><com:Name xml:lang="zh_Hans">每1,000名活产婴儿</com:Name><com:Name xml:lang="ru">На 1 000 живорожденных</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 1 000 naissances vivantes</com:Name><com:Name xml:lang="es">Por cada 1.000 nacidos vivos</com:Name><com:Name xml:lang="zh_Hans">每1,000名活产婴儿</com:Name><com:Name xml:lang="ru">На 1 000 живорожденных</com:Name><com:Name xml:lang="ar">لكل 1000 ولادة حية</com:Name></str:Code>
                 <str:Code id="PER_1000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_POP">
                     <com:Name xml:lang="en">Per 1,000 population</com:Name>
                     <com:Description xml:lang="en">Per 1,000 population</com:Description>
-                <com:Name xml:lang="fr">Pour 1 000 habitants</com:Name><com:Name xml:lang="es">Por cada 1.000 habitantes</com:Name><com:Name xml:lang="zh_Hans">每1,000人</com:Name><com:Name xml:lang="ru">На 1 000 человек населения</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 1 000 habitants</com:Name><com:Name xml:lang="es">Por cada 1.000 habitantes</com:Name><com:Name xml:lang="zh_Hans">每1,000人</com:Name><com:Name xml:lang="ru">На 1 000 человек населения</com:Name><com:Name xml:lang="ar">لكل 1000 من السكان</com:Name></str:Code>
                 <str:Code id="PER_1000_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_USD">
                     <com:Name xml:lang="en">Per 1,000 USD</com:Name>
                     <com:Description xml:lang="en">Per 1,000 USD</com:Description>
-                <com:Name xml:lang="fr">Pour 1 000 USD</com:Name><com:Name xml:lang="es">Por 1.000 USD</com:Name><com:Name xml:lang="zh_Hans">每1,000美元</com:Name><com:Name xml:lang="ru">На 1 000 долларов США</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 1 000 USD</com:Name><com:Name xml:lang="es">Por 1.000 USD</com:Name><com:Name xml:lang="zh_Hans">每1,000美元</com:Name><com:Name xml:lang="ru">На 1 000 долларов США</com:Name><com:Name xml:lang="ar">لكل 1،000 دولار أمريكي</com:Name></str:Code>
                 <str:Code id="PER_1000_UNINFECTED_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_UNINFECTED_POP">
                     <com:Name xml:lang="en">Per 1,000 uninfected population</com:Name>
                     <com:Description xml:lang="en">Per 1,000 uninfected population</com:Description>
-                <com:Name xml:lang="fr">Pour 1 000 habitants non infectés</com:Name><com:Name xml:lang="es">Por cada 1.000 habitantes no infectados</com:Name><com:Name xml:lang="zh_Hans">每1,000名未受感染的人口</com:Name><com:Name xml:lang="ru">На 1 000 неинфицированного населения</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 1 000 habitants non infectés</com:Name><com:Name xml:lang="es">Por cada 1.000 habitantes no infectados</com:Name><com:Name xml:lang="zh_Hans">每1,000名未受感染的人口</com:Name><com:Name xml:lang="ru">На 1 000 неинфицированного населения</com:Name><com:Name xml:lang="ar">لكل 1000 من السكان غير المصابين</com:Name></str:Code>
                 <str:Code id="PER_100_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100_LIVE_BIRTHS">
                     <com:Name xml:lang="en">Per 100 live births</com:Name>
                     <com:Description xml:lang="en">Per 100 live births</com:Description>
-                <com:Name xml:lang="fr">Pour 100 naissances vivantes</com:Name><com:Name xml:lang="es">Por cada 100 nacidos vivos</com:Name><com:Name xml:lang="zh_Hans">每100个活产婴儿中</com:Name><com:Name xml:lang="ru">На 100 живорожденных</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 naissances vivantes</com:Name><com:Name xml:lang="es">Por cada 100 nacidos vivos</com:Name><com:Name xml:lang="zh_Hans">每100个活产婴儿中</com:Name><com:Name xml:lang="ru">На 100 живорожденных</com:Name><com:Name xml:lang="ar">لكل 100 مولود حي</com:Name></str:Code>
                 <str:Code id="PER_100_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100_POP">
                     <com:Name xml:lang="en">Per 100 population</com:Name>
                     <com:Description xml:lang="en">Per 100 population</com:Description>
-                <com:Name xml:lang="fr">Pour 100 habitants</com:Name><com:Name xml:lang="es">Por cada 100 habitantes</com:Name><com:Name xml:lang="zh_Hans">每100人中</com:Name><com:Name xml:lang="ru">На 100 человек населения</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 habitants</com:Name><com:Name xml:lang="es">Por cada 100 habitantes</com:Name><com:Name xml:lang="zh_Hans">每100人中</com:Name><com:Name xml:lang="ru">На 100 человек населения</com:Name><com:Name xml:lang="ar">لكل 100 نسمة</com:Name></str:Code>
                 <str:Code id="PER_100000_EMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_EMP">
                     <com:Name xml:lang="en">Per 100,000 employees</com:Name>
                     <com:Description xml:lang="en">Per 100,000 employees</com:Description>
-                <com:Name xml:lang="fr">Pour 100 000 employés</com:Name><com:Name xml:lang="es">Por cada 100.000 empleados</com:Name><com:Name xml:lang="zh_Hans">每10万名雇员</com:Name><com:Name xml:lang="ru">На 100 000 сотрудников</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 000 employés</com:Name><com:Name xml:lang="es">Por cada 100.000 empleados</com:Name><com:Name xml:lang="zh_Hans">每10万名雇员</com:Name><com:Name xml:lang="ru">На 100 000 сотрудников</com:Name><com:Name xml:lang="ar">لكل 100،000 موظف</com:Name></str:Code>
                 <str:Code id="PER_100000_FTE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_FTE">
                     <com:Name xml:lang="en">Per 100,000 full-time equivalents</com:Name>
                     <com:Description xml:lang="en">Per 100,000 full-time equivalents</com:Description>
-                <com:Name xml:lang="fr">Pour 100 000 équivalents temps plein</com:Name><com:Name xml:lang="es">Por cada 100.000 equivalentes a tiempo completo</com:Name><com:Name xml:lang="zh_Hans">每100,000名全职等值人员</com:Name><com:Name xml:lang="ru">На 100 000 эквивалентов полной занятости</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 000 équivalents temps plein</com:Name><com:Name xml:lang="es">Por cada 100.000 equivalentes a tiempo completo</com:Name><com:Name xml:lang="zh_Hans">每100,000名全职等值人员</com:Name><com:Name xml:lang="ru">На 100 000 эквивалентов полной занятости</com:Name><com:Name xml:lang="ar">لكل 100،000 مكافئ بدوام كامل</com:Name></str:Code>
                 <str:Code id="PER_100000_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_LIVE_BIRTHS">
                     <com:Name xml:lang="en">Per 100,000 live births</com:Name>
                     <com:Description xml:lang="en">Per 100,000 live births</com:Description>
-                <com:Name xml:lang="fr">Pour 100 000 naissances vivantes</com:Name><com:Name xml:lang="es">Por cada 100.000 nacidos vivos</com:Name><com:Name xml:lang="zh_Hans">每10万名活产婴儿</com:Name><com:Name xml:lang="ru">На 100 000 живорожденных</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 000 naissances vivantes</com:Name><com:Name xml:lang="es">Por cada 100.000 nacidos vivos</com:Name><com:Name xml:lang="zh_Hans">每10万名活产婴儿</com:Name><com:Name xml:lang="ru">На 100 000 живорожденных</com:Name><com:Name xml:lang="ar">لكل 100،000 ولادة حية</com:Name></str:Code>
                 <str:Code id="PER_100000_PRSN_INSR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_PRSN_INSR">
                     <com:Name xml:lang="en">Per 100,000 persons insured</com:Name>
                     <com:Description xml:lang="en">Per 100,000 persons insured</com:Description>
-                <com:Name xml:lang="fr">Pour 100 000 personnes assurées</com:Name><com:Name xml:lang="es">Por cada 100.000 personas aseguradas</com:Name><com:Name xml:lang="zh_Hans">每10万名被保险人</com:Name><com:Name xml:lang="ru">На 100 000 застрахованных лиц</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 000 personnes assurées</com:Name><com:Name xml:lang="es">Por cada 100.000 personas aseguradas</com:Name><com:Name xml:lang="zh_Hans">每10万名被保险人</com:Name><com:Name xml:lang="ru">На 100 000 застрахованных лиц</com:Name><com:Name xml:lang="ar">لكل 100،000 مؤمن عليه</com:Name></str:Code>
                 <str:Code id="PER_100000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_POP">
                     <com:Name xml:lang="en">Per 100,000 population</com:Name>
                     <com:Description xml:lang="en">Per 100,000 population</com:Description>
-                <com:Name xml:lang="fr">Pour 100 000 habitants</com:Name><com:Name xml:lang="es">Por cada 100.000 habitantes</com:Name><com:Name xml:lang="zh_Hans">每10万人口</com:Name><com:Name xml:lang="ru">На 100 000 населения</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 000 habitants</com:Name><com:Name xml:lang="es">Por cada 100.000 habitantes</com:Name><com:Name xml:lang="zh_Hans">每10万人口</com:Name><com:Name xml:lang="ru">На 100 000 населения</com:Name><com:Name xml:lang="ar">لكل 100،000 من السكان</com:Name></str:Code>
                 <str:Code id="PER_100000_WKRS_EMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_WKRS_EMP">
                     <com:Name xml:lang="en">Per 100,000 workers employed</com:Name>
                     <com:Description xml:lang="en">Per 100,000 workers employed</com:Description>
-                <com:Name xml:lang="fr">Pour 100 000 travailleurs employés</com:Name><com:Name xml:lang="es">Por cada 100.000 trabajadores empleados</com:Name><com:Name xml:lang="zh_Hans">每100,000名就业工人</com:Name><com:Name xml:lang="ru">На 100 000 занятых работников</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 000 travailleurs employés</com:Name><com:Name xml:lang="es">Por cada 100.000 trabajadores empleados</com:Name><com:Name xml:lang="zh_Hans">每100,000名就业工人</com:Name><com:Name xml:lang="ru">На 100 000 занятых работников</com:Name><com:Name xml:lang="ar">يعمل لكل 100،000 عامل</com:Name></str:Code>
                 <str:Code id="PER_100000_WKRS_EXPD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_WKRS_EXPD">
                     <com:Name xml:lang="en">Per 100,000 workers exposed to risk</com:Name>
                     <com:Description xml:lang="en">Per 100,000 workers exposed to risk</com:Description>
-                <com:Name xml:lang="fr">Pour 100 000 travailleurs exposés au risque</com:Name><com:Name xml:lang="es">Por cada 100.000 trabajadores expuestos al riesgo</com:Name><com:Name xml:lang="zh_Hans">每10万名面临风险的工人</com:Name><com:Name xml:lang="ru">На 100 000 работников, подверженных риску</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 100 000 travailleurs exposés au risque</com:Name><com:Name xml:lang="es">Por cada 100.000 trabajadores expuestos al riesgo</com:Name><com:Name xml:lang="zh_Hans">每10万名面临风险的工人</com:Name><com:Name xml:lang="ru">На 100 000 работников, подверженных риску</com:Name><com:Name xml:lang="ar">لكل 100،000 عامل معرضون للخطر</com:Name></str:Code>
                 <str:Code id="PER_1000000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000000_POP">
                     <com:Name xml:lang="en">Per million population</com:Name>
                     <com:Description xml:lang="en">Per million population</com:Description>
-                <com:Name xml:lang="fr">Par million d'habitants</com:Name><com:Name xml:lang="es">Por millón de habitantes</com:Name><com:Name xml:lang="zh_Hans">每百万人口</com:Name><com:Name xml:lang="ru">На миллион населения</com:Name></str:Code>
+                <com:Name xml:lang="fr">Par million d'habitants</com:Name><com:Name xml:lang="es">Por millón de habitantes</com:Name><com:Name xml:lang="zh_Hans">每百万人口</com:Name><com:Name xml:lang="ru">На миллион населения</com:Name><com:Name xml:lang="ar">لكل مليون نسمة</com:Name></str:Code>
                 <str:Code id="PT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PT">
                     <com:Name xml:lang="en">Percent</com:Name>
                     <com:Description xml:lang="en">Percent</com:Description>
-                <com:Name xml:lang="fr">Pourcent</com:Name><com:Name xml:lang="es">Por ciento</com:Name><com:Name xml:lang="zh_Hans">百分</com:Name><com:Name xml:lang="ru">Проценты</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pourcent</com:Name><com:Name xml:lang="es">Por ciento</com:Name><com:Name xml:lang="zh_Hans">百分</com:Name><com:Name xml:lang="ru">Проценты</com:Name><com:Name xml:lang="ar">نسبه مئويه</com:Name></str:Code>
                 <str:Code id="PROB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PROB">
                     <com:Name xml:lang="en">Probability</com:Name>
                     <com:Description xml:lang="en">Probability</com:Description>
-                <com:Name xml:lang="fr">Probabilité</com:Name><com:Name xml:lang="es">Probabilidad</com:Name><com:Name xml:lang="zh_Hans">概率</com:Name><com:Name xml:lang="ru">Вероятность</com:Name></str:Code>
+                <com:Name xml:lang="fr">Probabilité</com:Name><com:Name xml:lang="es">Probabilidad</com:Name><com:Name xml:lang="zh_Hans">概率</com:Name><com:Name xml:lang="ru">Вероятность</com:Name><com:Name xml:lang="ar">احتمالا</com:Name></str:Code>
                 <str:Code id="RO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).RO">
                     <com:Name xml:lang="en">Ratio</com:Name>
                     <com:Description xml:lang="en">Ratio</com:Description>
-                <com:Name xml:lang="fr">Ratio</com:Name><com:Name xml:lang="es">Ratio</com:Name><com:Name xml:lang="zh_Hans">比率</com:Name><com:Name xml:lang="ru">Рейтинг</com:Name></str:Code>
+                <com:Name xml:lang="fr">Ratio</com:Name><com:Name xml:lang="es">Ratio</com:Name><com:Name xml:lang="zh_Hans">比率</com:Name><com:Name xml:lang="ru">Рейтинг</com:Name><com:Name xml:lang="ar">نسبة</com:Name></str:Code>
                 <str:Code id="T_KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T_KM">
                     <com:Name xml:lang="en">Tonne kilometres</com:Name>
                     <com:Description xml:lang="en">Tonne kilometres</com:Description>
-                <com:Name xml:lang="fr">Tonnes-kilomètres</com:Name><com:Name xml:lang="es">Toneladas-kilómetro</com:Name><com:Name xml:lang="zh_Hans">吨公里数</com:Name><com:Name xml:lang="ru">Тоннокилометры</com:Name></str:Code>
+                <com:Name xml:lang="fr">Tonnes-kilomètres</com:Name><com:Name xml:lang="es">Toneladas-kilómetro</com:Name><com:Name xml:lang="zh_Hans">吨公里数</com:Name><com:Name xml:lang="ru">Тоннокилометры</com:Name><com:Name xml:lang="ar">كيلومترات طن</com:Name></str:Code>
                 <str:Code id="T_PER_HA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T_PER_HA">
                     <com:Name xml:lang="en">Tonnes per hectare</com:Name>
                     <com:Description xml:lang="en">Tonnes per hectare</com:Description>
-                <com:Name xml:lang="fr">Tonnes par hectare</com:Name><com:Name xml:lang="es">Toneladas por hectárea</com:Name><com:Name xml:lang="zh_Hans">每公顷的吨数</com:Name><com:Name xml:lang="ru">Тонны с гектара</com:Name></str:Code>
+                <com:Name xml:lang="fr">Tonnes par hectare</com:Name><com:Name xml:lang="es">Toneladas por hectárea</com:Name><com:Name xml:lang="zh_Hans">每公顷的吨数</com:Name><com:Name xml:lang="ru">Тонны с гектара</com:Name><com:Name xml:lang="ar">طن لكل هكتار</com:Name></str:Code>
                 <str:Code id="USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).USD">
                     <com:Name xml:lang="en">USD</com:Name>
                     <com:Description xml:lang="en">USD</com:Description>
-                <com:Name xml:lang="fr">USD</com:Name><com:Name xml:lang="es">Dólar estadounidense</com:Name><com:Name xml:lang="zh_Hans">美元</com:Name><com:Name xml:lang="ru">USD</com:Name></str:Code>
+                <com:Name xml:lang="fr">USD</com:Name><com:Name xml:lang="es">Dólar estadounidense</com:Name><com:Name xml:lang="zh_Hans">美元</com:Name><com:Name xml:lang="ru">USD</com:Name><com:Name xml:lang="ar">دولار أمريكي</com:Name></str:Code>
                 <str:Code id="PV_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PV_USD">
                     <com:Name xml:lang="en">USD in net present value terms</com:Name>
                     <com:Description xml:lang="en">USD in net present value terms</com:Description>
-                <com:Name xml:lang="fr">USD en termes de valeur actuelle nette</com:Name><com:Name xml:lang="es">USD en términos de valor neto actual</com:Name><com:Name xml:lang="zh_Hans">以净现值计算的美元</com:Name><com:Name xml:lang="ru">США в пересчете на чистую приведенную стоимость</com:Name></str:Code>
+                <com:Name xml:lang="fr">USD en termes de valeur actuelle nette</com:Name><com:Name xml:lang="es">USD en términos de valor neto actual</com:Name><com:Name xml:lang="zh_Hans">以净现值计算的美元</com:Name><com:Name xml:lang="ru">США в пересчете на чистую приведенную стоимость</com:Name><com:Name xml:lang="ar">الدولار الأمريكي بصافي القيمة الحالية</com:Name></str:Code>
                 <str:Code id="USD_PER_M3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).USD_PER_M3">
                     <com:Name xml:lang="en">United States dollars per cubic metre</com:Name>
                     <com:Description xml:lang="en">United States dollars per cubic metre</com:Description>
-                <com:Name xml:lang="fr">Dollars américains par mètre cube</com:Name><com:Name xml:lang="es">Dólares estadounidenses por metro cúbico</com:Name><com:Name xml:lang="zh_Hans">每立方米美元</com:Name><com:Name xml:lang="ru">Доллары США за кубический метр</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dollars américains par mètre cube</com:Name><com:Name xml:lang="es">Dólares estadounidenses por metro cúbico</com:Name><com:Name xml:lang="zh_Hans">每立方米美元</com:Name><com:Name xml:lang="ru">Доллары США за кубический метр</com:Name><com:Name xml:lang="ar">بدولارات الولايات المتحدة للمتر المكعب</com:Name></str:Code>
                 <str:Code id="PER_10000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_10000_POP">
                     <com:Name xml:lang="en">Per 10,000 population</com:Name>
                     <com:Description xml:lang="en">Per 10,000 population</com:Description>
-                <com:Name xml:lang="fr">Pour 10 000 habitants</com:Name><com:Name xml:lang="es">Por cada 10.000 habitantes</com:Name><com:Name xml:lang="zh_Hans">每10,000人</com:Name><com:Name xml:lang="ru">На 10 000 населения</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pour 10 000 habitants</com:Name><com:Name xml:lang="es">Por cada 10.000 habitantes</com:Name><com:Name xml:lang="zh_Hans">每10,000人</com:Name><com:Name xml:lang="ru">На 10 000 населения</com:Name><com:Name xml:lang="ar">لكل 10000 من السكان</com:Name></str:Code>
                 <str:Code id="P_KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).P_KM">
                     <com:Name xml:lang="en">Passenger kilometres</com:Name>
                     <com:Description xml:lang="en">Passenger kilometres</com:Description>
-                <com:Name xml:lang="fr">Passagers-kilomètres</com:Name><com:Name xml:lang="es">Pasajeros-kilómetros</com:Name><com:Name xml:lang="zh_Hans">客运公里数</com:Name><com:Name xml:lang="ru">Пассажиро-километры</com:Name></str:Code>
+                <com:Name xml:lang="fr">Passagers-kilomètres</com:Name><com:Name xml:lang="es">Pasajeros-kilómetros</com:Name><com:Name xml:lang="zh_Hans">客运公里数</com:Name><com:Name xml:lang="ru">Пассажиро-километры</com:Name><com:Name xml:lang="ar">كيلومترات الركاب</com:Name></str:Code>
                 <str:Code id="M_M3_PER_YR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).M_M3_PER_YR">
                     <com:Name xml:lang="en">Million of cubic metres per annum</com:Name>
                     <com:Description xml:lang="en">Million of cubic metres per annum</com:Description>
-                <com:Name xml:lang="fr">Million de mètres cubes par an</com:Name><com:Name xml:lang="es">Millones de metros cúbicos al año</com:Name><com:Name xml:lang="zh_Hans">年产百万立方米</com:Name><com:Name xml:lang="ru">Миллион кубических метров в год</com:Name></str:Code>
+                <com:Name xml:lang="fr">Million de mètres cubes par an</com:Name><com:Name xml:lang="es">Millones de metros cúbicos al año</com:Name><com:Name xml:lang="zh_Hans">年产百万立方米</com:Name><com:Name xml:lang="ru">Миллион кубических метров в год</com:Name><com:Name xml:lang="ar">مليون متر مكعب سنويا</com:Name></str:Code>
                 <str:Code id="BOOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).BOOL">
                     <com:Name xml:lang="en">Boolean or binary measure</com:Name>
                     <com:Description xml:lang="en">Boolean or binary measure</com:Description>
-                <com:Name xml:lang="fr">Mesure booléenne ou binaire</com:Name><com:Name xml:lang="es">Medida booleana o binaria</com:Name><com:Name xml:lang="zh_Hans">布尔或二进制测量</com:Name><com:Name xml:lang="ru">Булева или бинарная мера</com:Name></str:Code>
+                <com:Name xml:lang="fr">Mesure booléenne ou binaire</com:Name><com:Name xml:lang="es">Medida booleana o binaria</com:Name><com:Name xml:lang="zh_Hans">布尔或二进制测量</com:Name><com:Name xml:lang="ru">Булева или бинарная мера</com:Name><com:Name xml:lang="ar">مقياس منطقي أو ثنائي</com:Name></str:Code>
                 <str:Code id="TEU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).TEU">
                     <com:Name xml:lang="en">Twenty-foot equivalent units (TEUs)</com:Name>
                     <com:Description xml:lang="en">Twenty-foot equivalent units (TEUs)</com:Description>
-                <com:Name xml:lang="fr">Unités équivalentes à vingt pieds (EVP)</com:Name><com:Name xml:lang="es">Unidades equivalentes a veinte pies (TEU)</com:Name><com:Name xml:lang="zh_Hans">二十英尺当量单位（TEUs</com:Name><com:Name xml:lang="ru">Единицы измерения в двадцатифутовом эквиваленте (TEUs)</com:Name></str:Code>
+                <com:Name xml:lang="fr">Unités équivalentes à vingt pieds (EVP)</com:Name><com:Name xml:lang="es">Unidades equivalentes a veinte pies (TEU)</com:Name><com:Name xml:lang="zh_Hans">二十英尺当量单位（TEUs</com:Name><com:Name xml:lang="ru">Единицы измерения в двадцатифутовом эквиваленте (TEUs)</com:Name><com:Name xml:lang="ar">وحدات مكافئة لعشرين قدمًا (TEUs)</com:Name></str:Code>
                 <str:Code id="PH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PH">
                     <com:Name xml:lang="en">pH</com:Name>
                     <com:Description xml:lang="en">pH</com:Description>
-                <com:Name xml:lang="fr">pH</com:Name><com:Name xml:lang="es">pH</com:Name><com:Name xml:lang="zh_Hans">动脉血PH值</com:Name><com:Name xml:lang="ru">pH</com:Name></str:Code>
+                <com:Name xml:lang="fr">pH</com:Name><com:Name xml:lang="es">pH</com:Name><com:Name xml:lang="zh_Hans">动脉血PH值</com:Name><com:Name xml:lang="ru">pH</com:Name><com:Name xml:lang="ar">درجة الحموضة</com:Name></str:Code>
                 <str:Code id="SCORE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).SCORE">
                     <com:Name xml:lang="en">Score</com:Name>
                     <com:Description xml:lang="en">Score</com:Description>
-                <com:Name xml:lang="fr">Résultat</com:Name><com:Name xml:lang="es">Puntuación</com:Name><com:Name xml:lang="zh_Hans">次数</com:Name><com:Name xml:lang="ru">Нотный текст</com:Name></str:Code>
+                <com:Name xml:lang="fr">Résultat</com:Name><com:Name xml:lang="es">Puntuación</com:Name><com:Name xml:lang="zh_Hans">次数</com:Name><com:Name xml:lang="ru">Нотный текст</com:Name><com:Name xml:lang="ar">المجموع</com:Name></str:Code>
                 <str:Code id="W_PER_CAPITA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).W_PER_CAPITA">
                     <com:Name xml:lang="en">Watts per capita</com:Name>
                     <com:Description xml:lang="en">Watts per capita</com:Description>
-                <com:Name xml:lang="fr">Watts par habitant</com:Name><com:Name xml:lang="es">Vatios per cápita</com:Name><com:Name xml:lang="zh_Hans">人均瓦特</com:Name><com:Name xml:lang="ru">Ватт на душу населения</com:Name></str:Code>
+                <com:Name xml:lang="fr">Watts par habitant</com:Name><com:Name xml:lang="es">Vatios per cápita</com:Name><com:Name xml:lang="zh_Hans">人均瓦特</com:Name><com:Name xml:lang="ru">Ватт на душу населения</com:Name><com:Name xml:lang="ar">واتس للفرد</com:Name></str:Code>
                 <str:Code id="KG_OE_PER_GDP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_OE_PER_GDP_USD">
                     <com:Name xml:lang="en">kg oil equivalent per USD1,000 GDP</com:Name>
                     <com:Description xml:lang="en">kg oil equivalent per USD1,000 GDP</com:Description>
-                <com:Name xml:lang="fr">kg d'équivalent pétrole par 1 000 USD de PIB</com:Name><com:Name xml:lang="es">kg de petróleo equivalente por 1.000 USD de PIB</com:Name><com:Name xml:lang="zh_Hans">每1,000美元国内生产总值的公斤油当量</com:Name><com:Name xml:lang="ru">кг нефтяного эквивалента на 1000 долларов США ВВП</com:Name></str:Code>
+                <com:Name xml:lang="fr">kg d'équivalent pétrole par 1 000 USD de PIB</com:Name><com:Name xml:lang="es">kg de petróleo equivalente por 1.000 USD de PIB</com:Name><com:Name xml:lang="zh_Hans">每1,000美元国内生产总值的公斤油当量</com:Name><com:Name xml:lang="ru">кг нефтяного эквивалента на 1000 долларов США ВВП</com:Name><com:Name xml:lang="ar">كيلو جرام من المكافئ النفطي لكل مليون دولار أمريكي من الناتج المحلي الإجمالي</com:Name></str:Code>
                 <str:Code id="KG_C_KM2_PER_DAY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_C_KM2_PER_DAY">
                     <com:Name xml:lang="en">kilograms of carbon from algae biomass per sq. km. of river basin area per day</com:Name>
                     <com:Description xml:lang="en">kilograms of carbon from algae biomass per sq. km. of river basin area per day</com:Description>
-                <com:Name xml:lang="fr">kilogrammes de carbone provenant de la biomasse des algues par km² de bassin fluvial et par jour</com:Name><com:Name xml:lang="es">kilogramos de carbono procedentes de la biomasa de algas por km2 de superficie de la cuenca hidrográfica al día</com:Name><com:Name xml:lang="zh_Hans">每天每平方公里流域面积的海藻生物量产生的碳公斤数</com:Name><com:Name xml:lang="ru">килограммов углерода из биомассы водорослей на кв. км площади бассейна реки в день</com:Name></str:Code>
+                <com:Name xml:lang="fr">kilogrammes de carbone provenant de la biomasse des algues par km² de bassin fluvial et par jour</com:Name><com:Name xml:lang="es">kilogramos de carbono procedentes de la biomasa de algas por km2 de superficie de la cuenca hidrográfica al día</com:Name><com:Name xml:lang="zh_Hans">每天每平方公里流域面积的海藻生物量产生的碳公斤数</com:Name><com:Name xml:lang="ru">килограммов углерода из биомассы водорослей на кв. км площади бассейна реки в день</com:Name><com:Name xml:lang="ar">كيلوغرام من الكربون من الكتلة الحيوية للطحالب لكل كيلومتر مربع. من مساحة حوض النهر في اليوم</com:Name></str:Code>
                 <str:Code id="TCO2E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).TCO2E">
                     <com:Name xml:lang="en">Tonnes of CO2-equivalent</com:Name>
                     <com:Description xml:lang="en">Tonnes of CO2-equivalent</com:Description>
-                <com:Name xml:lang="fr">Tonnes d'équivalent CO2</com:Name><com:Name xml:lang="es">Toneladas de CO2 equivalente</com:Name><com:Name xml:lang="zh_Hans">吨二氧化碳当量</com:Name><com:Name xml:lang="ru">Тонны CO2-эквивалента</com:Name></str:Code>
+                <com:Name xml:lang="fr">Tonnes d'équivalent CO2</com:Name><com:Name xml:lang="es">Toneladas de CO2 equivalente</com:Name><com:Name xml:lang="zh_Hans">吨二氧化碳当量</com:Name><com:Name xml:lang="ru">Тонны CO2-эквивалента</com:Name><com:Name xml:lang="ar">طن من مكافئ ثاني أكسيد الكربون</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_URBANISATION" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_URBANISATION(1.0)" version="1.0">
                 <com:Name xml:lang="en">Degree of urbanisation code list</com:Name>
@@ -25989,127 +25989,127 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).0">
                     <com:Name xml:lang="en">Units</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of zero (10^0)</com:Description>
-                <com:Name xml:lang="fr">Unités</com:Name><com:Name xml:lang="zh_Hans">总剂量</com:Name><com:Name xml:lang="ru">Размер (в юнитах)</com:Name></str:Code>
+                <com:Name xml:lang="fr">Unités</com:Name><com:Name xml:lang="es">Unidades</com:Name><com:Name xml:lang="zh_Hans">总剂量</com:Name><com:Name xml:lang="ru">Размер (в юнитах)</com:Name></str:Code>
                 <str:Code id="1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).1">
                     <com:Name xml:lang="en">Tens</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of one (10^1)</com:Description>
-                <com:Name xml:lang="fr">Tens</com:Name><com:Name xml:lang="zh_Hans">腾讯网</com:Name><com:Name xml:lang="ru">Десятки</com:Name></str:Code>
+                <com:Name xml:lang="fr">Tens</com:Name><com:Name xml:lang="es">Tens</com:Name><com:Name xml:lang="zh_Hans">腾讯网</com:Name><com:Name xml:lang="ru">Десятки</com:Name></str:Code>
                 <str:Code id="2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).2">
                     <com:Name xml:lang="en">Hundreds</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of two (10^2)</com:Description>
-                <com:Name xml:lang="fr">Des centaines de personnes</com:Name><com:Name xml:lang="zh_Hans">数百人</com:Name><com:Name xml:lang="ru">Сотни</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des centaines de personnes</com:Name><com:Name xml:lang="es">Cientos</com:Name><com:Name xml:lang="zh_Hans">数百人</com:Name><com:Name xml:lang="ru">Сотни</com:Name></str:Code>
                 <str:Code id="3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).3">
                     <com:Name xml:lang="en">Thousands</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of three (10^3)</com:Description>
-                <com:Name xml:lang="fr">Milliers</com:Name><com:Name xml:lang="zh_Hans">数以千计</com:Name><com:Name xml:lang="ru">Тысячи</com:Name></str:Code>
+                <com:Name xml:lang="fr">Milliers</com:Name><com:Name xml:lang="es">Miles de personas</com:Name><com:Name xml:lang="zh_Hans">数以千计</com:Name><com:Name xml:lang="ru">Тысячи</com:Name></str:Code>
                 <str:Code id="4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).4">
                     <com:Name xml:lang="en">Tens of thousands</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of four (10^4)</com:Description>
-                <com:Name xml:lang="fr">Des dizaines de milliers</com:Name><com:Name xml:lang="zh_Hans">数以万计</com:Name><com:Name xml:lang="ru">Десятки тысяч</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des dizaines de milliers</com:Name><com:Name xml:lang="es">Decenas de miles</com:Name><com:Name xml:lang="zh_Hans">数以万计</com:Name><com:Name xml:lang="ru">Десятки тысяч</com:Name></str:Code>
                 <str:Code id="5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).5">
                     <com:Name xml:lang="en">Hundreds of thousands</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of five(10^5)</com:Description>
-                <com:Name xml:lang="fr">Des centaines de milliers</com:Name><com:Name xml:lang="zh_Hans">数以十万计</com:Name><com:Name xml:lang="ru">Сотни тысяч</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des centaines de milliers</com:Name><com:Name xml:lang="es">Cientos de miles</com:Name><com:Name xml:lang="zh_Hans">数以十万计</com:Name><com:Name xml:lang="ru">Сотни тысяч</com:Name></str:Code>
                 <str:Code id="6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).6">
                     <com:Name xml:lang="en">Millions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of six (10^6)</com:Description>
-                <com:Name xml:lang="fr">Millions</com:Name><com:Name xml:lang="zh_Hans">百万</com:Name><com:Name xml:lang="ru">Миллионы</com:Name></str:Code>
+                <com:Name xml:lang="fr">Millions</com:Name><com:Name xml:lang="es">Millones</com:Name><com:Name xml:lang="zh_Hans">百万</com:Name><com:Name xml:lang="ru">Миллионы</com:Name></str:Code>
                 <str:Code id="7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).7">
                     <com:Name xml:lang="en">Tens of millions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of seven (10^7)</com:Description>
-                <com:Name xml:lang="fr">Des dizaines de millions</com:Name><com:Name xml:lang="zh_Hans">数以千万计的人</com:Name><com:Name xml:lang="ru">Десятки миллионов</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des dizaines de millions</com:Name><com:Name xml:lang="es">Decenas de millones</com:Name><com:Name xml:lang="zh_Hans">数以千万计的人</com:Name><com:Name xml:lang="ru">Десятки миллионов</com:Name></str:Code>
                 <str:Code id="8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).8">
                     <com:Name xml:lang="en">Hundreds of millions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of eight (10^8)</com:Description>
-                <com:Name xml:lang="fr">Des centaines de millions</com:Name><com:Name xml:lang="zh_Hans">数以亿计的人</com:Name><com:Name xml:lang="ru">Сотни миллионов</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des centaines de millions</com:Name><com:Name xml:lang="es">Cientos de millones</com:Name><com:Name xml:lang="zh_Hans">数以亿计的人</com:Name><com:Name xml:lang="ru">Сотни миллионов</com:Name></str:Code>
                 <str:Code id="9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).9">
                     <com:Name xml:lang="en">Billions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of nine (10^9)</com:Description>
-                <com:Name xml:lang="fr">Milliards</com:Name><com:Name xml:lang="zh_Hans">十亿</com:Name><com:Name xml:lang="ru">Миллиарды</com:Name></str:Code>
+                <com:Name xml:lang="fr">Milliards</com:Name><com:Name xml:lang="es">Miles de millones</com:Name><com:Name xml:lang="zh_Hans">十亿</com:Name><com:Name xml:lang="ru">Миллиарды</com:Name></str:Code>
                 <str:Code id="10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).10">
                     <com:Name xml:lang="en">Tens of billions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of ten (10^10)</com:Description>
-                <com:Name xml:lang="fr">Des dizaines de milliards</com:Name><com:Name xml:lang="zh_Hans">数以百亿计</com:Name><com:Name xml:lang="ru">Десятки миллиардов</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des dizaines de milliards</com:Name><com:Name xml:lang="es">Decenas de miles de millones</com:Name><com:Name xml:lang="zh_Hans">数以百亿计</com:Name><com:Name xml:lang="ru">Десятки миллиардов</com:Name></str:Code>
                 <str:Code id="11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).11">
                     <com:Name xml:lang="en">Hundreds of billions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of eleven (10^11)</com:Description>
-                <com:Name xml:lang="fr">Des centaines de milliards</com:Name><com:Name xml:lang="zh_Hans">数以千亿计</com:Name><com:Name xml:lang="ru">Сотни миллиардов</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des centaines de milliards</com:Name><com:Name xml:lang="es">Cientos de miles de millones</com:Name><com:Name xml:lang="zh_Hans">数以千亿计</com:Name><com:Name xml:lang="ru">Сотни миллиардов</com:Name></str:Code>
                 <str:Code id="12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).12">
                     <com:Name xml:lang="en">Trillions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of twelve (10^12)</com:Description>
-                <com:Name xml:lang="fr">Trillions</com:Name><com:Name xml:lang="zh_Hans">万亿</com:Name><com:Name xml:lang="ru">Триллионы</com:Name></str:Code>
+                <com:Name xml:lang="fr">Trillions</com:Name><com:Name xml:lang="es">Trillones</com:Name><com:Name xml:lang="zh_Hans">万亿</com:Name><com:Name xml:lang="ru">Триллионы</com:Name></str:Code>
                 <str:Code id="13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).13">
                     <com:Name xml:lang="en">Tens of trillions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of thirteen (10^13)</com:Description>
-                <com:Name xml:lang="fr">Des dizaines de trillions</com:Name><com:Name xml:lang="zh_Hans">数十万亿</com:Name><com:Name xml:lang="ru">Десятки триллионов</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des dizaines de trillions</com:Name><com:Name xml:lang="es">Decenas de billones</com:Name><com:Name xml:lang="zh_Hans">数十万亿</com:Name><com:Name xml:lang="ru">Десятки триллионов</com:Name></str:Code>
                 <str:Code id="14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).14">
                     <com:Name xml:lang="en">Hundreds of trillions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of fourteen (10^14)</com:Description>
-                <com:Name xml:lang="fr">Des centaines de trillions</com:Name><com:Name xml:lang="zh_Hans">数以万亿计</com:Name><com:Name xml:lang="ru">Сотни триллионов</com:Name></str:Code>
+                <com:Name xml:lang="fr">Des centaines de trillions</com:Name><com:Name xml:lang="es">Cientos de billones</com:Name><com:Name xml:lang="zh_Hans">数以万亿计</com:Name><com:Name xml:lang="ru">Сотни триллионов</com:Name></str:Code>
                 <str:Code id="15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).15">
                     <com:Name xml:lang="en">Quadrillions</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of fifteen (10^15)</com:Description>
-                <com:Name xml:lang="fr">Billiard</com:Name><com:Name xml:lang="zh_Hans">四亿</com:Name><com:Name xml:lang="ru">Квадриллион</com:Name></str:Code>
+                <com:Name xml:lang="fr">Billiard</com:Name><com:Name xml:lang="es">Cuadrillones</com:Name><com:Name xml:lang="zh_Hans">四亿</com:Name><com:Name xml:lang="ru">Квадриллион</com:Name></str:Code>
                 <str:Code id="-1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-1">
                     <com:Name xml:lang="en">Tenths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus one (10^-1)</com:Description>
-                <com:Name xml:lang="fr">Dixièmes</com:Name><com:Name xml:lang="zh_Hans">十分之一</com:Name><com:Name xml:lang="ru">Десятые</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dixièmes</com:Name><com:Name xml:lang="es">Décimas</com:Name><com:Name xml:lang="zh_Hans">十分之一</com:Name><com:Name xml:lang="ru">Десятые</com:Name></str:Code>
                 <str:Code id="-2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-2">
                     <com:Name xml:lang="en">Hundredths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus two (10^-2)</com:Description>
-                <com:Name xml:lang="fr">Centièmes</com:Name><com:Name xml:lang="zh_Hans">百分之百</com:Name><com:Name xml:lang="ru">Соты</com:Name></str:Code>
+                <com:Name xml:lang="fr">Centièmes</com:Name><com:Name xml:lang="es">Centésimas</com:Name><com:Name xml:lang="zh_Hans">百分之百</com:Name><com:Name xml:lang="ru">Соты</com:Name></str:Code>
                 <str:Code id="-3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-3">
                     <com:Name xml:lang="en">Thousandths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus three (10^-3)</com:Description>
-                <com:Name xml:lang="fr">Millièmes</com:Name><com:Name xml:lang="zh_Hans">千分之一</com:Name><com:Name xml:lang="ru">Тысячные доли</com:Name></str:Code>
+                <com:Name xml:lang="fr">Millièmes</com:Name><com:Name xml:lang="es">Milésimas</com:Name><com:Name xml:lang="zh_Hans">千分之一</com:Name><com:Name xml:lang="ru">Тысячные доли</com:Name></str:Code>
                 <str:Code id="-4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-4">
                     <com:Name xml:lang="en">Ten-thousandths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus four (10^-4)</com:Description>
-                <com:Name xml:lang="fr">Dix-millièmes</com:Name><com:Name xml:lang="zh_Hans">万分之一</com:Name><com:Name xml:lang="ru">Десятитысячные</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dix-millièmes</com:Name><com:Name xml:lang="es">Diez milésimas</com:Name><com:Name xml:lang="zh_Hans">万分之一</com:Name><com:Name xml:lang="ru">Десятитысячные</com:Name></str:Code>
                 <str:Code id="-5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-5">
                     <com:Name xml:lang="en">Hundred-thousandths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus five (10^-5)</com:Description>
-                <com:Name xml:lang="fr">Cent-millièmes</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Стотысячные</com:Name></str:Code>
+                <com:Name xml:lang="fr">Cent-millièmes</com:Name><com:Name xml:lang="es">Cien milésimas</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Стотысячные</com:Name></str:Code>
                 <str:Code id="-6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-6">
                     <com:Name xml:lang="en">Millionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus six (10^-6)</com:Description>
-                <com:Name xml:lang="fr">Millionièmes</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Миллионные доли</com:Name></str:Code>
+                <com:Name xml:lang="fr">Millionièmes</com:Name><com:Name xml:lang="es">Milésimas</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Миллионные доли</com:Name></str:Code>
                 <str:Code id="-7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-7">
                     <com:Name xml:lang="en">Ten-millionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus seven (10^-7)</com:Description>
-                <com:Name xml:lang="fr">Dix-millionièmes</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Десятимиллионные</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dix-millionièmes</com:Name><com:Name xml:lang="es">Diez millonésimas</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Десятимиллионные</com:Name></str:Code>
                 <str:Code id="-8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-8">
                     <com:Name xml:lang="en">Hundred-millionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus eight (10^-8)</com:Description>
-                <com:Name xml:lang="fr">Cent-millionièmes</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Сотые миллионные</com:Name></str:Code>
+                <com:Name xml:lang="fr">Cent-millionièmes</com:Name><com:Name xml:lang="es">Cienmillonésimas</com:Name><com:Name xml:lang="zh_Hans">百万分之一</com:Name><com:Name xml:lang="ru">Сотые миллионные</com:Name></str:Code>
                 <str:Code id="-9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-9">
                     <com:Name xml:lang="en">Billionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus nine (10^-9)</com:Description>
-                <com:Name xml:lang="fr">Milliards</com:Name><com:Name xml:lang="zh_Hans">十亿分之一</com:Name><com:Name xml:lang="ru">Миллиарды</com:Name></str:Code>
+                <com:Name xml:lang="fr">Milliards</com:Name><com:Name xml:lang="es">Miles de millones</com:Name><com:Name xml:lang="zh_Hans">十亿分之一</com:Name><com:Name xml:lang="ru">Миллиарды</com:Name></str:Code>
                 <str:Code id="-10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-10">
                     <com:Name xml:lang="en">Ten-billionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus ten (10^-10)</com:Description>
-                <com:Name xml:lang="fr">Dix milliardièmes</com:Name><com:Name xml:lang="zh_Hans">十亿分之一</com:Name><com:Name xml:lang="ru">Десятимиллиардные доли</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dix milliardièmes</com:Name><com:Name xml:lang="es">Diez mil millonésimas</com:Name><com:Name xml:lang="zh_Hans">十亿分之一</com:Name><com:Name xml:lang="ru">Десятимиллиардные доли</com:Name></str:Code>
                 <str:Code id="-11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-11">
                     <com:Name xml:lang="en">Hundred-billionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus eleven (10^-11)</com:Description>
-                <com:Name xml:lang="fr">Cent milliardièmes</com:Name><com:Name xml:lang="zh_Hans">千亿分之一</com:Name><com:Name xml:lang="ru">Сотые-миллиардные</com:Name></str:Code>
+                <com:Name xml:lang="fr">Cent milliardièmes</com:Name><com:Name xml:lang="es">Cien mil millonésimas</com:Name><com:Name xml:lang="zh_Hans">千亿分之一</com:Name><com:Name xml:lang="ru">Сотые-миллиардные</com:Name></str:Code>
                 <str:Code id="-12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-12">
                     <com:Name xml:lang="en">Trillionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus twelve (10^-12)</com:Description>
-                <com:Name xml:lang="fr">Trillionièmes</com:Name><com:Name xml:lang="zh_Hans">万亿分之一</com:Name><com:Name xml:lang="ru">Триллионные доли</com:Name></str:Code>
+                <com:Name xml:lang="fr">Trillionièmes</com:Name><com:Name xml:lang="es">Trillones</com:Name><com:Name xml:lang="zh_Hans">万亿分之一</com:Name><com:Name xml:lang="ru">Триллионные доли</com:Name></str:Code>
                 <str:Code id="-13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-13">
                     <com:Name xml:lang="en">Ten-trillionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus thirteen (10^-13)</com:Description>
-                <com:Name xml:lang="fr">Dix trillionièmes</com:Name><com:Name xml:lang="zh_Hans">十万亿分之一</com:Name><com:Name xml:lang="ru">Десятитриллионные</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dix trillionièmes</com:Name><com:Name xml:lang="es">Diez trillones</com:Name><com:Name xml:lang="zh_Hans">十万亿分之一</com:Name><com:Name xml:lang="ru">Десятитриллионные</com:Name></str:Code>
                 <str:Code id="-14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-14">
                     <com:Name xml:lang="en">Hundred-trillionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus fourteen (10^-14)</com:Description>
-                <com:Name xml:lang="fr">Cent trillionièmes</com:Name><com:Name xml:lang="zh_Hans">百万亿分之一</com:Name><com:Name xml:lang="ru">Сотые-триллионные</com:Name></str:Code>
+                <com:Name xml:lang="fr">Cent trillionièmes</com:Name><com:Name xml:lang="es">Cien trillonésimas</com:Name><com:Name xml:lang="zh_Hans">百万亿分之一</com:Name><com:Name xml:lang="ru">Сотые-триллионные</com:Name></str:Code>
                 <str:Code id="-15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-15">
                     <com:Name xml:lang="en">Quadrillionths</com:Name>
                     <com:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus fifteen (10^-15)</com:Description>
-                <com:Name xml:lang="fr">Quadrillionièmes</com:Name><com:Name xml:lang="zh_Hans">十亿分之一</com:Name><com:Name xml:lang="ru">Квадриллионные доли</com:Name></str:Code>
+                <com:Name xml:lang="fr">Quadrillionièmes</com:Name><com:Name xml:lang="es">Cuatrillonésimas</com:Name><com:Name xml:lang="zh_Hans">十亿分之一</com:Name><com:Name xml:lang="ru">Квадриллионные доли</com:Name></str:Code>
             </str:Codelist>
         </str:Codelists>
         <str:Concepts>
