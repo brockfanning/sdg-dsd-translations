@@ -1,1 +1,21 @@
-{}
+W: Inclut les données d'une autre catégorie
+V: Valeur non validée
+U: Faible fiabilité
+S: Grève et autres événements spéciaux
+Q: Valeur manquante ; supprimée
+P: Valeur provisoire
+OBS_STATUS: Statut d'observation
+O: Valeur manquante
+N: Non significatif
+M: Valeur manquante ; les données ne peuvent pas exister
+L: Valeur manquante ; les données existent mais n'ont pas été collectées.
+K: Données incluses dans une autre catégorie
+J: Dérogation
+I: Valeur imputée (définition du CCSA)
+H: Valeur manquante ; vacances ou week-end
+G: Valeur expérimentale
+F: Valeur prévisionnelle
+E: Valeur estimée
+D: La définition diffère
+B: Rupture de la série chronologique
+A: Valeur normale

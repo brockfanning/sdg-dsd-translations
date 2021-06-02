@@ -1,1 +1,11 @@
-{}
+_T: Total (moyenne nationale) ou pas de ventilation
+R60: Les 60% les plus riches
+R50: Les 50% les plus riches
+Q5: Quintile 5 (le plus riche)
+Q4: Quintile 4
+Q3: Quintile 3
+Q2: Quintile 2
+Q1: Quintile 1 (le plus pauvre)
+INCOME_WEALTH_QUANTILE: Quantile de revenu ou de richesse
+B50: 50% en bas
+B40: 40% en bas
