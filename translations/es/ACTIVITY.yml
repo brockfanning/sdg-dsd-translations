@@ -1,1 +1,33 @@
-{}
+_T: No hay desglose
+ISIC4_U: Actividades de organizaciones y organismos extraterritoriales
+ISIC4_T: Actividades de los hogares como empleadores; actividades indiferenciadas
+  de producción de bienes y servicios de los hogares para uso propio
+ISIC4_S: Otras actividades de servicio
+ISIC4_R: Arte, entretenimiento y ocio
+ISIC4_Q: Actividades de salud humana y trabajo social
+ISIC4_P: Educación
+ISIC4_O: Administración pública y defensa; seguridad social obligatoria
+ISIC4_N: Actividades administrativas y de servicios de apoyo
+ISIC4_M: Actividades profesionales, científicas y técnicas
+ISIC4_L: Actividades inmobiliarias
+ISIC4_K: Actividades financieras y de seguros
+ISIC4_J: Información y comunicación
+ISIC4_I: Actividades de alojamiento y restauración
+ISIC4_H: Transporte y almacenamiento
+ISIC4_GTS_HH: Servicios y actividades de los hogares
+ISIC4_GTS: Servicios
+ISIC4_G: Comercio al por mayor y al por menor; reparación de vehículos de motor y
+  motocicletas
+ISIC4_F: Construcción
+ISIC4_E: Suministro de agua; alcantarillado, gestión de residuos y actividades de
+  saneamiento
+ISIC4_D: Suministro de electricidad, gas, vapor y aire acondicionado
+ISIC4_C10T32X19: Fabricación, excepto coque y productos petrolíferos refinados, y
+  reparación e instalación de maquinaria y equipos
+ISIC4_C: Fabricación
+ISIC4_BTU: No agrícola
+ISIC4_BTFXE: Industrias
+ISIC4_B: Minas y canteras
+ISIC4_A: Agricultura, silvicultura y pesca
+HH: Actividades de los hogares
+ACTIVITY: Actividad económica
