@@ -153,115 +153,115 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4)._T">
                     <com:Name xml:lang="en">No breakdown</com:Name>
                     <com:Description xml:lang="en">No breakdown</com:Description>
-                <com:Name xml:lang="ru">Нет пробоя</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">没有细分</com:Name><com:Name xml:lang="ru">Нет пробоя</com:Name></str:Code>
                 <str:Code id="ISIC4_A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_A">
                     <com:Name xml:lang="en">Agriculture, forestry and fishing</com:Name>
                     <com:Description xml:lang="en">Agriculture, forestry and fishing</com:Description>
-                <com:Name xml:lang="ru">Сельское хозяйство, лесное хозяйство и рыболовство</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">农业、林业和渔业</com:Name><com:Name xml:lang="ru">Сельское хозяйство, лесное хозяйство и рыболовство</com:Name></str:Code>
                 <str:Code id="ISIC4_B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_B">
                     <com:Name xml:lang="en">Mining and quarrying</com:Name>
                     <com:Description xml:lang="en">Mining and quarrying</com:Description>
-                <com:Name xml:lang="ru">Горнодобывающая промышленность и разработка карьеров</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">采矿和采石业</com:Name><com:Name xml:lang="ru">Горнодобывающая промышленность и разработка карьеров</com:Name></str:Code>
                 <str:Code id="ISIC4_C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_C">
                     <com:Name xml:lang="en">Manufacturing</com:Name>
                     <com:Description xml:lang="en">Manufacturing</com:Description>
-                <com:Name xml:lang="ru">Производство</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">制造参数</com:Name><com:Name xml:lang="ru">Производство</com:Name></str:Code>
                 <str:Code id="ISIC4_D" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_D">
                     <com:Name xml:lang="en">Electricity, gas, steam and air conditioning supply</com:Name>
                     <com:Description xml:lang="en">Electricity, gas, steam and air conditioning supply</com:Description>
-                <com:Name xml:lang="ru">Электроэнергия, газ, пар и кондиционирование воздуха</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">电力、燃气、蒸汽和空调供应</com:Name><com:Name xml:lang="ru">Электроэнергия, газ, пар и кондиционирование воздуха</com:Name></str:Code>
                 <str:Code id="ISIC4_E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_E">
                     <com:Name xml:lang="en">Water supply; sewerage, waste management and remediation activities</com:Name>
                     <com:Description xml:lang="en">Water supply; sewerage, waste management and remediation activities</com:Description>
-                <com:Name xml:lang="ru">Водоснабжение, канализация, утилизация отходов и деятельность по восстановлению окружающей среды</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">供水；污水处理、废物管理和补救活动</com:Name><com:Name xml:lang="ru">Водоснабжение, канализация, утилизация отходов и деятельность по восстановлению окружающей среды</com:Name></str:Code>
                 <str:Code id="ISIC4_F" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_F">
                     <com:Name xml:lang="en">Construction</com:Name>
                     <com:Description xml:lang="en">Construction</com:Description>
-                <com:Name xml:lang="ru">Стройка</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">施工</com:Name><com:Name xml:lang="ru">Стройка</com:Name></str:Code>
                 <str:Code id="ISIC4_G" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_G">
                     <com:Name xml:lang="en">Wholesale and retail trade; repair of motor vehicles and motorcycles</com:Name>
                     <com:Description xml:lang="en">Wholesale and retail trade; repair of motor vehicles and motorcycles</com:Description>
-                <com:Name xml:lang="ru">Оптовая и розничная торговля; ремонт автотранспортных средств и мотоциклов</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">批发和零售业；机动车和摩托车的修理</com:Name><com:Name xml:lang="ru">Оптовая и розничная торговля; ремонт автотранспортных средств и мотоциклов</com:Name></str:Code>
                 <str:Code id="ISIC4_H" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_H">
                     <com:Name xml:lang="en">Transportation and storage</com:Name>
                     <com:Description xml:lang="en">Transportation and storage</com:Description>
-                <com:Name xml:lang="ru">Транспортировка и хранение</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">运输和储存</com:Name><com:Name xml:lang="ru">Транспортировка и хранение</com:Name></str:Code>
                 <str:Code id="ISIC4_I" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_I">
                     <com:Name xml:lang="en">Accommodation and food service activities</com:Name>
                     <com:Description xml:lang="en">Accommodation and food service activities</com:Description>
-                <com:Name xml:lang="ru">Деятельность в сфере размещения и общественного питания</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">住宿和餐饮服务活动</com:Name><com:Name xml:lang="ru">Деятельность в сфере размещения и общественного питания</com:Name></str:Code>
                 <str:Code id="ISIC4_J" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_J">
                     <com:Name xml:lang="en">Information and communication</com:Name>
                     <com:Description xml:lang="en">Information and communication</com:Description>
-                <com:Name xml:lang="ru">Информация и коммуникация</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">信息和通信</com:Name><com:Name xml:lang="ru">Информация и коммуникация</com:Name></str:Code>
                 <str:Code id="ISIC4_K" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_K">
                     <com:Name xml:lang="en">Financial and insurance activities</com:Name>
                     <com:Description xml:lang="en">Financial and insurance activities</com:Description>
-                <com:Name xml:lang="ru">Финансовая и страховая деятельность</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">金融和保险活动</com:Name><com:Name xml:lang="ru">Финансовая и страховая деятельность</com:Name></str:Code>
                 <str:Code id="ISIC4_L" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_L">
                     <com:Name xml:lang="en">Real estate activities</com:Name>
                     <com:Description xml:lang="en">Real estate activities</com:Description>
-                <com:Name xml:lang="ru">Деятельность в сфере недвижимости</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">房地产活动</com:Name><com:Name xml:lang="ru">Деятельность в сфере недвижимости</com:Name></str:Code>
                 <str:Code id="ISIC4_M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_M">
                     <com:Name xml:lang="en">Professional, scientific and technical activities</com:Name>
                     <com:Description xml:lang="en">Professional, scientific and technical activities</com:Description>
-                <com:Name xml:lang="ru">Профессиональная, научная и техническая деятельность</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">专业、科学和技术活动</com:Name><com:Name xml:lang="ru">Профессиональная, научная и техническая деятельность</com:Name></str:Code>
                 <str:Code id="ISIC4_N" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_N">
                     <com:Name xml:lang="en">Administrative and support service activities</com:Name>
                     <com:Description xml:lang="en">Administrative and support service activities</com:Description>
-                <com:Name xml:lang="ru">Деятельность по оказанию административных и вспомогательных услуг</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">行政和支持服务活动</com:Name><com:Name xml:lang="ru">Деятельность по оказанию административных и вспомогательных услуг</com:Name></str:Code>
                 <str:Code id="ISIC4_O" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_O">
                     <com:Name xml:lang="en">Public administration and defence; compulsory social security</com:Name>
                     <com:Description xml:lang="en">Public administration and defence; compulsory social security</com:Description>
-                <com:Name xml:lang="ru">Государственное управление и оборона; обязательное социальное обеспечение</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">公共行政和国防；强制性的社会保险</com:Name><com:Name xml:lang="ru">Государственное управление и оборона; обязательное социальное обеспечение</com:Name></str:Code>
                 <str:Code id="ISIC4_P" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_P">
                     <com:Name xml:lang="en">Education</com:Name>
                     <com:Description xml:lang="en">Education</com:Description>
-                <com:Name xml:lang="ru">Образование</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">教育</com:Name><com:Name xml:lang="ru">Образование</com:Name></str:Code>
                 <str:Code id="ISIC4_Q" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_Q">
                     <com:Name xml:lang="en">Human health and social work activities</com:Name>
                     <com:Description xml:lang="en">Human health and social work activities</com:Description>
-                <com:Name xml:lang="ru">Деятельность в области здравоохранения и социальной работы с людьми</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">人类健康和社会工作活动</com:Name><com:Name xml:lang="ru">Деятельность в области здравоохранения и социальной работы с людьми</com:Name></str:Code>
                 <str:Code id="ISIC4_R" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_R">
                     <com:Name xml:lang="en">Arts, entertainment and recreation</com:Name>
                     <com:Description xml:lang="en">Arts, entertainment and recreation</com:Description>
-                <com:Name xml:lang="ru">Искусство, развлечения и отдых</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">艺术、娱乐和休闲</com:Name><com:Name xml:lang="ru">Искусство, развлечения и отдых</com:Name></str:Code>
                 <str:Code id="ISIC4_S" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_S">
                     <com:Name xml:lang="en">Other service activities</com:Name>
                     <com:Description xml:lang="en">Other service activities</com:Description>
-                <com:Name xml:lang="ru">Прочая деятельность по оказанию услуг</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">其他服务活动</com:Name><com:Name xml:lang="ru">Прочая деятельность по оказанию услуг</com:Name></str:Code>
                 <str:Code id="ISIC4_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_T">
                     <com:Name xml:lang="en">Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use</com:Name>
                     <com:Description xml:lang="en">Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use</com:Description>
-                <com:Name xml:lang="ru">Деятельность домашних хозяйств в качестве работодателей; недифференцированная деятельность домашних хозяйств по производству товаров и услуг для собственного потребления</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">家庭作为雇主的活动；家庭自用的无差别的商品和服务生产活动</com:Name><com:Name xml:lang="ru">Деятельность домашних хозяйств в качестве работодателей; недифференцированная деятельность домашних хозяйств по производству товаров и услуг для собственного потребления</com:Name></str:Code>
                 <str:Code id="ISIC4_U" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_U">
                     <com:Name xml:lang="en">Activities of extraterritorial organisations and bodies</com:Name>
                     <com:Description xml:lang="en">Activities of extraterritorial organisations and bodies</com:Description>
-                <com:Name xml:lang="ru">Деятельность экстерриториальных организаций и органов</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">域外组织和机构的活动</com:Name><com:Name xml:lang="ru">Деятельность экстерриториальных организаций и органов</com:Name></str:Code>
                 <str:Code id="ISIC4_BTU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_BTU">
                     <com:Name xml:lang="en">Non-agriculture</com:Name>
                     <com:Description xml:lang="en">Non-agriculture</com:Description>
-                <com:Name xml:lang="ru">Несельскохозяйственные</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">非农业</com:Name><com:Name xml:lang="ru">Несельскохозяйственные</com:Name></str:Code>
                 <str:Code id="ISIC4_C10T32X19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_C10T32X19">
                     <com:Name xml:lang="en">Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment</com:Name>
                     <com:Description xml:lang="en">Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment</com:Description>
-                <com:Name xml:lang="ru">Обрабатывающие производства, за исключением производства кокса и нефтепродуктов, а также ремонта и монтажа машин и оборудования</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">制造业，不包括焦炭和精炼石油产品，以及机械和设备的修理和安装</com:Name><com:Name xml:lang="ru">Обрабатывающие производства, за исключением производства кокса и нефтепродуктов, а также ремонта и монтажа машин и оборудования</com:Name></str:Code>
                 <str:Code id="ISIC4_GTS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_GTS">
                     <com:Name xml:lang="en">Services</com:Name>
                     <com:Description xml:lang="en">Services</com:Description>
-                <com:Name xml:lang="ru">Службы</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">服务</com:Name><com:Name xml:lang="ru">Службы</com:Name></str:Code>
                 <str:Code id="ISIC4_GTS_HH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_GTS_HH">
                     <com:Name xml:lang="en">Services, and activities by households</com:Name>
                     <com:Description xml:lang="en">Services, and activities by households</com:Description>
-                <com:Name xml:lang="ru">Услуги и деятельность домашних хозяйств</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">服务，和家庭的活动</com:Name><com:Name xml:lang="ru">Услуги и деятельность домашних хозяйств</com:Name></str:Code>
                 <str:Code id="ISIC4_BTFXE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_BTFXE">
                     <com:Name xml:lang="en">Industries</com:Name>
                     <com:Description xml:lang="en">Industries</com:Description>
-                <com:Name xml:lang="ru">Отрасли</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">行业</com:Name><com:Name xml:lang="ru">Отрасли</com:Name></str:Code>
                 <str:Code id="HH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).HH">
                     <com:Name xml:lang="en">Activities by households</com:Name>
                     <com:Description xml:lang="en">Activities by households</com:Description>
-                <com:Name xml:lang="ru">Деятельность домашних хозяйств</com:Name></str:Code>
+                <com:Name xml:lang="zh_Hans">家庭的活动</com:Name><com:Name xml:lang="ru">Деятельность домашних хозяйств</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_AGE" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_AGE(1.1)" version="1.1">
                 <com:Name xml:lang="en">SDG age group code list</com:Name>
@@ -9231,234 +9231,234 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0)._T">
                     <com:Name xml:lang="en">Total or no breakdown by education level</com:Name>
                     <com:Description xml:lang="en">Total or no breakdown by education level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Полностью или без разбивки по уровню образования</com:Name></str:Code>
                 <str:Code id="ISCED11_0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_0">
                     <com:Name xml:lang="en">Early childhood education</com:Name>
                     <com:Description xml:lang="en">Early childhood education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Образование детей младшего возраста</com:Name></str:Code>
                 <str:Code id="ISCED11_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_01">
                     <com:Name xml:lang="en">Early childhood educational development</com:Name>
                     <com:Description xml:lang="en">Early childhood educational development</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Развитие образования детей младшего возраста</com:Name></str:Code>
                 <str:Code id="ISCED11_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_02">
                     <com:Name xml:lang="en">Pre-primary education</com:Name>
                     <com:Description xml:lang="en">Pre-primary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Дошкольное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_1">
                     <com:Name xml:lang="en">Primary education</com:Name>
                     <com:Description xml:lang="en">Primary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Начальное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_10">
                     <com:Name xml:lang="en">Primary education</com:Name>
                     <com:Description xml:lang="en">Primary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Начальное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_2">
                     <com:Name xml:lang="en">Lower secondary education</com:Name>
                     <com:Description xml:lang="en">Lower secondary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Нижнее среднее образование</com:Name></str:Code>
                 <str:Code id="ISCED11_24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_24">
                     <com:Name xml:lang="en">Lower secondary general education</com:Name>
                     <com:Description xml:lang="en">Lower secondary general education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Нижняя ступень среднего общего образования</com:Name></str:Code>
                 <str:Code id="ISCED11_25" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_25">
                     <com:Name xml:lang="en">Lower secondary vocational education</com:Name>
                     <com:Description xml:lang="en">Lower secondary vocational education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Среднее профессиональное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_3">
                     <com:Name xml:lang="en">Upper secondary education</com:Name>
                     <com:Description xml:lang="en">Upper secondary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Полное среднее образование</com:Name></str:Code>
                 <str:Code id="ISCED11_34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_34">
                     <com:Name xml:lang="en">Upper secondary general education</com:Name>
                     <com:Description xml:lang="en">Upper secondary general education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Полное среднее общее образование</com:Name></str:Code>
                 <str:Code id="ISCED11_35" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_35">
                     <com:Name xml:lang="en">Upper secondary vocational education</com:Name>
                     <com:Description xml:lang="en">Upper secondary vocational education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Среднее профессиональное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_4">
                     <com:Name xml:lang="en">Post-secondary non-tertiary education</com:Name>
                     <com:Description xml:lang="en">Post-secondary non-tertiary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Послесреднее нетретичное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_44">
                     <com:Name xml:lang="en">Post-secondary non-tertiary general education</com:Name>
                     <com:Description xml:lang="en">Post-secondary non-tertiary general education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Послесреднее нетретичное общее образование</com:Name></str:Code>
                 <str:Code id="ISCED11_45" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_45">
                     <com:Name xml:lang="en">Post-secondary non-tertiary vocational education</com:Name>
                     <com:Description xml:lang="en">Post-secondary non-tertiary vocational education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Послесреднее нетретичное профессиональное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_5">
                     <com:Name xml:lang="en">Short-cycle tertiary education</com:Name>
                     <com:Description xml:lang="en">Short-cycle tertiary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Краткосрочное высшее образование</com:Name></str:Code>
                 <str:Code id="ISCED11_54" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_54">
                     <com:Name xml:lang="en">Short-cycle tertiary general education</com:Name>
                     <com:Description xml:lang="en">Short-cycle tertiary general education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Краткосрочное высшее общее образование</com:Name></str:Code>
                 <str:Code id="ISCED11_55" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_55">
                     <com:Name xml:lang="en">Short-cycle tertiary vocational education</com:Name>
                     <com:Description xml:lang="en">Short-cycle tertiary vocational education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Краткосрочное высшее профессиональное образование</com:Name></str:Code>
                 <str:Code id="ISCED11_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_6">
                     <com:Name xml:lang="en">Bachelor’s or equivalent level</com:Name>
                     <com:Description xml:lang="en">Bachelor’s or equivalent level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Бакалавр или эквивалентный уровень</com:Name></str:Code>
                 <str:Code id="ISCED11_7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_7">
                     <com:Name xml:lang="en">Master’s or equivalent level</com:Name>
                     <com:Description xml:lang="en">Master’s or equivalent level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Магистр или эквивалентный уровень</com:Name></str:Code>
                 <str:Code id="ISCED11_8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_8">
                     <com:Name xml:lang="en">Doctoral or equivalent level</com:Name>
                     <com:Description xml:lang="en">Doctoral or equivalent level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Докторская степень или эквивалентный уровень</com:Name></str:Code>
                 <str:Code id="ISCED11_9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_9">
                     <com:Name xml:lang="en">Not elsewhere classified</com:Name>
                     <com:Description xml:lang="en">Not elsewhere classified</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
                 <str:Code id="ISCED11_99" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_99">
                     <com:Name xml:lang="en">Not elsewhere classified</com:Name>
                     <com:Description xml:lang="en">Not elsewhere classified</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
                 <str:Code id="ISCED11A_0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_0">
                     <com:Name xml:lang="en">Less than primary education</com:Name>
                     <com:Description xml:lang="en">Less than primary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Образование менее начального</com:Name></str:Code>
                 <str:Code id="ISCED11A_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_01">
                     <com:Name xml:lang="en">Never attended an education programme / No schooling</com:Name>
                     <com:Description xml:lang="en">Never attended an education programme / No schooling</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Никогда не посещал образовательные программы / Не посещал школу</com:Name></str:Code>
                 <str:Code id="ISCED11A_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_02">
                     <com:Name xml:lang="en">Some early childhood education</com:Name>
                     <com:Description xml:lang="en">Some early childhood education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Некоторое образование для детей младшего возраста</com:Name></str:Code>
                 <str:Code id="ISCED11A_03" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_03">
                     <com:Name xml:lang="en">Some primary education</com:Name>
                     <com:Description xml:lang="en">Some primary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Некоторое начальное образование</com:Name></str:Code>
                 <str:Code id="ISCED11A_0_G23" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_0_G23">
                     <com:Name xml:lang="en">Some primary education, grades 2 or 3</com:Name>
                     <com:Description xml:lang="en">Some primary education, grades 2 or 3</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Некоторое начальное образование, 2 или 3 класса</com:Name></str:Code>
                 <str:Code id="ISCED11A_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_1">
                     <com:Name xml:lang="en">Primary education, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Primary education, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Начальное образование, достаточное для завершения уровня</com:Name></str:Code>
                 <str:Code id="ISCED11A_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_2">
                     <com:Name xml:lang="en">Lower secondary education, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Lower secondary education, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Образование ниже среднего, достаточное для завершения уровня</com:Name></str:Code>
                 <str:Code id="ISCED11A_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_3">
                     <com:Name xml:lang="en">Upper secondary education, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Upper secondary education, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Полное среднее образование, достаточное для завершения уровня</com:Name></str:Code>
                 <str:Code id="ISCED11A_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_4">
                     <com:Name xml:lang="en">Post-secondary non-tertiary education, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Post-secondary non-tertiary education, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Послесреднее нетретичное образование, достаточное для завершения уровня</com:Name></str:Code>
                 <str:Code id="ISCED11A_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_5">
                     <com:Name xml:lang="en">Short-cycle tertiary education, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Short-cycle tertiary education, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Краткосрочное высшее образование, достаточное для завершения уровня</com:Name></str:Code>
                 <str:Code id="ISCED11A_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_6">
                     <com:Name xml:lang="en">Bachelor’s or equivalent level, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Bachelor’s or equivalent level, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Бакалавр или эквивалентный уровень, достаточный для прохождения уровня</com:Name></str:Code>
                 <str:Code id="ISCED11A_7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_7">
                     <com:Name xml:lang="en">Master’s or equivalent level, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Master’s or equivalent level, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Магистр или эквивалентный уровень, достаточный для завершения уровня</com:Name></str:Code>
                 <str:Code id="ISCED11A_8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11A_8">
                     <com:Name xml:lang="en">Doctoral or equivalent level, sufficient for level completion</com:Name>
                     <com:Description xml:lang="en">Doctoral or equivalent level, sufficient for level completion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Докторская степень или эквивалентный уровень, достаточный для завершения уровня</com:Name></str:Code>
                 <str:Code id="AGGA_01_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).AGGA_01_02">
                     <com:Name xml:lang="en">No primary schooling</com:Name>
                     <com:Description xml:lang="en">No primary schooling</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Отсутствие начального образования</com:Name></str:Code>
                 <str:Code id="AGG_02T8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).AGG_02T8">
                     <com:Name xml:lang="en">Pre-primary to tertiary education</com:Name>
                     <com:Description xml:lang="en">Pre-primary to tertiary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Дошкольное и высшее образование</com:Name></str:Code>
                 <str:Code id="AGG_1_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).AGG_1_2">
                     <com:Name xml:lang="en">Primary and lower secondary education (basic education)</com:Name>
                     <com:Description xml:lang="en">Primary and lower secondary education (basic education)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Начальное и неполное среднее образование (базовое образование)</com:Name></str:Code>
                 <str:Code id="AGG_1T3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).AGG_1T3">
                     <com:Name xml:lang="en">Primary and secondary education</com:Name>
                     <com:Description xml:lang="en">Primary and secondary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Начальное и среднее образование</com:Name></str:Code>
                 <str:Code id="AGG_5T8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).AGG_5T8">
                     <com:Name xml:lang="en">Tertiary education</com:Name>
                     <com:Description xml:lang="en">Tertiary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Высшее образование</com:Name></str:Code>
                 <str:Code id="AGG_2_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).AGG_2_3">
                     <com:Name xml:lang="en">Secondary education (lower and upper secondary education)</com:Name>
                     <com:Description xml:lang="en">Secondary education (lower and upper secondary education)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Среднее образование (нижняя и верхняя ступень среднего образования)</com:Name></str:Code>
                 <str:Code id="AGG_3_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).AGG_3_4">
                     <com:Name xml:lang="en">Secondary and post-secondary non-tertiary education (intermediate)</com:Name>
                     <com:Description xml:lang="en">Secondary and post-secondary non-tertiary education (intermediate)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Среднее и послесреднее нетретичное образование (промежуточное)</com:Name></str:Code>
                 <str:Code id="ISCED11_25_35_45" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED11_25_35_45">
                     <com:Name xml:lang="en">Vocational secondary education</com:Name>
                     <com:Description xml:lang="en">Vocational secondary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Профессиональное среднее образование</com:Name></str:Code>
                 <str:Code id="ISCED97_0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_0">
                     <com:Name xml:lang="en">Pre-primary education</com:Name>
                     <com:Description xml:lang="en">Pre-primary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Дошкольное образование</com:Name></str:Code>
                 <str:Code id="ISCED97_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_1">
                     <com:Name xml:lang="en">Primary education or first stage of basic education</com:Name>
                     <com:Description xml:lang="en">Primary education or first stage of basic education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Начальное образование или первая ступень базового образования</com:Name></str:Code>
                 <str:Code id="ISCED97_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_2">
                     <com:Name xml:lang="en">Lower secondary or second stage of basic education</com:Name>
                     <com:Description xml:lang="en">Lower secondary or second stage of basic education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Первый этап среднего или второй этап базового образования</com:Name></str:Code>
                 <str:Code id="ISCED97_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_3">
                     <com:Name xml:lang="en">Upper secondary education</com:Name>
                     <com:Description xml:lang="en">Upper secondary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Полное среднее образование</com:Name></str:Code>
                 <str:Code id="ISCED97_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_4">
                     <com:Name xml:lang="en">Post-secondary non-tertiary education</com:Name>
                     <com:Description xml:lang="en">Post-secondary non-tertiary education</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Послесреднее нетретичное образование</com:Name></str:Code>
                 <str:Code id="ISCED97_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_5">
                     <com:Name xml:lang="en">First stage of tertiary education (not leading directly to an advanced research qualification)</com:Name>
                     <com:Description xml:lang="en">First stage of tertiary education (not leading directly to an advanced research qualification)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Первая ступень высшего образования (не ведущая непосредственно к продвинутой научной квалификации)</com:Name></str:Code>
                 <str:Code id="ISCED97_5A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_5A">
                     <com:Name xml:lang="en">First stage of tertiary education (theoretically based/research preparatory)</com:Name>
                     <com:Description xml:lang="en">First stage of tertiary education (theoretically based/research preparatory)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Первая ступень высшего образования (теоретически обоснованная/подготовительная к исследованиям)</com:Name></str:Code>
                 <str:Code id="ISCED97_5B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_5B">
                     <com:Name xml:lang="en">First stage of tertiary education (practical/technical/occupationally specific)</com:Name>
                     <com:Description xml:lang="en">First stage of tertiary education (practical/technical/occupationally specific)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Первая ступень высшего образования (практическое/техническое/специальное)</com:Name></str:Code>
                 <str:Code id="ISCED97_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_EDUCATION_LEV(1.0).ISCED97_6">
                     <com:Name xml:lang="en">Second stage of tertiary education (leading to an advanced research qualification)</com:Name>
                     <com:Description xml:lang="en">Second stage of tertiary education (leading to an advanced research qualification)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Вторая ступень высшего образования (ведущая к продвинутой исследовательской квалификации)</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_GEO_INFO_TYPE" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_GEO_INFO_TYPE(1.0)" version="1.0">
                 <com:Name xml:lang="en">Geoinformation type code list</com:Name>
                 <str:Code id="GML" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_GEO_INFO_TYPE(1.0).GML">
                     <com:Name xml:lang="en">Geography Markup Language</com:Name>
                     <com:Description xml:lang="en">Geography Markup Language</com:Description>
-                <com:Name xml:lang="zh_Hans">地理标记语言</com:Name><com:Name xml:lang="ru">Язык географической разметки</com:Name></str:Code>
+                <com:Name xml:lang="fr">Langage de balisage géographique</com:Name><com:Name xml:lang="es">Lenguaje de marcado geográfico</com:Name><com:Name xml:lang="zh_Hans">地理标记语言</com:Name><com:Name xml:lang="ru">Язык географической разметки</com:Name><com:Name xml:lang="ar">لغة ترميز الجغرافيا</com:Name></str:Code>
                 <str:Code id="GMLJP2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_GEO_INFO_TYPE(1.0).GMLJP2">
                     <com:Name xml:lang="en">GML in JPEG 2000 for Geographic Imagery</com:Name>
                     <com:Description xml:lang="en">GML in JPEG 2000 for Geographic Imagery</com:Description>
-                <com:Name xml:lang="zh_Hans">用于地理图像的JPEG 2000中的GML</com:Name><com:Name xml:lang="ru">GML в JPEG 2000 для географических изображений</com:Name></str:Code>
+                <com:Name xml:lang="fr">GML en JPEG 2000 pour l'imagerie géographique</com:Name><com:Name xml:lang="es">GML en JPEG 2000 para imágenes geográficas</com:Name><com:Name xml:lang="zh_Hans">用于地理图像的JPEG 2000中的GML</com:Name><com:Name xml:lang="ru">GML в JPEG 2000 для географических изображений</com:Name><com:Name xml:lang="ar">GML في JPEG 2000 للصور الجغرافية</com:Name></str:Code>
                 <str:Code id="KML_2_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_GEO_INFO_TYPE(1.0).KML_2_2">
                     <com:Name xml:lang="en">KML version 2.2</com:Name>
                     <com:Description xml:lang="en">KML version 2.2</com:Description>
-                <com:Name xml:lang="zh_Hans">KML 2.2版</com:Name><com:Name xml:lang="ru">KML версии 2.2</com:Name></str:Code>
+                <com:Name xml:lang="fr">KML version 2.2</com:Name><com:Name xml:lang="es">KML versión 2.2</com:Name><com:Name xml:lang="zh_Hans">KML 2.2版</com:Name><com:Name xml:lang="ru">KML версии 2.2</com:Name><com:Name xml:lang="ar">الإصدار 2.2 من KML</com:Name></str:Code>
                 <str:Code id="GeoJSON_1_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_GEO_INFO_TYPE(1.0).GeoJSON_1_1">
                     <com:Name xml:lang="en">GeoJSON version 1.0</com:Name>
                     <com:Description xml:lang="en">GeoJSON version 1.0</com:Description>
-                <com:Name xml:lang="zh_Hans">GeoJSON 1.0版</com:Name><com:Name xml:lang="ru">GeoJSON версии 1.0</com:Name></str:Code>
+                <com:Name xml:lang="fr">GeoJSON version 1.0</com:Name><com:Name xml:lang="es">GeoJSON versión 1.0</com:Name><com:Name xml:lang="zh_Hans">GeoJSON 1.0版</com:Name><com:Name xml:lang="ru">GeoJSON версии 1.0</com:Name><com:Name xml:lang="ar">GeoJSON الإصدار 1.0</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_NATURE" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_NATURE(1.0)" version="1.0">
                 <com:Name xml:lang="en">Nature code list</com:Name>
@@ -25905,83 +25905,83 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).A">
                     <com:Name xml:lang="en">Normal value</com:Name>
                     <com:Description xml:lang="en">To be used as default value if no value is provided or when no special coded qualification is assumed. Usually, it can be assumed that the source agency assigns sufficient confidence to the provided observation and/or the value is not expected to be dramatically revised.</com:Description>
-                <com:Name xml:lang="fr">Valeur normale</com:Name><com:Name xml:lang="es">Valor normal</com:Name><com:Name xml:lang="zh_Hans">正常值</com:Name><com:Name xml:lang="ru">Нормальное значение</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur normale</com:Name><com:Name xml:lang="es">Valor normal</com:Name><com:Name xml:lang="zh_Hans">正常值</com:Name><com:Name xml:lang="ru">Нормальное значение</com:Name><com:Name xml:lang="ar">قيمة عادية</com:Name></str:Code>
                 <str:Code id="B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).B">
                     <com:Name xml:lang="en">Time series break</com:Name>
                     <com:Description xml:lang="en">Observations are characterised as such when different content exists or a different methodology has been applied to this observation as compared with the preceding one (the one given for the previous period).</com:Description>
-                <com:Name xml:lang="fr">Rupture de la série chronologique</com:Name><com:Name xml:lang="es">Ruptura de la serie temporal</com:Name><com:Name xml:lang="zh_Hans">时间序列中断</com:Name><com:Name xml:lang="ru">Разрыв временного ряда</com:Name></str:Code>
+                <com:Name xml:lang="fr">Rupture de la série chronologique</com:Name><com:Name xml:lang="es">Ruptura de la serie temporal</com:Name><com:Name xml:lang="zh_Hans">时间序列中断</com:Name><com:Name xml:lang="ru">Разрыв временного ряда</com:Name><com:Name xml:lang="ar">كسر السلسلة الزمنية</com:Name></str:Code>
                 <str:Code id="D" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).D">
                     <com:Name xml:lang="en">Definition differs</com:Name>
                     <com:Description xml:lang="en">Used to indicate slight deviations from the established methodology (footnote-type information); these divergences do not imply a break in time series.</com:Description>
-                <com:Name xml:lang="fr">La définition diffère</com:Name><com:Name xml:lang="es">La definición difiere</com:Name><com:Name xml:lang="zh_Hans">定义不同</com:Name><com:Name xml:lang="ru">Различия в определении</com:Name></str:Code>
+                <com:Name xml:lang="fr">La définition diffère</com:Name><com:Name xml:lang="es">La definición difiere</com:Name><com:Name xml:lang="zh_Hans">定义不同</com:Name><com:Name xml:lang="ru">Различия в определении</com:Name><com:Name xml:lang="ar">التعريف يختلف</com:Name></str:Code>
                 <str:Code id="E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).E">
                     <com:Name xml:lang="en">Estimated value</com:Name>
                     <com:Description xml:lang="en">Observation obtained through an estimation methodology (e.g. to produce back-casts) or based on the use of a limited amount of data or ad hoc sampling and through additional calculations (e.g. to produce a value at an early stage of the production stage while not all data are available). It may also be used in case of experimental data (e.g. in the context of a pilot ahead of a full scale production process) or in case of data of (anticipated/assessed) low quality. If needed, additional information can be provided through free text using the COMMENT_OBS attribute at the observation level or at a higher level.</com:Description>
-                <com:Name xml:lang="fr">Valeur estimée</com:Name><com:Name xml:lang="es">Valor estimado</com:Name><com:Name xml:lang="zh_Hans">估计价值</com:Name><com:Name xml:lang="ru">Оценочная стоимость</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur estimée</com:Name><com:Name xml:lang="es">Valor estimado</com:Name><com:Name xml:lang="zh_Hans">估计价值</com:Name><com:Name xml:lang="ru">Оценочная стоимость</com:Name><com:Name xml:lang="ar">القيمة المقدرة</com:Name></str:Code>
                 <str:Code id="F" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).F">
                     <com:Name xml:lang="en">Forecast value</com:Name>
                     <com:Description xml:lang="en">Value deemed to assess the magnitude which a quantity will assume at some future point of time (as distinct from "estimated value" which attempts to assess the magnitude of an already existent quantity).</com:Description>
-                <com:Name xml:lang="fr">Valeur prévisionnelle</com:Name><com:Name xml:lang="es">Valor previsto</com:Name><com:Name xml:lang="zh_Hans">预测值</com:Name><com:Name xml:lang="ru">Прогнозная стоимость</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur prévisionnelle</com:Name><com:Name xml:lang="es">Valor previsto</com:Name><com:Name xml:lang="zh_Hans">预测值</com:Name><com:Name xml:lang="ru">Прогнозная стоимость</com:Name><com:Name xml:lang="ar">قيمة التنبؤ</com:Name></str:Code>
                 <str:Code id="G" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).G">
                     <com:Name xml:lang="en">Experimental value</com:Name>
                     <com:Description xml:lang="en">Data collected on the basis of definitions or (alternative) collection methods under development. Data not of guaranteed quality as normally expected from provider.</com:Description>
-                <com:Name xml:lang="fr">Valeur expérimentale</com:Name><com:Name xml:lang="es">Valor experimental</com:Name><com:Name xml:lang="zh_Hans">实验值</com:Name><com:Name xml:lang="ru">Экспериментальное значение</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur expérimentale</com:Name><com:Name xml:lang="es">Valor experimental</com:Name><com:Name xml:lang="zh_Hans">实验值</com:Name><com:Name xml:lang="ru">Экспериментальное значение</com:Name><com:Name xml:lang="ar">القيمة التجريبية</com:Name></str:Code>
                 <str:Code id="H" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).H">
                     <com:Name xml:lang="en">Missing value; holiday or weekend</com:Name>
                     <com:Description xml:lang="en">Used in some daily data flows.</com:Description>
-                <com:Name xml:lang="fr">Valeur manquante ; vacances ou week-end</com:Name><com:Name xml:lang="es">Valor ausente; vacaciones o fin de semana</com:Name><com:Name xml:lang="zh_Hans">缺少的值；假日或周末</com:Name><com:Name xml:lang="ru">Отсутствующее значение; праздничные или выходные дни</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur manquante ; vacances ou week-end</com:Name><com:Name xml:lang="es">Valor ausente; vacaciones o fin de semana</com:Name><com:Name xml:lang="zh_Hans">缺少的值；假日或周末</com:Name><com:Name xml:lang="ru">Отсутствующее значение; праздничные или выходные дни</com:Name><com:Name xml:lang="ar">قيمة مفقودة؛ عطلة أو عطلة نهاية الأسبوع</com:Name></str:Code>
                 <str:Code id="I" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).I">
                     <com:Name xml:lang="en">Imputed value (CCSA definition)</com:Name>
                     <com:Description xml:lang="en">Observation imputed by international organisations to replace or fill gaps in national data series, in line with the recommendations of the United Nations Committee for the Coordination of Statistical Activities (CCSA).</com:Description>
-                <com:Name xml:lang="fr">Valeur imputée (définition du CCSA)</com:Name><com:Name xml:lang="es">Valor imputado (definición CCSA)</com:Name><com:Name xml:lang="zh_Hans">估算值（CCSA定义</com:Name><com:Name xml:lang="ru">Вмененное значение (определение CCSA)</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur imputée (définition du CCSA)</com:Name><com:Name xml:lang="es">Valor imputado (definición CCSA)</com:Name><com:Name xml:lang="zh_Hans">估算值（CCSA定义</com:Name><com:Name xml:lang="ru">Вмененное значение (определение CCSA)</com:Name><com:Name xml:lang="ar">القيمة المزعومة (تعريف CCSA)</com:Name></str:Code>
                 <str:Code id="J" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).J">
                     <com:Name xml:lang="en">Derogation</com:Name>
                     <com:Description xml:lang="en">Clause in an agreement (e.g. legal act, gentlemen's agreement) stating that some provisions in the agreement are not to be implemented by designated parties; these derogations may affect the observation or cause a missing value. In general, derogations are limited in time.</com:Description>
-                <com:Name xml:lang="fr">Dérogation</com:Name><com:Name xml:lang="es">Excepción</com:Name><com:Name xml:lang="zh_Hans">减损</com:Name><com:Name xml:lang="ru">Отступление</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dérogation</com:Name><com:Name xml:lang="es">Excepción</com:Name><com:Name xml:lang="zh_Hans">减损</com:Name><com:Name xml:lang="ru">Отступление</com:Name><com:Name xml:lang="ar">عدم التقيد</com:Name></str:Code>
                 <str:Code id="K" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).K">
                     <com:Name xml:lang="en">Data included in another category</com:Name>
                     <com:Description xml:lang="en">This code is used when data for a given category are missing and are included in another category, sub-total or total. Generally where code "K" is used there should be a corresponding code "W - Includes data from another category" assigned to the over-covered category. Implementers and data reporters should use the COMMENT_OBS observation-level attribute to specify under which category the data are included.</com:Description>
-                <com:Name xml:lang="fr">Données incluses dans une autre catégorie</com:Name><com:Name xml:lang="es">Datos incluidos en otra categoría</com:Name><com:Name xml:lang="zh_Hans">列入另一类别的数据</com:Name><com:Name xml:lang="ru">Данные, включенные в другую категорию</com:Name></str:Code>
+                <com:Name xml:lang="fr">Données incluses dans une autre catégorie</com:Name><com:Name xml:lang="es">Datos incluidos en otra categoría</com:Name><com:Name xml:lang="zh_Hans">列入另一类别的数据</com:Name><com:Name xml:lang="ru">Данные, включенные в другую категорию</com:Name><com:Name xml:lang="ar">البيانات المدرجة في فئة أخرى</com:Name></str:Code>
                 <str:Code id="L" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).L">
                     <com:Name xml:lang="en">Missing value; data exist but were not collected</com:Name>
                     <com:Description xml:lang="en">Used, for example, when some data are not reported/disseminated because they are below a certain threshold.</com:Description>
-                <com:Name xml:lang="fr">Valeur manquante ; les données existent mais n'ont pas été collectées.</com:Name><com:Name xml:lang="es">Valor ausente; los datos existen pero no se recogieron</com:Name><com:Name xml:lang="zh_Hans">缺失值；数据存在但未收集</com:Name><com:Name xml:lang="ru">Отсутствующее значение; данные существуют, но не были собраны</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur manquante ; les données existent mais n'ont pas été collectées.</com:Name><com:Name xml:lang="es">Valor ausente; los datos existen pero no se recogieron</com:Name><com:Name xml:lang="zh_Hans">缺失值；数据存在但未收集</com:Name><com:Name xml:lang="ru">Отсутствующее значение; данные существуют, но не были собраны</com:Name><com:Name xml:lang="ar">قيمة مفقودة؛ البيانات موجودة ولكن لم يتم جمعها</com:Name></str:Code>
                 <str:Code id="M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).M">
                     <com:Name xml:lang="en">Missing value; data cannot exist</com:Name>
                     <com:Description xml:lang="en">Used to denote empty cells resulting from the impossibility to collect a statistical value (e.g. a particular education level or type of institution may be not applicable to a given country's education system).</com:Description>
-                <com:Name xml:lang="fr">Valeur manquante ; les données ne peuvent pas exister</com:Name><com:Name xml:lang="es">Valor ausente; los datos no pueden existir</com:Name><com:Name xml:lang="zh_Hans">缺失值；数据不存在</com:Name><com:Name xml:lang="ru">Отсутствующее значение; данные не могут существовать</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur manquante ; les données ne peuvent pas exister</com:Name><com:Name xml:lang="es">Valor ausente; los datos no pueden existir</com:Name><com:Name xml:lang="zh_Hans">缺失值；数据不存在</com:Name><com:Name xml:lang="ru">Отсутствующее значение; данные не могут существовать</com:Name><com:Name xml:lang="ar">قيمة مفقودة؛ لا يمكن أن توجد البيانات</com:Name></str:Code>
                 <str:Code id="N" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).N">
                     <com:Name xml:lang="en">Not significant</com:Name>
                     <com:Description xml:lang="en">Used to indicate a value which is not a "real" zero (e.g. a result of 0.0004 rounded to zero).</com:Description>
-                <com:Name xml:lang="fr">Non significatif</com:Name><com:Name xml:lang="es">No es significativo</com:Name><com:Name xml:lang="zh_Hans">不显著</com:Name><com:Name xml:lang="ru">Незначительно</com:Name></str:Code>
+                <com:Name xml:lang="fr">Non significatif</com:Name><com:Name xml:lang="es">No es significativo</com:Name><com:Name xml:lang="zh_Hans">不显著</com:Name><com:Name xml:lang="ru">Незначительно</com:Name><com:Name xml:lang="ar">ليس كبيرا</com:Name></str:Code>
                 <str:Code id="O" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).O">
                     <com:Name xml:lang="en">Missing value</com:Name>
                     <com:Description xml:lang="en">This code is to be used when no breakdown is made between the reasons why data are missing. Data can be missing due to many reasons: data cannot exist, data exist but are not collected (e.g. because they are below a certain threshold or subject to a derogation clause), data are unreliable, etc.</com:Description>
-                <com:Name xml:lang="fr">Valeur manquante</com:Name><com:Name xml:lang="es">Valor perdido</com:Name><com:Name xml:lang="zh_Hans">缺少的值</com:Name><com:Name xml:lang="ru">Отсутствующее значение</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur manquante</com:Name><com:Name xml:lang="es">Valor perdido</com:Name><com:Name xml:lang="zh_Hans">缺少的值</com:Name><com:Name xml:lang="ru">Отсутствующее значение</com:Name><com:Name xml:lang="ar">قيمة مفقودة</com:Name></str:Code>
                 <str:Code id="P" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).P">
                     <com:Name xml:lang="en">Provisional value</com:Name>
                     <com:Description xml:lang="en">An observation is characterised as "provisional" when the source agency - while it bases its calculations on its standard production methodology - considers that the data, almost certainly, are expected to be revised.</com:Description>
-                <com:Name xml:lang="fr">Valeur provisoire</com:Name><com:Name xml:lang="es">Valor provisional</com:Name><com:Name xml:lang="zh_Hans">暂定价值</com:Name><com:Name xml:lang="ru">Предварительная стоимость</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur provisoire</com:Name><com:Name xml:lang="es">Valor provisional</com:Name><com:Name xml:lang="zh_Hans">暂定价值</com:Name><com:Name xml:lang="ru">Предварительная стоимость</com:Name><com:Name xml:lang="ar">القيمة المؤقتة</com:Name></str:Code>
                 <str:Code id="Q" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).Q">
                     <com:Name xml:lang="en">Missing value; suppressed</com:Name>
                     <com:Description xml:lang="en">Used, for example, when data are suppressed due to statistical confidentiality considerations.</com:Description>
-                <com:Name xml:lang="fr">Valeur manquante ; supprimée</com:Name><com:Name xml:lang="es">Valor perdido; suprimido</com:Name><com:Name xml:lang="zh_Hans">缺少的值；被抑制</com:Name><com:Name xml:lang="ru">Отсутствующее значение; подавлено</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur manquante ; supprimée</com:Name><com:Name xml:lang="es">Valor perdido; suprimido</com:Name><com:Name xml:lang="zh_Hans">缺少的值；被抑制</com:Name><com:Name xml:lang="ru">Отсутствующее значение; подавлено</com:Name><com:Name xml:lang="ar">قيمة مفقودة؛ قمع</com:Name></str:Code>
                 <str:Code id="S" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).S">
                     <com:Name xml:lang="en">Strike and other special events</com:Name>
                     <com:Description xml:lang="en">Special circumstances (e.g. strike) affecting the observation or causing a missing value.</com:Description>
-                <com:Name xml:lang="fr">Grève et autres événements spéciaux</com:Name><com:Name xml:lang="es">Huelga y otros eventos especiales</com:Name><com:Name xml:lang="zh_Hans">罢工和其他特殊事件</com:Name><com:Name xml:lang="ru">Забастовка и другие специальные мероприятия</com:Name></str:Code>
+                <com:Name xml:lang="fr">Grève et autres événements spéciaux</com:Name><com:Name xml:lang="es">Huelga y otros eventos especiales</com:Name><com:Name xml:lang="zh_Hans">罢工和其他特殊事件</com:Name><com:Name xml:lang="ru">Забастовка и другие специальные мероприятия</com:Name><com:Name xml:lang="ar">الإضراب والمناسبات الخاصة الأخرى</com:Name></str:Code>
                 <str:Code id="U" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).U">
                     <com:Name xml:lang="en">Low reliability</com:Name>
                     <com:Description xml:lang="en">This indicates existing observations, but for which the user should also be aware of the low quality assigned.</com:Description>
-                <com:Name xml:lang="fr">Faible fiabilité</com:Name><com:Name xml:lang="es">Baja fiabilidad</com:Name><com:Name xml:lang="zh_Hans">可靠性低</com:Name><com:Name xml:lang="ru">Низкая надежность</com:Name></str:Code>
+                <com:Name xml:lang="fr">Faible fiabilité</com:Name><com:Name xml:lang="es">Baja fiabilidad</com:Name><com:Name xml:lang="zh_Hans">可靠性低</com:Name><com:Name xml:lang="ru">Низкая надежность</com:Name><com:Name xml:lang="ar">موثوقية منخفضة</com:Name></str:Code>
                 <str:Code id="V" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).V">
                     <com:Name xml:lang="en">Unvalidated value</com:Name>
                     <com:Description xml:lang="en">Observation as received from the respondent without further evaluation of data quality.</com:Description>
-                <com:Name xml:lang="fr">Valeur non validée</com:Name><com:Name xml:lang="es">Valor no validado</com:Name><com:Name xml:lang="zh_Hans">无效的值</com:Name><com:Name xml:lang="ru">Недействительное значение</com:Name></str:Code>
+                <com:Name xml:lang="fr">Valeur non validée</com:Name><com:Name xml:lang="es">Valor no validado</com:Name><com:Name xml:lang="zh_Hans">无效的值</com:Name><com:Name xml:lang="ru">Недействительное значение</com:Name><com:Name xml:lang="ar">قيمة غير صحيحة</com:Name></str:Code>
                 <str:Code id="W" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_OBS_STATUS(2.1).W">
                     <com:Name xml:lang="en">Includes data from another category</com:Name>
                     <com:Description xml:lang="en">This code is used when data include another category, or go beyond the scope of the data collection and are therefore over-covered. Generally, where code "W" is used there should be a corresponding code "K - Data included in another category" assigned to the category which is under-covered. Implementers and data reporters should use the COMMENT_OBS observation-level attribute to specify which additional data are included.</com:Description>
-                <com:Name xml:lang="fr">Inclut les données d'une autre catégorie</com:Name><com:Name xml:lang="es">Incluye datos de otra categoría</com:Name><com:Name xml:lang="zh_Hans">包括另一个类别的数据</com:Name><com:Name xml:lang="ru">Включает данные из другой категории</com:Name></str:Code>
+                <com:Name xml:lang="fr">Inclut les données d'une autre catégorie</com:Name><com:Name xml:lang="es">Incluye datos de otra categoría</com:Name><com:Name xml:lang="zh_Hans">包括另一个类别的数据</com:Name><com:Name xml:lang="ru">Включает данные из другой категории</com:Name><com:Name xml:lang="ar">يتضمن بيانات من فئة أخرى</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="SDMX" id="CL_UNIT_MULT" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=SDMX:CL_UNIT_MULT(1.1)" version="1.1">
                 <com:Name xml:lang="en">Unit Multiplier</com:Name>
