@@ -1,1 +1,53 @@
-{}
+W_PER_CAPITA: Vatios per cápita
+USD_PER_M3: Dólares estadounidenses por metro cúbico
+USD: Dólar estadounidense
+UNIT_MEASURE: Unidad de medida
+T_PER_HA: Toneladas por hectárea
+T_KM: Toneladas-kilómetro
+TEU: Unidades equivalentes a veinte pies (TEU)
+TCO2E: Toneladas de CO2 equivalente
+T: Toneladas métricas
+SCORE: Puntuación
+RO: Ratio
+P_KM: Pasajeros-kilómetros
+PV_USD: USD en términos de valor neto actual
+PT: Por ciento
+PROB: Probabilidad
+PH: pH
+PER_USD_GDP_PPP: Por 1 USD de PIB (PPA)
+PER_100_POP: Por cada 100 habitantes
+PER_100_LIVE_BIRTHS: Por cada 100 nacidos vivos
+PER_1000_USD: Por 1.000 USD
+PER_1000_UNINFECTED_POP: Por cada 1.000 habitantes no infectados
+PER_1000_POP: Por cada 1.000 habitantes
+PER_1000_LIVE_BIRTHS: Por cada 1.000 nacidos vivos
+PER_10000_POP: Por cada 10.000 habitantes
+PER_100000_WKRS_EXPD: Por cada 100.000 trabajadores expuestos al riesgo
+PER_100000_WKRS_EMP: Por cada 100.000 trabajadores empleados
+PER_100000_PRSN_INSR: Por cada 100.000 personas aseguradas
+PER_100000_POP: Por cada 100.000 habitantes
+PER_100000_LIVE_BIRTHS: Por cada 100.000 nacidos vivos
+PER_100000_FTE: Por cada 100.000 equivalentes a tiempo completo
+PER_100000_EMP: Por cada 100.000 empleados
+PER_1000000_POP: Por millón de habitantes
+NUMBER: Número
+M_M3_PER_YR: Millones de metros cúbicos al año
+MJ_PER_GDP_CON_PPP_USD: Megajulios por PIB PPA constante en USD
+LITRES_PURE_ALCOHOL: Litros de alcohol puro
+LCU_PPP_USD: Moneda local por USD (PPA)
+KM2: Kilómetros cuadrados
+KM: Kilómetros
+KG_PER_CON_USD: Kilogramos por dólar constante
+KG_OE_PER_GDP_USD: kg de petróleo equivalente por 1.000 USD de PIB
+KG_OE_PER_GDP_CON_PPP_USD: kg de equivalente de petróleo por 1.000 USD de PIB constante
+  en PPA
+KG_C_KM2_PER_DAY: kilogramos de carbono procedentes de la biomasa de algas por km2
+  de superficie de la cuenca hidrográfica al día
+KG_CO2_PER_GDP_CON_PPP_USD: kg de CO2 equivalente por 1 USD de PIB PPA constante
+KG: Kilogramos
+IX: Indice
+HA: Hectáreas
+GPERM3: Microgramos por metro cúbico
+CUR_LCU: Moneda local
+CON_USD: USD constantes
+BOOL: Medida booleana o binaria

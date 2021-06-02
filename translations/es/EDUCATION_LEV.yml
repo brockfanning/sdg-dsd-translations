@@ -1,1 +1,57 @@
-{}
+_T: Total o sin desglose por nivel de estudios
+ISCED97_6: Segunda etapa de educación terciaria (conducente a una cualificación de
+  investigación avanzada)
+ISCED97_5B: Primera etapa de la educación terciaria (práctica/técnica/profesional)
+ISCED97_5A: Primera etapa de la educación terciaria (con base teórica/preparación
+  para la investigación)
+ISCED97_5: Primera etapa de la educación terciaria (que no conduce directamente a
+  una cualificación de investigación avanzada)
+ISCED97_4: Educación postsecundaria no terciaria
+ISCED97_3: Educación secundaria superior
+ISCED97_2: Primer ciclo de secundaria o segunda etapa de educación básica
+ISCED97_1: Educación primaria o primera etapa de la educación básica
+ISCED97_0: Educación preescolar
+ISCED11_99: No clasificados en otra parte
+ISCED11_9: No clasificados en otra parte
+ISCED11_8: Nivel de doctorado o equivalente
+ISCED11_7: Máster o nivel equivalente
+ISCED11_6: Licenciatura o nivel equivalente
+ISCED11_55: Formación profesional terciaria de ciclo corto
+ISCED11_54: Educación general terciaria de ciclo corto
+ISCED11_5: Educación terciaria de ciclo corto
+ISCED11_45: Enseñanza profesional postsecundaria no terciaria
+ISCED11_44: Educación general postsecundaria no terciaria
+ISCED11_4: Educación postsecundaria no terciaria
+ISCED11_35: Formación profesional secundaria superior
+ISCED11_34: Educación general secundaria superior
+ISCED11_3: Educación secundaria superior
+ISCED11_25_35_45: Enseñanza secundaria profesional
+ISCED11_25: Formación profesional de primer ciclo de secundaria
+ISCED11_24: Enseñanza general de primer ciclo de secundaria
+ISCED11_2: Educación secundaria inferior
+ISCED11_10: Educación primaria
+ISCED11_1: Educación primaria
+ISCED11_02: Educación preescolar
+ISCED11_01: Desarrollo educativo de la primera infancia
+ISCED11_0: Educación infantil
+ISCED11A_8: Nivel de doctorado o equivalente, suficiente para completar el nivel
+ISCED11A_7: Máster o nivel equivalente, suficiente para completar el nivel
+ISCED11A_6: Licenciatura o nivel equivalente, suficiente para completar el nivel
+ISCED11A_5: Educación terciaria de ciclo corto, suficiente para completar el nivel
+ISCED11A_4: Educación postsecundaria no terciaria, suficiente para completar el nivel
+ISCED11A_3: Educación secundaria superior, suficiente para completar el nivel
+ISCED11A_2: Educación secundaria inferior, suficiente para completar el nivel
+ISCED11A_1: Educación primaria, suficiente para completar el nivel
+ISCED11A_0_G23: Algo de educación primaria, grados 2 o 3
+ISCED11A_03: Algo de educación primaria
+ISCED11A_02: Algunos de educación infantil
+ISCED11A_01: Nunca ha asistido a un programa de educación / No está escolarizado
+ISCED11A_0: Educación inferior a la primaria
+EDUCATION_LEV: Nivel Educativo
+AGG_5T8: Educación terciaria
+AGG_3_4: Educación secundaria y postsecundaria no terciaria (intermedia)
+AGG_2_3: Educación secundaria (primer y segundo ciclo de secundaria)
+AGG_1_2: Educación primaria y secundaria inferior (educación básica)
+AGG_1T3: Educación primaria y secundaria
+AGG_02T8: Desde la enseñanza preescolar hasta la terciaria
+AGGA_01_02: Sin estudios primarios

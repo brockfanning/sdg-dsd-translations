@@ -1,1 +1,43 @@
-{}
+_T: Todas las ocupaciones o sin desglose por Ocupación
+OCCUPATION: Empleo
+ISCO88_X: No clasificados en otra parte
+ISCO88_9: Ocupaciones elementales
+ISCO88_8: Operadores de instalaciones y máquinas y montadores
+ISCO88_7: Artesanos y trabajadores de oficios conexos
+ISCO88_6: Trabajadores cualificados de la agricultura y la pesca
+ISCO88_5: Trabajadores de servicios y vendedores de tiendas y mercados
+ISCO88_4: Empleados
+ISCO88_3: Técnicos y profesionales asociados
+ISCO88_223: Profesionales de la enfermería y la obstetricia
+ISCO88_2224: Farmacéuticos
+ISCO88_2222: Dentistas
+ISCO88_2221: Médicos
+ISCO88_2: Profesional
+ISCO88_1: Legisladores, altos funcionarios y directivos
+ISCO88_0: Fuerzas armadas
+ISCO68_X: No clasificados en otra parte
+ISCO68_AF: Fuerzas Armadas
+ISCO68_7-9: Trabajadores de la producción y afines, operadores de equipos de transporte
+  y peones
+ISCO68_6: Trabajadores agrícolas, ganaderos y forestales, pescadores y cazadores
+ISCO68_5: Trabajadores de servicios
+ISCO68_4: Trabajadores de ventas
+ISCO68_3: Personal de oficina y afines
+ISCO68_2: Trabajadores administrativos y de gestión
+ISCO68_0-1: Trabajadores profesionales, técnicos y afines
+ISCO08_X: No clasificados en otra parte
+ISCO08_9: Ocupaciones elementales
+ISCO08_8: Operadores de instalaciones y máquinas, y montadores
+ISCO08_7: Artesanos y trabajadores de oficios conexos
+ISCO08_6: Trabajadores cualificados de la agricultura, la silvicultura y la pesca
+ISCO08_5: Trabajadores de servicios y ventas
+ISCO08_4: Personal de apoyo administrativo
+ISCO08_3: Técnicos y profesionales asociados
+ISCO08_2262: Farmacéuticos
+ISCO08_2261: Dentistas
+ISCO08_222_322: Personal de enfermería y partería
+ISCO08_2221_3221: Personal de enfermería
+ISCO08_221: Médicos
+ISCO08_2: Profesional
+ISCO08_1: Supervisores
+ISCO08_0: Ocupaciones de las fuerzas armadas

@@ -1,1 +1,52 @@
-{}
+W_PER_CAPITA: Watts par habitant
+USD_PER_M3: Dollars américains par mètre cube
+USD: USD
+UNIT_MEASURE: Unité de mesure
+T_PER_HA: Tonnes par hectare
+T_KM: Tonnes-kilomètres
+TEU: Unités équivalentes à vingt pieds (EVP)
+TCO2E: Tonnes d'équivalent CO2
+T: Tonnes métriques
+SCORE: Résultat
+RO: Ratio
+P_KM: Passagers-kilomètres
+PV_USD: USD en termes de valeur actuelle nette
+PT: Pourcent
+PROB: Probabilité
+PH: pH
+PER_USD_GDP_PPP: Pour 1 USD de PIB (PPA)
+PER_100_POP: Pour 100 habitants
+PER_100_LIVE_BIRTHS: Pour 100 naissances vivantes
+PER_1000_USD: Pour 1 000 USD
+PER_1000_UNINFECTED_POP: Pour 1 000 habitants non infectés
+PER_1000_POP: Pour 1 000 habitants
+PER_1000_LIVE_BIRTHS: Pour 1 000 naissances vivantes
+PER_10000_POP: Pour 10 000 habitants
+PER_100000_WKRS_EXPD: Pour 100 000 travailleurs exposés au risque
+PER_100000_WKRS_EMP: Pour 100 000 travailleurs employés
+PER_100000_PRSN_INSR: Pour 100 000 personnes assurées
+PER_100000_POP: Pour 100 000 habitants
+PER_100000_LIVE_BIRTHS: Pour 100 000 naissances vivantes
+PER_100000_FTE: Pour 100 000 équivalents temps plein
+PER_100000_EMP: Pour 100 000 employés
+PER_1000000_POP: Par million d'habitants
+NUMBER: Numéro
+M_M3_PER_YR: Million de mètres cubes par an
+MJ_PER_GDP_CON_PPP_USD: Mégajoules par USD constant PPA PIB
+LITRES_PURE_ALCOHOL: Litres d'alcool pur
+LCU_PPP_USD: Monnaie locale par USD (PPA)
+KM2: Kilomètres carrés
+KM: Kilomètres
+KG_PER_CON_USD: Kilogrammes par USD constant
+KG_OE_PER_GDP_USD: kg d'équivalent pétrole par 1 000 USD de PIB
+KG_OE_PER_GDP_CON_PPP_USD: kg d'équivalent pétrole par 1 000 USD de PIB PPA constant
+KG_C_KM2_PER_DAY: kilogrammes de carbone provenant de la biomasse des algues par km²
+  de bassin fluvial et par jour
+KG_CO2_PER_GDP_CON_PPP_USD: kg d'équivalent CO2 par USD1 PIB PPA constant
+KG: Kilogrammes
+IX: Index
+HA: Hectares
+GPERM3: Microgrammes par mètre cube
+CUR_LCU: Monnaie locale
+CON_USD: USD constant
+BOOL: Mesure booléenne ou binaire
