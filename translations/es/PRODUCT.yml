@@ -1,1 +1,30 @@
-{}
+_T: No hay desglose
+PRODUCT: Tipo de producto
+MF_AGG3B: Minerales no metálicos - dominante industrial o agrícola (flujos de materiales)
+MF_AGG3A: Minerales no metálicos - construcción dominante (flujos de materiales)
+MF422: Gas natural (flujos de materiales)
+MF421: Petróleo (flujos de materiales)
+MF413: Esquisto bituminoso y arenas bituminosas (flujos de materiales)
+MF41: Carbón (flujos de materiales)
+MF4: Combustibles fósiles (flujos de materiales)
+MF3: Minerales no metálicos (flujos de materiales)
+MF22: Minerales no ferrosos (flujos de materiales)
+MF21: Minerales ferrosos (flujos de material)
+MF2: Minerales metálicos (flujos de materiales)
+MF14: Captura y recolección silvestre (flujos de materiales)
+MF13: Madera (flujos de materiales)
+MF122: Biomasa de pastoreo y cultivos forrajeros (flujos de materiales)
+MF121: Residuos de cultivos (flujos de materiales)
+MF11: Cultivos (flujos de materiales)
+MF1: Biomasa (flujos de materiales)
+CPC2_1_118: Mijo
+CPC2_1_114: Sorgo
+CPC2_1_113: Arroz
+CPC2_1_112: Maíz
+CPC2_1_111: Trigo
+AGG_TXT: Textiles
+AGG_OIL: Petróleo
+AGG_IND: Productos industriales
+AGG_CLTH: Vestimenta
+AGG_ARMS: Brazos
+AGG_AGR: Productos agrícolas
