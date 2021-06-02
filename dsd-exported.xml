@@ -4294,919 +4294,919 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4)._T">
                     <com:Name xml:lang="en">No breakdown</com:Name>
                     <com:Description xml:lang="en">No breakdown</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">没有细分</com:Name></str:Code>
                 <str:Code id="SKILL_MATH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_MATH">
                     <com:Name xml:lang="en">Skill: Mathematics</com:Name>
                     <com:Description xml:lang="en">Skill: Mathematics</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能。数学</com:Name></str:Code>
                 <str:Code id="SKILL_READ" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_READ">
                     <com:Name xml:lang="en">Skill: Reading</com:Name>
                     <com:Description xml:lang="en">Skill: Reading</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能。阅读</com:Name></str:Code>
                 <str:Code id="SKILL_LTRCY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_LTRCY">
                     <com:Name xml:lang="en">Skill: Functional literacy</com:Name>
                     <com:Description xml:lang="en">Skill: Functional literacy</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能。功能性识字</com:Name></str:Code>
                 <str:Code id="SKILL_NMRCY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_NMRCY">
                     <com:Name xml:lang="en">Skill: Functional numeracy</com:Name>
                     <com:Description xml:lang="en">Skill: Functional numeracy</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能。功能性计算能力</com:Name></str:Code>
                 <str:Code id="SKILL_ICTATCH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTATCH">
                     <com:Name xml:lang="en">Skill: ICT Skill: Sending e-mails with attached files</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Sending e-mails with attached files</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。发送带有附件的电子邮件</com:Name></str:Code>
                 <str:Code id="SKILL_ICTCPT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTCPT">
                     <com:Name xml:lang="en">Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。使用复制和粘贴工具，在文件中复制或移动信息</com:Name></str:Code>
                 <str:Code id="SKILL_ICTCDV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTCDV">
                     <com:Name xml:lang="en">Skill: ICT Skill: connecting and installing new devices</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: connecting and installing new devices</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能：连接和安装新设备</com:Name></str:Code>
                 <str:Code id="SKILL_ICTSSHT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTSSHT">
                     <com:Name xml:lang="en">Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。在电子表格中使用基本算术公式</com:Name></str:Code>
                 <str:Code id="SKILL_ICTPRGM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTPRGM">
                     <com:Name xml:lang="en">Skill: ICT Skill: Writing a computer program using a specialized programming language</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Writing a computer program using a specialized programming language</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。使用专门的编程语言编写计算机程序</com:Name></str:Code>
                 <str:Code id="SKILL_ICTPST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTPST">
                     <com:Name xml:lang="en">Skill: ICT Skill: Creating electronic presentations with presentation software</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Creating electronic presentations with presentation software</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。用演示软件制作电子演示文稿</com:Name></str:Code>
                 <str:Code id="SKILL_ICTSFWR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTSFWR">
                     <com:Name xml:lang="en">Skill: ICT Skill: Finding, downloading, installing and configuring software</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Finding, downloading, installing and configuring software</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。寻找、下载、安装和配置软件</com:Name></str:Code>
                 <str:Code id="SKILL_ICTTRFF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTTRFF">
                     <com:Name xml:lang="en">Skill: ICT Skill: Transferring files between a computer and other devices</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Transferring files between a computer and other devices</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。在计算机和其他设备之间传输文件</com:Name></str:Code>
                 <str:Code id="SKILL_ICTCMFL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SKILL_ICTCMFL">
                     <com:Name xml:lang="en">Skill: ICT Skill: Copying or moving a file or folder</com:Name>
                     <com:Description xml:lang="en">Skill: ICT Skill: Copying or moving a file or folder</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">技能：ICT技能。复制或移动一个文件或文件夹</com:Name></str:Code>
                 <str:Code id="IO_ADB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_ADB">
                     <com:Name xml:lang="en">International Organisation: Asian Development Bank</com:Name>
                     <com:Description xml:lang="en">International Organisation: Asian Development Bank</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。亚洲开发银行</com:Name></str:Code>
                 <str:Code id="IO_AFDB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_AFDB">
                     <com:Name xml:lang="en">International Organisation: African Development Bank</com:Name>
                     <com:Description xml:lang="en">International Organisation: African Development Bank</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。非洲开发银行</com:Name></str:Code>
                 <str:Code id="IO_ECOSOC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_ECOSOC">
                     <com:Name xml:lang="en">International Organisation: UN Economic and Social Council</com:Name>
                     <com:Description xml:lang="en">International Organisation: UN Economic and Social Council</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。联合国经济及社会理事会</com:Name></str:Code>
                 <str:Code id="IO_FSB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_FSB">
                     <com:Name xml:lang="en">International Organisation: Financial Stability Board</com:Name>
                     <com:Description xml:lang="en">International Organisation: Financial Stability Board</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。金融稳定委员会</com:Name></str:Code>
                 <str:Code id="IO_IADB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_IADB">
                     <com:Name xml:lang="en">International Organisation: Inter-American Development Bank</com:Name>
                     <com:Description xml:lang="en">International Organisation: Inter-American Development Bank</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。美洲开发银行</com:Name></str:Code>
                 <str:Code id="IO_IBRD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_IBRD">
                     <com:Name xml:lang="en">International Organisation: International Bank for Reconstruction and Development</com:Name>
                     <com:Description xml:lang="en">International Organisation: International Bank for Reconstruction and Development</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。国际复兴开发银行</com:Name></str:Code>
                 <str:Code id="IO_IFC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_IFC">
                     <com:Name xml:lang="en">International Organisation: International Finance Corporation</com:Name>
                     <com:Description xml:lang="en">International Organisation: International Finance Corporation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。国际金融公司</com:Name></str:Code>
                 <str:Code id="IO_IMF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_IMF">
                     <com:Name xml:lang="en">International Organisation: International Monetary Fund</com:Name>
                     <com:Description xml:lang="en">International Organisation: International Monetary Fund</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。国际货币基金组织</com:Name></str:Code>
                 <str:Code id="IO_UNGA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_UNGA">
                     <com:Name xml:lang="en">International Organisation: UN General Assembly</com:Name>
                     <com:Description xml:lang="en">International Organisation: UN General Assembly</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。联合国大会</com:Name></str:Code>
                 <str:Code id="IO_UNSC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_UNSC">
                     <com:Name xml:lang="en">International Organisation: UN Security Council</com:Name>
                     <com:Description xml:lang="en">International Organisation: UN Security Council</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。联合国安全理事会</com:Name></str:Code>
                 <str:Code id="IO_WTO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IO_WTO">
                     <com:Name xml:lang="en">International Organisation: World Trade Organisation</com:Name>
                     <com:Description xml:lang="en">International Organisation: World Trade Organisation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际组织。世界贸易组织</com:Name></str:Code>
                 <str:Code id="NCD_CNCR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).NCD_CNCR">
                     <com:Name xml:lang="en">Non-communicable disease: Cancer</com:Name>
                     <com:Description xml:lang="en">Non-communicable disease: Cancer</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">非传染性疾病。癌症</com:Name></str:Code>
                 <str:Code id="NCD_CARDIO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).NCD_CARDIO">
                     <com:Name xml:lang="en">Non-communicable disease: Cardiovascular disease</com:Name>
                     <com:Description xml:lang="en">Non-communicable disease: Cardiovascular disease</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">非传染性疾病。心血管疾病</com:Name></str:Code>
                 <str:Code id="NCD_CRESPD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).NCD_CRESPD">
                     <com:Name xml:lang="en">Non-communicable disease: Chronic respiratory disease</com:Name>
                     <com:Description xml:lang="en">Non-communicable disease: Chronic respiratory disease</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">非传染性疾病。慢性呼吸道疾病</com:Name></str:Code>
                 <str:Code id="NCD_DIABTS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).NCD_DIABTS">
                     <com:Name xml:lang="en">Non-communicable disease: Diabetes</com:Name>
                     <com:Description xml:lang="en">Non-communicable disease: Diabetes</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">非传染性疾病。糖尿病</com:Name></str:Code>
                 <str:Code id="NCD_NCOM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).NCD_NCOM">
                     <com:Name xml:lang="en">Non-communicable disease: Cardiovascular disease, cancer, diabetes, or chronic respiratory disease</com:Name>
                     <com:Description xml:lang="en">Non-communicable disease: Cardiovascular disease, cancer, diabetes, or chronic respiratory disease</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">非传染性疾病。心血管疾病、癌症、糖尿病或慢性呼吸系统疾病</com:Name></str:Code>
                 <str:Code id="MS_MIGRANT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MS_MIGRANT">
                     <com:Name xml:lang="en">Migrant Status: Migrant</com:Name>
                     <com:Description xml:lang="en">Migrant Status: Migrant</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">移徙者身份。移徙者</com:Name></str:Code>
                 <str:Code id="MS_NOMIGRANT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MS_NOMIGRANT">
                     <com:Name xml:lang="en">Migrant Status: Non-migrant</com:Name>
                     <com:Description xml:lang="en">Migrant Status: Non-migrant</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">移徙者身份。非移民</com:Name></str:Code>
                 <str:Code id="MS_EUMIGRANT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MS_EUMIGRANT">
                     <com:Name xml:lang="en">Migrant Status: EU Migrant</com:Name>
                     <com:Description xml:lang="en">Migrant Status: EU Migrant</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">移民身份。欧盟移民</com:Name></str:Code>
                 <str:Code id="MS_NONEUMIGRANT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MS_NONEUMIGRANT">
                     <com:Name xml:lang="en">Migrant Status: Non-EU Migrant</com:Name>
                     <com:Description xml:lang="en">Migrant Status: Non-EU Migrant</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">移民身份。非欧盟移民</com:Name></str:Code>
                 <str:Code id="HZT_ACIDT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ACIDT">
                     <com:Name xml:lang="en">Hazard Type: Accident</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Accident</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。事故</com:Name></str:Code>
                 <str:Code id="HZT_ACIDR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ACIDR">
                     <com:Name xml:lang="en">Hazard Type: Acid Rain</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Acid Rain</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。酸雨</com:Name></str:Code>
                 <str:Code id="HZT_ALLUV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ALLUV">
                     <com:Name xml:lang="en">Hazard Type: Alluvion</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Alluvion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。冲积层</com:Name></str:Code>
                 <str:Code id="HZT_ANIAK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ANIAK">
                     <com:Name xml:lang="en">Hazard Type: Animal Attack</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Animal Attack</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。动物攻击</com:Name></str:Code>
                 <str:Code id="HZT_AVALE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_AVALE">
                     <com:Name xml:lang="en">Hazard Type: Avalanche</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Avalanche</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。雪崩</com:Name></str:Code>
                 <str:Code id="HZT_BIOGL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_BIOGL">
                     <com:Name xml:lang="en">Hazard Type: Biological</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Biological</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。生物学</com:Name></str:Code>
                 <str:Code id="HZT_CHESP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_CHESP">
                     <com:Name xml:lang="en">Hazard Type: Chemical Spill</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Chemical Spill</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。化学品泄漏</com:Name></str:Code>
                 <str:Code id="HZT_COSER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_COSER">
                     <com:Name xml:lang="en">Hazard Type: Coastal Erosion</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Coastal Erosion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。海岸侵蚀</com:Name></str:Code>
                 <str:Code id="HZT_COSFL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_COSFL">
                     <com:Name xml:lang="en">Hazard Type: Coastal Flood</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Coastal Flood</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。沿海洪水</com:Name></str:Code>
                 <str:Code id="HZT_COLDW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_COLDW">
                     <com:Name xml:lang="en">Hazard Type: Cold Wave</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Cold Wave</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。寒潮</com:Name></str:Code>
                 <str:Code id="HZT_CSOLD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_CSOLD">
                     <com:Name xml:lang="en">Hazard Type: Consolidate</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Consolidate</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。巩固</com:Name></str:Code>
                 <str:Code id="HZT_CONTM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_CONTM">
                     <com:Name xml:lang="en">Hazard Type: Contamination</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Contamination</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。污染</com:Name></str:Code>
                 <str:Code id="HZT_CYCLN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_CYCLN">
                     <com:Name xml:lang="en">Hazard Type: Cyclone</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Cyclone</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。旋风</com:Name></str:Code>
                 <str:Code id="HZT_DFRST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_DFRST">
                     <com:Name xml:lang="en">Hazard Type: Deforestation</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Deforestation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。砍伐森林</com:Name></str:Code>
                 <str:Code id="HZT_DROUG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_DROUG">
                     <com:Name xml:lang="en">Hazard Type: Drought</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Drought</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。干旱</com:Name></str:Code>
                 <str:Code id="HZT_DZUD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_DZUD">
                     <com:Name xml:lang="en">Hazard Type: Dzud</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Dzud</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。暴风雪</com:Name></str:Code>
                 <str:Code id="HZT_ERQAK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ERQAK">
                     <com:Name xml:lang="en">Hazard Type: Earthquake</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Earthquake</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。地震</com:Name></str:Code>
                 <str:Code id="HZT_ELEST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ELEST">
                     <com:Name xml:lang="en">Hazard Type: Electric Storm</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Electric Storm</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。电力风暴</com:Name></str:Code>
                 <str:Code id="HZT_EPIDM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_EPIDM">
                     <com:Name xml:lang="en">Hazard Type: Epidemics</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Epidemics</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。流行病</com:Name></str:Code>
                 <str:Code id="HZT_EPIZT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_EPIZT">
                     <com:Name xml:lang="en">Hazard Type: Epizootic</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Epizootic</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。动物疫情</com:Name></str:Code>
                 <str:Code id="HZT_EROSN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_EROSN">
                     <com:Name xml:lang="en">Hazard Type: Erosion</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Erosion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。侵蚀</com:Name></str:Code>
                 <str:Code id="HZT_EXPLN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_EXPLN">
                     <com:Name xml:lang="en">Hazard Type: Explosion</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Explosion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。爆炸</com:Name></str:Code>
                 <str:Code id="HZT_EXTEM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_EXTEM">
                     <com:Name xml:lang="en">Hazard Type: Extreme Temperature</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Extreme Temperature</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。极端温度</com:Name></str:Code>
                 <str:Code id="HZT_FIREX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FIREX">
                     <com:Name xml:lang="en">Hazard Type: Fire</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Fire</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。火灾</com:Name></str:Code>
                 <str:Code id="HZT_FLSFL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FLSFL">
                     <com:Name xml:lang="en">Hazard Type: Flash Flood</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Flash Flood</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。山洪暴发</com:Name></str:Code>
                 <str:Code id="HZT_FLOOD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FLOOD">
                     <com:Name xml:lang="en">Hazard Type: Flood</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Flood</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。洪水</com:Name></str:Code>
                 <str:Code id="HZT_FOGXX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FOGXX">
                     <com:Name xml:lang="en">Hazard Type: Fog</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Fog</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。雾</com:Name></str:Code>
                 <str:Code id="HZT_FRZRN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FRZRN">
                     <com:Name xml:lang="en">Hazard Type: Freezing Rain</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Freezing Rain</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。冻雨</com:Name></str:Code>
                 <str:Code id="HZT_FROST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FROST">
                     <com:Name xml:lang="en">Hazard Type: Frost</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Frost</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。霜冻</com:Name></str:Code>
                 <str:Code id="HZT_GLCFL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_GLCFL">
                     <com:Name xml:lang="en">Hazard Type: Glacial Lake Outburst Flood</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Glacial Lake Outburst Flood</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。冰川湖突发洪水</com:Name></str:Code>
                 <str:Code id="HZT_HAILS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_HAILS">
                     <com:Name xml:lang="en">Hazard Type: Hailstorm</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Hailstorm</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。雹灾</com:Name></str:Code>
                 <str:Code id="HZT_HETWA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_HETWA">
                     <com:Name xml:lang="en">Hazard Type: Heat Wave</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Heat Wave</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。热浪</com:Name></str:Code>
                 <str:Code id="HZT_HEVRN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_HEVRN">
                     <com:Name xml:lang="en">Hazard Type: Heavy Rain</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Heavy Rain</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。大雨</com:Name></str:Code>
                 <str:Code id="HZT_INFET" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_INFET">
                     <com:Name xml:lang="en">Hazard Type: Insect Infestation</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Insect Infestation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。虫害</com:Name></str:Code>
                 <str:Code id="HZT_INTOX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_INTOX">
                     <com:Name xml:lang="en">Hazard Type: Intoxication</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Intoxication</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。中毒</com:Name></str:Code>
                 <str:Code id="HZT_LAHAR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_LAHAR">
                     <com:Name xml:lang="en">Hazard Type: Lahar</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Lahar</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。火山熔岩</com:Name></str:Code>
                 <str:Code id="HZT_LNDRG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_LNDRG">
                     <com:Name xml:lang="en">Hazard Type: Land Degradation</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Land Degradation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。土地退化</com:Name></str:Code>
                 <str:Code id="HZT_LNDSL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_LNDSL">
                     <com:Name xml:lang="en">Hazard Type: Landslide</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Landslide</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。山体滑坡</com:Name></str:Code>
                 <str:Code id="HZT_LIQFN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_LIQFN">
                     <com:Name xml:lang="en">Hazard Type: Liquefaction</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Liquefaction</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。液化</com:Name></str:Code>
                 <str:Code id="HZT_NUCIN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_NUCIN">
                     <com:Name xml:lang="en">Hazard Type: Nuclear Incident</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Nuclear Incident</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。核事件</com:Name></str:Code>
                 <str:Code id="HZT_OTHER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_OTHER">
                     <com:Name xml:lang="en">Hazard Type: Other</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Other</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。其他</com:Name></str:Code>
                 <str:Code id="HZT_PANIC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_PANIC">
                     <com:Name xml:lang="en">Hazard Type: Panic</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Panic</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。恐慌</com:Name></str:Code>
                 <str:Code id="HZT_PEATX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_PEATX">
                     <com:Name xml:lang="en">Hazard Type: Peat</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Peat</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。泥炭</com:Name></str:Code>
                 <str:Code id="HZT_PESTX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_PESTX">
                     <com:Name xml:lang="en">Hazard Type: Pest</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Pest</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。虫害</com:Name></str:Code>
                 <str:Code id="HZT_PLGUE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_PLGUE">
                     <com:Name xml:lang="en">Hazard Type: Plague</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Plague</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。瘟疫</com:Name></str:Code>
                 <str:Code id="HZT_POLUT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_POLUT">
                     <com:Name xml:lang="en">Hazard Type: Pollution</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Pollution</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。污染</com:Name></str:Code>
                 <str:Code id="HZT_SANDS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_SANDS">
                     <com:Name xml:lang="en">Hazard Type: Sand Storm</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Sand Storm</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。沙尘暴</com:Name></str:Code>
                 <str:Code id="HZT_SEDMN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_SEDMN">
                     <com:Name xml:lang="en">Hazard Type: Sedimentation</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Sedimentation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。沉积物</com:Name></str:Code>
                 <str:Code id="HZT_SNSTM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_SNSTM">
                     <com:Name xml:lang="en">Hazard Type: Snowstorm</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Snowstorm</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。暴风雪</com:Name></str:Code>
                 <str:Code id="HZT_STORM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_STORM">
                     <com:Name xml:lang="en">Hazard Type: Storm</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Storm</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。暴风雨</com:Name></str:Code>
                 <str:Code id="HZT_STCOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_STCOL">
                     <com:Name xml:lang="en">Hazard Type: Structural Collapse</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Structural Collapse</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。结构性倒塌</com:Name></str:Code>
                 <str:Code id="HZT_STUCK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_STUCK">
                     <com:Name xml:lang="en">Hazard Type: Stuck</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Stuck</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。卡住了</com:Name></str:Code>
                 <str:Code id="HZT_SUBSD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_SUBSD">
                     <com:Name xml:lang="en">Hazard Type: Subsidence</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Subsidence</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危害类型。下沉</com:Name></str:Code>
                 <str:Code id="HZT_TECHH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_TECHH">
                     <com:Name xml:lang="en">Hazard Type: Technological Hazard</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Technological Hazard</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">危险类型。技术性危险</com:Name></str:Code>
                 <str:Code id="HZT_TORND" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_TORND">
                     <com:Name xml:lang="en">Hazard Type: Tornado</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Tornado</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。龙卷风</com:Name></str:Code>
                 <str:Code id="HZT_TSUNM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_TSUNM">
                     <com:Name xml:lang="en">Hazard Type: Tsunami</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Tsunami</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。海啸</com:Name></str:Code>
                 <str:Code id="HZT_VOLER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_VOLER">
                     <com:Name xml:lang="en">Hazard Type: Volcanic Eruption</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Volcanic Eruption</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。火山喷发</com:Name></str:Code>
                 <str:Code id="HZT_WLDFR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_WLDFR">
                     <com:Name xml:lang="en">Hazard Type: Wild Fire</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Wild Fire</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。野生火灾</com:Name></str:Code>
                 <str:Code id="HZT_WNDST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_WNDST">
                     <com:Name xml:lang="en">Hazard Type: Windstorm</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Windstorm</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">灾害类型。风暴</com:Name></str:Code>
                 <str:Code id="MOT_AIR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MOT_AIR">
                     <com:Name xml:lang="en">Mode of Transport: Air</com:Name>
                     <com:Description xml:lang="en">Mode of Transport: Air</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">运输方式。航空</com:Name></str:Code>
                 <str:Code id="MOT_RAI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MOT_RAI">
                     <com:Name xml:lang="en">Mode of Transport: Rail</com:Name>
                     <com:Description xml:lang="en">Mode of Transport: Rail</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">运输方式。铁路</com:Name></str:Code>
                 <str:Code id="MOT_ROA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MOT_ROA">
                     <com:Name xml:lang="en">Mode of Transport: Road</com:Name>
                     <com:Description xml:lang="en">Mode of Transport: Road</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">运输方式。陆路</com:Name></str:Code>
                 <str:Code id="MOT_IWW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MOT_IWW">
                     <com:Name xml:lang="en">Mode of transport: Inland waterway transport</com:Name>
                     <com:Description xml:lang="en">Mode of transport: Inland waterway transport</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">运输方式。内陆水路运输</com:Name></str:Code>
                 <str:Code id="MOT_SEA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).MOT_SEA">
                     <com:Name xml:lang="en">Mode of Transport: Maritime</com:Name>
                     <com:Description xml:lang="en">Mode of Transport: Maritime</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">运输方式。海运</com:Name></str:Code>
                 <str:Code id="IHR_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_01">
                     <com:Name xml:lang="en">IHR Capacity: National legislation, policy and financing</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: National legislation, policy and financing</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">国际人权组织的能力。国家立法、政策和融资</com:Name></str:Code>
                 <str:Code id="IHR_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_02">
                     <com:Name xml:lang="en">IHR Capacity: Coordination and National Focal Point communications</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Coordination and National Focal Point communications</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR能力。协调和国家协调中心的沟通</com:Name></str:Code>
                 <str:Code id="IHR_03" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_03">
                     <com:Name xml:lang="en">IHR Capacity: Surveillance</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Surveillance</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR的能力。监视</com:Name></str:Code>
                 <str:Code id="IHR_04" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_04">
                     <com:Name xml:lang="en">IHR Capacity: Response</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Response</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR的能力。响应</com:Name></str:Code>
                 <str:Code id="IHR_05" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_05">
                     <com:Name xml:lang="en">IHR Capacity: Preparedness</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Preparedness</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR能力。准备工作</com:Name></str:Code>
                 <str:Code id="IHR_06" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_06">
                     <com:Name xml:lang="en">IHR Capacity: Risk communication</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Risk communication</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR能力。风险交流</com:Name></str:Code>
                 <str:Code id="IHR_07" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_07">
                     <com:Name xml:lang="en">IHR Capacity: Human resources</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Human resources</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR能力。人力资源</com:Name></str:Code>
                 <str:Code id="IHR_08" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_08">
                     <com:Name xml:lang="en">IHR Capacity: Laboratory</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Laboratory</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR的能力。实验室</com:Name></str:Code>
                 <str:Code id="IHR_09" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_09">
                     <com:Name xml:lang="en">IHR Capacity: Points of entry</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Points of entry</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR的能力。进入点</com:Name></str:Code>
                 <str:Code id="IHR_10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_10">
                     <com:Name xml:lang="en">IHR Capacity: Zoonotic events</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Zoonotic events</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR的能力。人畜共患事件</com:Name></str:Code>
                 <str:Code id="IHR_11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_11">
                     <com:Name xml:lang="en">IHR Capacity: Food safety</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Food safety</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR能力。食品安全</com:Name></str:Code>
                 <str:Code id="IHR_12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_12">
                     <com:Name xml:lang="en">IHR Capacity: Chemical events</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Chemical events</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR的能力。化学事件</com:Name></str:Code>
                 <str:Code id="IHR_13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IHR_13">
                     <com:Name xml:lang="en">IHR Capacity: Radionuclear emergencies</com:Name>
                     <com:Description xml:lang="en">IHR Capacity: Radionuclear emergencies</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">IHR的能力。辐射核紧急情况</com:Name></str:Code>
                 <str:Code id="SPAR_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_01">
                     <com:Name xml:lang="en">State Party Annual Report: Legislation and Financing</com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Legislation and Financing</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。立法和筹资</com:Name></str:Code>
                 <str:Code id="SPAR_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_02">
                     <com:Name xml:lang="en">State Party Annual Report: IHR Coordination and National IHR Focal Point Functions </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: IHR Coordination and National IHR Focal Point Functions </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。国际人权协调和国家国际人权协调中心的职能 </com:Name></str:Code>
                 <str:Code id="SPAR_03" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_03">
                     <com:Name xml:lang="en">State Party Annual Report: Zoonotic events and the human–animal interface </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Zoonotic events and the human–animal interface </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。人畜共患事件和人与动物的关系 </com:Name></str:Code>
                 <str:Code id="SPAR_04" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_04">
                     <com:Name xml:lang="en">State Party Annual Report: Food safety </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Food safety </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。食品安全 </com:Name></str:Code>
                 <str:Code id="SPAR_05" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_05">
                     <com:Name xml:lang="en">State Party Annual Report: Laboratory </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Laboratory </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。实验室 </com:Name></str:Code>
                 <str:Code id="SPAR_06" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_06">
                     <com:Name xml:lang="en">State Party Annual Report: Surveillance </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Surveillance </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。监视 </com:Name></str:Code>
                 <str:Code id="SPAR_07" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_07">
                     <com:Name xml:lang="en">State Party Annual Report: Human resources </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Human resources </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。人力资源 </com:Name></str:Code>
                 <str:Code id="SPAR_08" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_08">
                     <com:Name xml:lang="en">State Party Annual Report: National Health Emergency Framework </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: National Health Emergency Framework </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。国家卫生应急框架 </com:Name></str:Code>
                 <str:Code id="SPAR_09" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_09">
                     <com:Name xml:lang="en">State Party Annual Report: Health Service Provision </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Health Service Provision </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。卫生服务的提供 </com:Name></str:Code>
                 <str:Code id="SPAR_10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_10">
                     <com:Name xml:lang="en">State Party Annual Report: Risk Communication </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Risk Communication </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。风险交流 </com:Name></str:Code>
                 <str:Code id="SPAR_11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_11">
                     <com:Name xml:lang="en">State Party Annual Report: Points of entry </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Points of entry </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。进入点 </com:Name></str:Code>
                 <str:Code id="SPAR_12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_12">
                     <com:Name xml:lang="en">State Party Annual Report: Chemical events </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Chemical events </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。化学事件 </com:Name></str:Code>
                 <str:Code id="SPAR_13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SPAR_13">
                     <com:Name xml:lang="en">State Party Annual Report: Radiation emergencies </com:Name>
                     <com:Description xml:lang="en">State Party Annual Report: Radiation emergencies </com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">缔约国年度报告。辐射紧急情况 </com:Name></str:Code>
                 <str:Code id="IS_256KT2M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IS_256KT2M">
                     <com:Name xml:lang="en">Internet speed: 256 kbit/s to less than 2 Mbit/s</com:Name>
                     <com:Description xml:lang="en">Internet speed: 256 kbit/s to less than 2 Mbit/s</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">网速：256 kbit/s至小于2Mbit/s</com:Name></str:Code>
                 <str:Code id="IS_2MT10M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IS_2MT10M">
                     <com:Name xml:lang="en">Internet speed: 2 Mbit/s to less than 10 Mbit/s</com:Name>
                     <com:Description xml:lang="en">Internet speed: 2 Mbit/s to less than 10 Mbit/s</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">网速：2Mbit/s至低于10 Mbit/s</com:Name></str:Code>
                 <str:Code id="IS_GE10M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).IS_GE10M">
                     <com:Name xml:lang="en">Internet speed: 10 Mbit/s or above</com:Name>
                     <com:Description xml:lang="en">Internet speed: 10 Mbit/s or above</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">网速：10 Mbit/s或以上</com:Name></str:Code>
                 <str:Code id="DEG_HIG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_HIG">
                     <com:Name xml:lang="en">Degree: High level</com:Name>
                     <com:Description xml:lang="en">Degree: High level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">学位：高水平</com:Name></str:Code>
                 <str:Code id="DEG_LOW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_LOW">
                     <com:Name xml:lang="en">Degree: Low level</com:Name>
                     <com:Description xml:lang="en">Degree: Low level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">程度。低水平</com:Name></str:Code>
                 <str:Code id="DEG_MHIG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_MHIG">
                     <com:Name xml:lang="en">Degree: Medium-high level</com:Name>
                     <com:Description xml:lang="en">Degree: Medium-high level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">程度。中高等水平</com:Name></str:Code>
                 <str:Code id="DEG_VHIG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_VHIG">
                     <com:Name xml:lang="en">Degree: Very high level</com:Name>
                     <com:Description xml:lang="en">Degree: Very high level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">度。非常高的水平</com:Name></str:Code>
                 <str:Code id="DEG_VLOW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_VLOW">
                     <com:Name xml:lang="en">Degree: Very low level</com:Name>
                     <com:Description xml:lang="en">Degree: Very low level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">度。非常低的水平</com:Name></str:Code>
                 <str:Code id="DEG_MLOW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_MLOW">
                     <com:Name xml:lang="en">Degree: Medium-low level</com:Name>
                     <com:Description xml:lang="en">Degree: Medium-low level</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">度。中-低水平</com:Name></str:Code>
                 <str:Code id="COD_EXPLOSIVES" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_EXPLOSIVES">
                     <com:Name xml:lang="en">Cause of death: Planted explosives and unexploded ordnance (UXO)</com:Name>
                     <com:Description xml:lang="en">Cause of death: Planted explosives and unexploded ordnance (UXO)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">死亡的原因。种植的爆炸物和未爆弹药（UXO）。</com:Name></str:Code>
                 <str:Code id="COD_SMALLARMS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_SMALLARMS">
                     <com:Name xml:lang="en">Cause of death: Small arms and light weapons</com:Name>
                     <com:Description xml:lang="en">Cause of death: Small arms and light weapons</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">死亡原因。小武器和轻武器</com:Name></str:Code>
                 <str:Code id="COD_HEAVYWEAPONS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_HEAVYWEAPONS">
                     <com:Name xml:lang="en">Cause of death: Heavy weapons and explosive munitions</com:Name>
                     <com:Description xml:lang="en">Cause of death: Heavy weapons and explosive munitions</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">死亡原因。重型武器和爆炸性弹药</com:Name></str:Code>
                 <str:Code id="COD_U" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_U">
                     <com:Name xml:lang="en">Cause of death: Unknown</com:Name>
                     <com:Description xml:lang="en">Cause of death: Unknown</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">死因。未知</com:Name></str:Code>
                 <str:Code id="COD_OTHER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_OTHER">
                     <com:Name xml:lang="en">Incendiary; Chemical, biological, radiological, nuclear (CBRN); Electromagnetic weapons; Less lethal weapons; Denial of access to/ destruction of objects indispensable to survival; Accidents related to conflict; Use of objects and other means; Multiple Weapons Used.</com:Name>
                     <com:Description xml:lang="en">Incendiary; Chemical, biological, radiological, nuclear (CBRN); Electromagnetic weapons; Less lethal weapons; Denial of access to/ destruction of objects indispensable to survival; Accidents related to conflict; Use of objects and other means; Multiple Weapons Used.</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">燃烧弹；化学、生物、辐射、核（CBRN）；电磁武器；低致命性武器；拒绝接触/破坏生存所必需的物品；与冲突有关的事故；使用物品和其他手段；使用的多种武器。</com:Name></str:Code>
                 <str:Code id="GRD_AGE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_AGE">
                     <com:Name xml:lang="en">Grounds of discrimination: Age</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Age</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。年龄</com:Name></str:Code>
                 <str:Code id="GRD_WEDLOCK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_WEDLOCK">
                     <com:Name xml:lang="en">Grounds of discrimination: Born out of wedlock</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Born out of wedlock</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。非婚生子女</com:Name></str:Code>
                 <str:Code id="GRD_DISHEA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_DISHEA">
                     <com:Name xml:lang="en">Grounds of discrimination: Disability or health status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Disability or health status</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。残疾或健康状况</com:Name></str:Code>
                 <str:Code id="GRD_EDU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_EDU">
                     <com:Name xml:lang="en">Grounds of discrimination: Educational</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Educational</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。教育</com:Name></str:Code>
                 <str:Code id="GRD_ETH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_ETH">
                     <com:Name xml:lang="en">Grounds of discrimination: Ethnic</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Ethnic</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。族裔</com:Name></str:Code>
                 <str:Code id="GRD_ETHCOLLAN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_ETHCOLLAN">
                     <com:Name xml:lang="en">Grounds of discrimination: Ethnicity, colour, language</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Ethnicity, colour, language</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。族裔、肤色、语言</com:Name></str:Code>
                 <str:Code id="GRD_ETHCOLLANNAL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_ETHCOLLANNAL">
                     <com:Name xml:lang="en">Grounds of discrimination: Ethnicity, colour, language, nationality</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Ethnicity, colour, language, nationality</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。族裔、肤色、语言、国籍</com:Name></str:Code>
                 <str:Code id="GRD_FAM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_FAM">
                     <com:Name xml:lang="en">Grounds of discrimination: Family status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Family status</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。家庭状况</com:Name></str:Code>
                 <str:Code id="GRD_GENID" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_GENID">
                     <com:Name xml:lang="en">Grounds of discrimination: Gender identity</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Gender identity</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。性别认同</com:Name></str:Code>
                 <str:Code id="GRD_GEO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_GEO">
                     <com:Name xml:lang="en">Grounds of discrimination: Geographic location</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Geographic location</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。地理位置</com:Name></str:Code>
                 <str:Code id="GRD_LANDIA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_LANDIA">
                     <com:Name xml:lang="en">Grounds of discrimination: Language  or dialect</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Language  or dialect</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。语言或方言</com:Name></str:Code>
                 <str:Code id="GRD_MARFAM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_MARFAM">
                     <com:Name xml:lang="en">Grounds of discrimination: Marital and family status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Marital and family status</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。婚姻和家庭状况</com:Name></str:Code>
                 <str:Code id="GRD_MAR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_MAR">
                     <com:Name xml:lang="en">Grounds of discrimination: Marital status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Marital status</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。婚姻状况</com:Name></str:Code>
                 <str:Code id="GRD_MIG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_MIG">
                     <com:Name xml:lang="en">Grounds of discrimination: Migration status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Migration status</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。移民身份</com:Name></str:Code>
                 <str:Code id="GRD_OTHER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_OTHER">
                     <com:Name xml:lang="en">Grounds of discrimination: Other</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Other</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。其他</com:Name></str:Code>
                 <str:Code id="GRD_RES" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_RES">
                     <com:Name xml:lang="en">Grounds of discrimination: Place of residence</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Place of residence</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。居住地</com:Name></str:Code>
                 <str:Code id="GRD_POLVIEW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_POLVIEW">
                     <com:Name xml:lang="en">Grounds of discrimination: Political opinion</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Political opinion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。政治观点</com:Name></str:Code>
                 <str:Code id="GRD_PREGY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_PREGY">
                     <com:Name xml:lang="en">Grounds of discrimination: Pregnancy</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Pregnancy</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。怀孕</com:Name></str:Code>
                 <str:Code id="GRD_RACE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_RACE">
                     <com:Name xml:lang="en">Grounds of discrimination: Race</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Race</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。种族</com:Name></str:Code>
                 <str:Code id="GRD_RELIGION" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_RELIGION">
                     <com:Name xml:lang="en">Grounds of discrimination: Religion</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Religion</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。宗教信仰</com:Name></str:Code>
                 <str:Code id="GRD_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SEX">
                     <com:Name xml:lang="en">Grounds of discrimination: Sex</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Sex</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。性别</com:Name></str:Code>
                 <str:Code id="GRD_SEXOGENID" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SEXOGENID">
                     <com:Name xml:lang="en">Grounds of discrimination: Sexual orientation and gender identity</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Sexual orientation and gender identity</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。性取向和性别认同</com:Name></str:Code>
                 <str:Code id="GRD_SEXO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SEXO">
                     <com:Name xml:lang="en">Grounds of discrimination: Sexual orientation</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Sexual orientation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。性取向</com:Name></str:Code>
                 <str:Code id="GRD_SOCIOECON" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SOCIOECON">
                     <com:Name xml:lang="en">Grounds of discrimination: Socioeconomic status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Socioeconomic status</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。社会经济地位</com:Name></str:Code>
                 <str:Code id="GRD_WEALTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_WEALTH">
                     <com:Name xml:lang="en">Grounds of discrimination: Wealth status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Wealth status</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">歧视的理由。财富状况</com:Name></str:Code>
                 <str:Code id="ABT2_ACHIEVE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ABT2_ACHIEVE">
                     <com:Name xml:lang="en">ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it</com:Name>
                     <com:Description xml:lang="en">ABT2 status: National target reflecting ABT2 exists and progress is on track to achieve it</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">ABT2状况。存在反映ABT2的国家目标，并且在实现该目标方面进展顺利。</com:Name></str:Code>
                 <str:Code id="ABT2_EXCEED" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ABT2_EXCEED">
                     <com:Name xml:lang="en">ABT2 status: National target reflecting ABT2  exists and progress is on track to exceed it</com:Name>
                     <com:Description xml:lang="en">ABT2 status: National target reflecting ABT2  exists and progress is on track to exceed it</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">ABT2状况。存在反映ABT2的国家目标，并且正在取得超过该目标的进展。</com:Name></str:Code>
                 <str:Code id="ABT2_INSUFNT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ABT2_INSUFNT">
                     <com:Name xml:lang="en">ABT2 status: National target reflecting ABT2  exists and progress is there, but at as insufficient rate</com:Name>
                     <com:Description xml:lang="en">ABT2 status: National target reflecting ABT2  exists and progress is there, but at as insufficient rate</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">ABT2状况。存在反映ABT2的国家目标，并取得了进展，但速度不够快。</com:Name></str:Code>
                 <str:Code id="ABT2_DIGRESS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ABT2_DIGRESS">
                     <com:Name xml:lang="en">ABT2 status: National target reflecting ABT2 exists, but moving away from it</com:Name>
                     <com:Description xml:lang="en">ABT2 status: National target reflecting ABT2 exists, but moving away from it</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">ABT2的地位。反映ABT2的国家目标存在，但正在远离它</com:Name></str:Code>
                 <str:Code id="ABT2_NOPROG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ABT2_NOPROG">
                     <com:Name xml:lang="en">ABT2 status: National target reflecting ABT2  exists, but no progress</com:Name>
                     <com:Description xml:lang="en">ABT2 status: National target reflecting ABT2  exists, but no progress</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">ABT2状况。存在反映ABT2的国家目标，但没有进展</com:Name></str:Code>
                 <str:Code id="ABT2_NONTLT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ABT2_NONTLT">
                     <com:Name xml:lang="en">ABT2 status: No national target reflecting ABT 2</com:Name>
                     <com:Description xml:lang="en">ABT2 status: No national target reflecting ABT 2</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">ABT2状况。没有反映ABT2的国家目标</com:Name></str:Code>
                 <str:Code id="PC_FOR_AFF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_FOR_AFF">
                     <com:Name xml:lang="en">Parliamentary committee: Foreign Affairs</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Foreign Affairs</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。外交事务</com:Name></str:Code>
                 <str:Code id="PC_DEFENCE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_DEFENCE">
                     <com:Name xml:lang="en">Parliamentary committee: Defence</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Defence</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。国防部</com:Name></str:Code>
                 <str:Code id="PC_FINANCE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_FINANCE">
                     <com:Name xml:lang="en">Parliamentary committee: Finance</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Finance</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。财政</com:Name></str:Code>
                 <str:Code id="PC_HUM_RIGH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_HUM_RIGH">
                     <com:Name xml:lang="en">Parliamentary committee: Human Rights</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Human Rights</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。人权</com:Name></str:Code>
                 <str:Code id="PC_GEN_EQU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_GEN_EQU">
                     <com:Name xml:lang="en">Parliamentary committee: Gender Equality</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Gender Equality</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。性别平等</com:Name></str:Code>
                 <str:Code id="PC_FAFF_DEF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_FAFF_DEF">
                     <com:Name xml:lang="en">Parliamentary committee: Foreign Affairs and Defence</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Foreign Affairs and Defence</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。外交和国防事务</com:Name></str:Code>
                 <str:Code id="PC_HR_GEQU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_HR_GEQU">
                     <com:Name xml:lang="en">Parliamentary committee: Human Rights and Gender Equality</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Human Rights and Gender Equality</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。人权和性别平等</com:Name></str:Code>
                 <str:Code id="PC_FAFF_DEF_FIN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_FAFF_DEF_FIN">
                     <com:Name xml:lang="en">Parliamentary committee: Foreign Affairs, Defence and Finance</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Foreign Affairs, Defence and Finance</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。外交、国防和财政</com:Name></str:Code>
                 <str:Code id="PC_FAFF_DEF_HR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PC_FAFF_DEF_HR">
                     <com:Name xml:lang="en">Parliamentary committee: Foreign Affairs, Defence and Human Rights</com:Name>
                     <com:Description xml:lang="en">Parliamentary committee: Foreign Affairs, Defence and Human Rights</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">议会委员会。外交、国防和人权事务</com:Name></str:Code>
                 <str:Code id="POL_MACRO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).POL_MACRO">
                     <com:Name xml:lang="en">Policy instruments: Macro policies (e.g. national strategies/action plans, new institutions/entities)</com:Name>
                     <com:Description xml:lang="en">Policy instruments: Macro policies (e.g. national strategies/action plans, new institutions/entities)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策工具。宏观政策（如国家战略/行动计划，新机构/实体）。</com:Name></str:Code>
                 <str:Code id="POL_ECONFIS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).POL_ECONFIS">
                     <com:Name xml:lang="en">Policy instruments: Economic and fiscal instruments (taxes and tax incentives, grants, preferential loans, etc.)</com:Name>
                     <com:Description xml:lang="en">Policy instruments: Economic and fiscal instruments (taxes and tax incentives, grants, preferential loans, etc.)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策工具。经济和财政手段（税收和税收优惠、赠款、优惠贷款等）。</com:Name></str:Code>
                 <str:Code id="POL_REGLEG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).POL_REGLEG">
                     <com:Name xml:lang="en">Policy instruments: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)</com:Name>
                     <com:Description xml:lang="en">Policy instruments: Regulatory and legal instruments (e.g. laws, standards, enforcement measures)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策工具。监管和法律手段（如法律、标准、执行措施）。</com:Name></str:Code>
                 <str:Code id="POL_VOLSRG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).POL_VOLSRG">
                     <com:Name xml:lang="en">Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes of conduct, CSR initiatives)</com:Name>
                     <com:Description xml:lang="en">Policy instruments: Voluntary and self-regulation schemes (e.g. sectoral partnerships, codes of conduct, CSR initiatives)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策工具。自愿和自律计划（例如，部门伙伴关系、行为准则、企业社会责任倡议）。</com:Name></str:Code>
                 <str:Code id="WT_INCINRT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).WT_INCINRT">
                     <com:Name xml:lang="en">Waste treatment: Incineration</com:Name>
                     <com:Description xml:lang="en">Waste treatment: Incineration</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">废物处理。焚烧</com:Name></str:Code>
                 <str:Code id="WT_LANDFIL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).WT_LANDFIL">
                     <com:Name xml:lang="en">Waste treatment: Landfilling</com:Name>
                     <com:Description xml:lang="en">Waste treatment: Landfilling</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">废物处理。填埋</com:Name></str:Code>
                 <str:Code id="WT_RECYCL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).WT_RECYCL">
                     <com:Name xml:lang="en">Waste treatment: Recycling</com:Name>
                     <com:Description xml:lang="en">Waste treatment: Recycling</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">废物处理。回收利用</com:Name></str:Code>
                 <str:Code id="WT_OTHERWM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).WT_OTHERWM">
                     <com:Name xml:lang="en">Waste treatment: Other type of waste management</com:Name>
                     <com:Description xml:lang="en">Waste treatment: Other type of waste management</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">废物处理。其他类型的废物管理</com:Name></str:Code>
                 <str:Code id="WT_LANDFILCTL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).WT_LANDFILCTL">
                     <com:Name xml:lang="en">Waste treatment: Landfilling, controlled</com:Name>
                     <com:Description xml:lang="en">Waste treatment: Landfilling, controlled</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">废物处理。填埋、控制</com:Name></str:Code>
                 <str:Code id="WT_LANDFILNCTL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).WT_LANDFILNCTL">
                     <com:Name xml:lang="en">Waste treatment: Landfilling, uncontrolled</com:Name>
                     <com:Description xml:lang="en">Waste treatment: Landfilling, uncontrolled</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">废物处理。垃圾填埋，不受控制</com:Name></str:Code>
                 <str:Code id="WT_COMPOST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).WT_COMPOST">
                     <com:Name xml:lang="en">Waste treatment: Composting</com:Name>
                     <com:Description xml:lang="en">Waste treatment: Composting</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">废物处理。堆肥</com:Name></str:Code>
                 <str:Code id="SUD_ATS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SUD_ATS">
                     <com:Name xml:lang="en">Substance use disorder: Amphetamine-type stimulants (ATS)</com:Name>
                     <com:Description xml:lang="en">Substance use disorder: Amphetamine-type stimulants (ATS)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">物质使用紊乱。苯丙胺类兴奋剂(ATS)</com:Name></str:Code>
                 <str:Code id="SUD_OPIOIDS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SUD_OPIOIDS">
                     <com:Name xml:lang="en">Substance use disorder: Opioids</com:Name>
                     <com:Description xml:lang="en">Substance use disorder: Opioids</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">药物使用失调。阿片类药物</com:Name></str:Code>
                 <str:Code id="SUD_COCAINE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SUD_COCAINE">
                     <com:Name xml:lang="en">Substance use disorder: Cocaine</com:Name>
                     <com:Description xml:lang="en">Substance use disorder: Cocaine</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">药物使用紊乱。可卡因</com:Name></str:Code>
                 <str:Code id="SUD_CANNABIS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SUD_CANNABIS">
                     <com:Name xml:lang="en">Substance use disorder: Cannabis</com:Name>
                     <com:Description xml:lang="en">Substance use disorder: Cannabis</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">药物使用紊乱。大麻</com:Name></str:Code>
                 <str:Code id="SUD_ALCOHOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).SUD_ALCOHOL">
                     <com:Name xml:lang="en">Substance use disorder: Alcohol</com:Name>
                     <com:Description xml:lang="en">Substance use disorder: Alcohol</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">药物使用障碍。酒精</com:Name></str:Code>
                 <str:Code id="PD_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PD_1">
                     <com:Name xml:lang="en">Policy Domain 1. Migrant rights</com:Name>
                     <com:Description xml:lang="en">Policy Domain 1. Migrant rights</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策领域1.移民权利</com:Name></str:Code>
                 <str:Code id="PD_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PD_2">
                     <com:Name xml:lang="en">Policy Domain 2. Whole-of-government/ Evidence-based policies</com:Name>
                     <com:Description xml:lang="en">Policy Domain 2. Whole-of-government/ Evidence-based policies</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策领域2.整体政府/循证政策</com:Name></str:Code>
                 <str:Code id="PD_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PD_3">
                     <com:Name xml:lang="en">Policy Domain 3. Cooperation and partnerships</com:Name>
                     <com:Description xml:lang="en">Policy Domain 3. Cooperation and partnerships</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策领域3.合作与伙伴关系</com:Name></str:Code>
                 <str:Code id="PD_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PD_4">
                     <com:Name xml:lang="en">Policy Domain 4. Socioeconomic well-being</com:Name>
                     <com:Description xml:lang="en">Policy Domain 4. Socioeconomic well-being</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策领域4.社会经济福利</com:Name></str:Code>
                 <str:Code id="PD_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PD_5">
                     <com:Name xml:lang="en">Policy Domain 5. Mobility dimensions of crises</com:Name>
                     <com:Description xml:lang="en">Policy Domain 5. Mobility dimensions of crises</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策领域5.危机的流动性层面</com:Name></str:Code>
                 <str:Code id="PD_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).PD_6">
                     <com:Name xml:lang="en">Policy Domain 6. Safe, orderly and regular migration</com:Name>
                     <com:Description xml:lang="en">Policy Domain 6. Safe, orderly and regular migration</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">政策领域6。安全、有序和正常的迁移</com:Name></str:Code>
                 <str:Code id="ELV_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ELV_1">
                     <com:Name xml:lang="en">Elevation &gt; 4.500 meters</com:Name>
                     <com:Description xml:lang="en">Elevation &gt; 4.500 meters</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">海拔 &gt; 4.500米</com:Name></str:Code>
                 <str:Code id="ELV_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ELV_2">
                     <com:Name xml:lang="en">Elevation 3.500–4.500 meters</com:Name>
                     <com:Description xml:lang="en">Elevation 3.500–4.500 meters</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">海拔3.500-4.500米</com:Name></str:Code>
                 <str:Code id="ELV_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ELV_3">
                     <com:Name xml:lang="en">Elevation 2.500–3.500 meters</com:Name>
                     <com:Description xml:lang="en">Elevation 2.500–3.500 meters</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">海拔2.500-3.500米</com:Name></str:Code>
                 <str:Code id="ELV_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ELV_4">
                     <com:Name xml:lang="en">Elevation 1.500–2.500 meters and slope &gt; 2</com:Name>
                     <com:Description xml:lang="en">Elevation 1.500–2.500 meters and slope &gt; 2</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">海拔1.500-2.500米，坡度&gt;2</com:Name></str:Code>
                 <str:Code id="ELV_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ELV_5">
                     <com:Name xml:lang="en">Elevation 1.000–1.500 meters and slope &gt; 5 or local elevation range (LER 7 kilometer radius) &gt; 300 meters</com:Name>
                     <com:Description xml:lang="en">Elevation 1.000–1.500 meters and slope &gt; 5 or local elevation range (LER 7 kilometer radius) &gt; 300 meters</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">海拔1.000-1.500米，坡度&gt;5或当地海拔范围（LER 7公里半径）&gt;300米</com:Name></str:Code>
                 <str:Code id="ELV_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ELV_6">
                     <com:Name xml:lang="en">Elevation 300–1.000 meters and local elevation range (7 kilometer radius) &gt; 300 meters</com:Name>
                     <com:Description xml:lang="en">Elevation 300–1.000 meters and local elevation range (7 kilometer radius) &gt; 300 meters</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">海拔300-1.000米，当地海拔范围（7公里半径）&gt;300米</com:Name></str:Code>
                 <str:Code id="FCC_M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FCC_M">
                     <com:Name xml:lang="en">Frequency of Chlorophyll-a concentration: Moderate</com:Name>
                     <com:Description xml:lang="en">Frequency of Chlorophyll-a concentration: Moderate</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">叶绿素a浓度的频率。中度</com:Name></str:Code>
                 <str:Code id="FCC_H" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FCC_H">
                     <com:Name xml:lang="en">Frequency of Chlorophyll-a concentration: High</com:Name>
                     <com:Description xml:lang="en">Frequency of Chlorophyll-a concentration: High</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">叶绿素a浓度的频率。高</com:Name></str:Code>
                 <str:Code id="FCC_E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FCC_E">
                     <com:Name xml:lang="en">Frequency of Chlorophyll-a concentration: Extreme</com:Name>
                     <com:Description xml:lang="en">Frequency of Chlorophyll-a concentration: Extreme</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">叶绿素a浓度的频率。极端</com:Name></str:Code>
                 <str:Code id="FWS_RTL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FWS_RTL">
                     <com:Name xml:lang="en">Food Waste Sector: Retail</com:Name>
                     <com:Description xml:lang="en">Food Waste Sector: Retail</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">食物垃圾部门。零售业</com:Name></str:Code>
                 <str:Code id="FWS_OOHC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FWS_OOHC">
                     <com:Name xml:lang="en">Food Waste Sector: Out-of-home consumption</com:Name>
                     <com:Description xml:lang="en">Food Waste Sector: Out-of-home consumption</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">食物垃圾部门。家庭以外的消费</com:Name></str:Code>
                 <str:Code id="FWS_HHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FWS_HHS">
                     <com:Name xml:lang="en">Food Waste Sector: Households</com:Name>
                     <com:Description xml:lang="en">Food Waste Sector: Households</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">食物垃圾部门。住户</com:Name></str:Code>
                 <str:Code id="FWS_MNFC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FWS_MNFC">
                     <com:Name xml:lang="en">Food Waste Sector: Manufacturing</com:Name>
                     <com:Description xml:lang="en">Food Waste Sector: Manufacturing</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">食物垃圾部门。制造业</com:Name></str:Code>
                 <str:Code id="FIS_PREFIS_INC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FIS_PREFIS_INC">
                     <com:Name xml:lang="en">Fiscal intervention stage: Prefiscal income</com:Name>
                     <com:Description xml:lang="en">Fiscal intervention stage: Prefiscal income</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">财政干预阶段。前期财政收入</com:Name></str:Code>
                 <str:Code id="FIS_POSTFIS_DIS_INC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FIS_POSTFIS_DIS_INC">
                     <com:Name xml:lang="en">Fiscal intervention stage: Postfiscal disposable income</com:Name>
                     <com:Description xml:lang="en">Fiscal intervention stage: Postfiscal disposable income</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">财政干预阶段。财政后的可支配收入</com:Name></str:Code>
                 <str:Code id="FIS_POSTFIS_CON_INC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FIS_POSTFIS_CON_INC">
                     <com:Name xml:lang="en">Fiscal intervention stage: Postfiscal consumable income</com:Name>
                     <com:Description xml:lang="en">Fiscal intervention stage: Postfiscal consumable income</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">财政干预阶段。财政后的可消费收入</com:Name></str:Code>
                 <str:Code id="LOR_ADVANCED" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).LOR_ADVANCED">
                     <com:Name xml:lang="en">Level of requirement: Advanced</com:Name>
                     <com:Description xml:lang="en">Level of requirement: Advanced</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">要求的水平。高级</com:Name></str:Code>
                 <str:Code id="LOR_MINIMUM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).LOR_MINIMUM">
                     <com:Name xml:lang="en">Level of requirement: Minimum</com:Name>
                     <com:Description xml:lang="en">Level of requirement: Minimum</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">要求的水平。最低要求</com:Name></str:Code>
                 <str:Code id="TOS_MITIGATION" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).TOS_MITIGATION">
                     <com:Name xml:lang="en">Type of support: Mitigation</com:Name>
                     <com:Description xml:lang="en">Type of support: Mitigation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">支持的类型。缓解</com:Name></str:Code>
                 <str:Code id="TOS_ADAPTATION" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).TOS_ADAPTATION">
                     <com:Name xml:lang="en">Type of support: Adaptation</com:Name>
                     <com:Description xml:lang="en">Type of support: Adaptation</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">支持的类型。适应</com:Name></str:Code>
                 <str:Code id="TOS_CROSS_CUTTING" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).TOS_CROSS_CUTTING">
                     <com:Name xml:lang="en">Type of support: Cross-cutting</com:Name>
                     <com:Description xml:lang="en">Type of support: Cross-cutting</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">支持的类型。跨领域</com:Name></str:Code>
                 <str:Code id="TOS_OTHER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).TOS_OTHER">
                     <com:Name xml:lang="en">Type of support: Other</com:Name>
                     <com:Description xml:lang="en">Type of support: Other</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">支持的类型。其他</com:Name></str:Code>
                 <str:Code id="RO_FIRST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).RO_FIRST">
                     <com:Name xml:lang="en">Report Ordinal: First</com:Name>
                     <com:Description xml:lang="en">Report Ordinal: First</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">报告序号。第一个</com:Name></str:Code>
                 <str:Code id="RO_SECOND" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).RO_SECOND">
                     <com:Name xml:lang="en">Report Ordinal: Second</com:Name>
                     <com:Description xml:lang="en">Report Ordinal: Second</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">报告序号。第二次</com:Name></str:Code>
                 <str:Code id="RO_THIRD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).RO_THIRD">
                     <com:Name xml:lang="en">Report Ordinal: Third</com:Name>
                     <com:Description xml:lang="en">Report Ordinal: Third</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">报告序号。第三次</com:Name></str:Code>
                 <str:Code id="RO_FOURTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).RO_FOURTH">
                     <com:Name xml:lang="en">Report Ordinal: Fourth</com:Name>
                     <com:Description xml:lang="en">Report Ordinal: Fourth</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">报告序号。第四次</com:Name></str:Code>
                 <str:Code id="RO_FIFTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).RO_FIFTH">
                     <com:Name xml:lang="en">Report Ordinal: Fifth</com:Name>
                     <com:Description xml:lang="en">Report Ordinal: Fifth</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">报告序号。第五次</com:Name></str:Code>
                 <str:Code id="RO_SIXTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).RO_SIXTH">
                     <com:Name xml:lang="en">Report Ordinal: Sixth</com:Name>
                     <com:Description xml:lang="en">Report Ordinal: Sixth</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">报告序号。第六次</com:Name></str:Code>
                 <str:Code id="RO_SEVENTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).RO_SEVENTH">
                     <com:Name xml:lang="en">Report Ordinal: Seventh</com:Name>
                     <com:Description xml:lang="en">Report Ordinal: Seventh</com:Description>
-                </str:Code>
+                <com:Name xml:lang="zh_Hans">报告序号。第七次</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_CUST_BREAKDOWN" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_CUST_BREAKDOWN(1.4)" version="1.4">
                 <com:Name xml:lang="en">SDG custom breakdown code list</com:Name>
@@ -9496,286 +9496,286 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1)._T">
                     <com:Name xml:lang="en">All occupations or no breakdown by Occupation</com:Name>
                     <com:Description xml:lang="en">All occupations or no breakdown by Occupation</com:Description>
-                <com:Name xml:lang="zh_Hans">所有职业或没有按职业分类</com:Name><com:Name xml:lang="ru">Все профессии или без разбивки по профессиям</com:Name></str:Code>
+                <com:Name xml:lang="fr">Toutes les professions ou aucune ventilation par profession</com:Name><com:Name xml:lang="zh_Hans">所有职业或没有按职业分类</com:Name><com:Name xml:lang="ru">Все профессии или без разбивки по профессиям</com:Name></str:Code>
                 <str:Code id="ISCO08_0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_0">
                     <com:Name xml:lang="en">Armed forces occupations</com:Name>
                     <com:Description xml:lang="en">Armed forces occupations</com:Description>
-                <com:Name xml:lang="zh_Hans">武装部队职业</com:Name><com:Name xml:lang="ru">Профессии в вооруженных силах</com:Name></str:Code>
+                <com:Name xml:lang="fr">Professions des forces armées</com:Name><com:Name xml:lang="zh_Hans">武装部队职业</com:Name><com:Name xml:lang="ru">Профессии в вооруженных силах</com:Name></str:Code>
                 <str:Code id="ISCO08_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_1">
                     <com:Name xml:lang="en">Managers</com:Name>
                     <com:Description xml:lang="en">Managers</com:Description>
-                <com:Name xml:lang="zh_Hans">管理者</com:Name><com:Name xml:lang="ru">Управляющие</com:Name></str:Code>
+                <com:Name xml:lang="fr">Responsables</com:Name><com:Name xml:lang="zh_Hans">管理者</com:Name><com:Name xml:lang="ru">Управляющие</com:Name></str:Code>
                 <str:Code id="ISCO08_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_2">
                     <com:Name xml:lang="en">Professionals</com:Name>
                     <com:Description xml:lang="en">Professionals</com:Description>
-                <com:Name xml:lang="zh_Hans">专业人士</com:Name><com:Name xml:lang="ru">Профессионалы</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pro</com:Name><com:Name xml:lang="zh_Hans">专业人士</com:Name><com:Name xml:lang="ru">Профессионалы</com:Name></str:Code>
                 <str:Code id="ISCO08_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_3">
                     <com:Name xml:lang="en">Technicians and associate professionals</com:Name>
                     <com:Description xml:lang="en">Technicians and associate professionals</com:Description>
-                <com:Name xml:lang="zh_Hans">技术人员和辅助专业人员</com:Name><com:Name xml:lang="ru">Техники и младшие специалисты</com:Name></str:Code>
+                <com:Name xml:lang="fr">Techniciens et professionnels associés</com:Name><com:Name xml:lang="zh_Hans">技术人员和辅助专业人员</com:Name><com:Name xml:lang="ru">Техники и младшие специалисты</com:Name></str:Code>
                 <str:Code id="ISCO08_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_4">
                     <com:Name xml:lang="en">Clerical support workers</com:Name>
                     <com:Description xml:lang="en">Clerical support workers</com:Description>
-                <com:Name xml:lang="zh_Hans">文书支持人员</com:Name><com:Name xml:lang="ru">Вспомогательные работники</com:Name></str:Code>
+                <com:Name xml:lang="fr">Employés de soutien administratif</com:Name><com:Name xml:lang="zh_Hans">文书支持人员</com:Name><com:Name xml:lang="ru">Вспомогательные работники</com:Name></str:Code>
                 <str:Code id="ISCO08_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_5">
                     <com:Name xml:lang="en">Service and sales workers</com:Name>
                     <com:Description xml:lang="en">Service and sales workers</com:Description>
-                <com:Name xml:lang="zh_Hans">服务和销售人员</com:Name><com:Name xml:lang="ru">Работники сферы обслуживания и продаж</com:Name></str:Code>
+                <com:Name xml:lang="fr">Personnel de service et de vente</com:Name><com:Name xml:lang="zh_Hans">服务和销售人员</com:Name><com:Name xml:lang="ru">Работники сферы обслуживания и продаж</com:Name></str:Code>
                 <str:Code id="ISCO08_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_6">
                     <com:Name xml:lang="en">Skilled agricultural, forestry and fishery workers</com:Name>
                     <com:Description xml:lang="en">Skilled agricultural, forestry and fishery workers</com:Description>
-                <com:Name xml:lang="zh_Hans">熟练的农业、林业和渔业工人</com:Name><com:Name xml:lang="ru">Квалифицированные работники сельского, лесного и рыбного хозяйства</com:Name></str:Code>
+                <com:Name xml:lang="fr">Travailleurs qualifiés de l'agriculture, de la sylviculture et de la pêche</com:Name><com:Name xml:lang="zh_Hans">熟练的农业、林业和渔业工人</com:Name><com:Name xml:lang="ru">Квалифицированные работники сельского, лесного и рыбного хозяйства</com:Name></str:Code>
                 <str:Code id="ISCO08_7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_7">
                     <com:Name xml:lang="en">Craft and related trades workers</com:Name>
                     <com:Description xml:lang="en">Craft and related trades workers</com:Description>
-                <com:Name xml:lang="zh_Hans">工匠和相关行业工人</com:Name><com:Name xml:lang="ru">Работники ремесел и смежных профессий</com:Name></str:Code>
+                <com:Name xml:lang="fr">Artisans et travailleurs des métiers connexes</com:Name><com:Name xml:lang="zh_Hans">工匠和相关行业工人</com:Name><com:Name xml:lang="ru">Работники ремесел и смежных профессий</com:Name></str:Code>
                 <str:Code id="ISCO08_8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_8">
                     <com:Name xml:lang="en">Plant and machine operators, and assemblers</com:Name>
                     <com:Description xml:lang="en">Plant and machine operators, and assemblers</com:Description>
-                <com:Name xml:lang="zh_Hans">工厂和机器操作员，以及装配工</com:Name><com:Name xml:lang="ru">Операторы установок и машин, а также монтажники</com:Name></str:Code>
+                <com:Name xml:lang="fr">Conducteurs d'installations et de machines, et monteurs</com:Name><com:Name xml:lang="zh_Hans">工厂和机器操作员，以及装配工</com:Name><com:Name xml:lang="ru">Операторы установок и машин, а также монтажники</com:Name></str:Code>
                 <str:Code id="ISCO08_9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_9">
                     <com:Name xml:lang="en">Elementary occupations</com:Name>
                     <com:Description xml:lang="en">Elementary occupations</com:Description>
-                <com:Name xml:lang="zh_Hans">初级职业</com:Name><com:Name xml:lang="ru">Элементарные профессии</com:Name></str:Code>
+                <com:Name xml:lang="fr">Professions élémentaires</com:Name><com:Name xml:lang="zh_Hans">初级职业</com:Name><com:Name xml:lang="ru">Элементарные профессии</com:Name></str:Code>
                 <str:Code id="ISCO08_X" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_X">
                     <com:Name xml:lang="en">Not elsewhere classified</com:Name>
                     <com:Description xml:lang="en">Not elsewhere classified</com:Description>
-                <com:Name xml:lang="zh_Hans">其他地方未分类</com:Name><com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
+                <com:Name xml:lang="fr">Non classé ailleurs</com:Name><com:Name xml:lang="zh_Hans">其他地方未分类</com:Name><com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
                 <str:Code id="ISCO08_2261" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_2261">
                     <com:Name xml:lang="en">Dentists</com:Name>
                     <com:Description xml:lang="en">Dentists</com:Description>
-                <com:Name xml:lang="zh_Hans">医生</com:Name><com:Name xml:lang="ru">Стоматологи</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dentistes</com:Name><com:Name xml:lang="zh_Hans">医生</com:Name><com:Name xml:lang="ru">Стоматологи</com:Name></str:Code>
                 <str:Code id="ISCO08_2262" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_2262">
                     <com:Name xml:lang="en">Pharmacists</com:Name>
                     <com:Description xml:lang="en">Pharmacists</com:Description>
-                <com:Name xml:lang="zh_Hans">药剂师</com:Name><com:Name xml:lang="ru">Фармацевты</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pharmaciens</com:Name><com:Name xml:lang="zh_Hans">药剂师</com:Name><com:Name xml:lang="ru">Фармацевты</com:Name></str:Code>
                 <str:Code id="ISCO08_221" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_221">
                     <com:Name xml:lang="en">Medical doctors</com:Name>
                     <com:Description xml:lang="en">Medical doctors</com:Description>
-                <com:Name xml:lang="zh_Hans">医学博士</com:Name><com:Name xml:lang="ru">Медицинские врачи</com:Name></str:Code>
+                <com:Name xml:lang="fr">Médecins</com:Name><com:Name xml:lang="zh_Hans">医学博士</com:Name><com:Name xml:lang="ru">Медицинские врачи</com:Name></str:Code>
                 <str:Code id="ISCO08_222_322" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_222_322">
                     <com:Name xml:lang="en">Nursing and midwifery personnel</com:Name>
                     <com:Description xml:lang="en">Nursing and midwifery personnel</com:Description>
-                <com:Name xml:lang="zh_Hans">护理和助产人员</com:Name><com:Name xml:lang="ru">Сестринский и акушерский персонал</com:Name></str:Code>
+                <com:Name xml:lang="fr">Personnel infirmier et sages-femmes</com:Name><com:Name xml:lang="zh_Hans">护理和助产人员</com:Name><com:Name xml:lang="ru">Сестринский и акушерский персонал</com:Name></str:Code>
                 <str:Code id="ISCO08_2221_3221" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_2221_3221">
                     <com:Name xml:lang="en">Nursing personnel</com:Name>
                     <com:Description xml:lang="en">Nursing personnel</com:Description>
-                <com:Name xml:lang="zh_Hans">护理人员</com:Name><com:Name xml:lang="ru">Сестринский персонал</com:Name></str:Code>
+                <com:Name xml:lang="fr">Personnel infirmier</com:Name><com:Name xml:lang="zh_Hans">护理人员</com:Name><com:Name xml:lang="ru">Сестринский персонал</com:Name></str:Code>
                 <str:Code id="ISCO68_0-1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_0-1">
                     <com:Name xml:lang="en">Professional, technical and related workers</com:Name>
                     <com:Description xml:lang="en">Professional, technical and related workers</com:Description>
-                <com:Name xml:lang="zh_Hans">专业、技术和相关工作者</com:Name><com:Name xml:lang="ru">Профессиональные, технические и смежные работники</com:Name></str:Code>
+                <com:Name xml:lang="fr">Travailleurs professionnels, techniques et assimilés</com:Name><com:Name xml:lang="zh_Hans">专业、技术和相关工作者</com:Name><com:Name xml:lang="ru">Профессиональные, технические и смежные работники</com:Name></str:Code>
                 <str:Code id="ISCO68_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_2">
                     <com:Name xml:lang="en">Administrative and managerial workers</com:Name>
                     <com:Description xml:lang="en">Administrative and managerial workers</com:Description>
-                <com:Name xml:lang="zh_Hans">行政和管理工作者</com:Name><com:Name xml:lang="ru">Административные и управленческие работники</com:Name></str:Code>
+                <com:Name xml:lang="fr">Personnel administratif et de direction</com:Name><com:Name xml:lang="zh_Hans">行政和管理工作者</com:Name><com:Name xml:lang="ru">Административные и управленческие работники</com:Name></str:Code>
                 <str:Code id="ISCO68_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_3">
                     <com:Name xml:lang="en">Clerical and related workers</com:Name>
                     <com:Description xml:lang="en">Clerical and related workers</com:Description>
-                <com:Name xml:lang="zh_Hans">文书和相关工作者</com:Name><com:Name xml:lang="ru">Канцелярские и смежные работники</com:Name></str:Code>
+                <com:Name xml:lang="fr">Employés de bureau et personnel assimilé</com:Name><com:Name xml:lang="zh_Hans">文书和相关工作者</com:Name><com:Name xml:lang="ru">Канцелярские и смежные работники</com:Name></str:Code>
                 <str:Code id="ISCO68_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_4">
                     <com:Name xml:lang="en">Sales workers</com:Name>
                     <com:Description xml:lang="en">Sales workers</com:Description>
-                <com:Name xml:lang="zh_Hans">销售人员</com:Name><com:Name xml:lang="ru">Работники отдела продаж</com:Name></str:Code>
+                <com:Name xml:lang="fr">Vendeurs</com:Name><com:Name xml:lang="zh_Hans">销售人员</com:Name><com:Name xml:lang="ru">Работники отдела продаж</com:Name></str:Code>
                 <str:Code id="ISCO68_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_5">
                     <com:Name xml:lang="en">Service workers</com:Name>
                     <com:Description xml:lang="en">Service workers</com:Description>
-                <com:Name xml:lang="zh_Hans">服务人员</com:Name><com:Name xml:lang="ru">Работники сферы обслуживания</com:Name></str:Code>
+                <com:Name xml:lang="fr">Travailleurs de service</com:Name><com:Name xml:lang="zh_Hans">服务人员</com:Name><com:Name xml:lang="ru">Работники сферы обслуживания</com:Name></str:Code>
                 <str:Code id="ISCO68_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_6">
                     <com:Name xml:lang="en">Agriculture, animal husbandry and forestry workers, fishermen and hunters</com:Name>
                     <com:Description xml:lang="en">Agriculture, animal husbandry and forestry workers, fishermen and hunters</com:Description>
-                <com:Name xml:lang="zh_Hans">农业、畜牧业和林业工人、渔民和猎人</com:Name><com:Name xml:lang="ru">Работники сельского хозяйства, животноводства и лесного хозяйства, рыбаки и охотники</com:Name></str:Code>
+                <com:Name xml:lang="fr">Travailleurs de l'agriculture, de l'élevage et de la sylviculture, pêcheurs et chasseurs</com:Name><com:Name xml:lang="zh_Hans">农业、畜牧业和林业工人、渔民和猎人</com:Name><com:Name xml:lang="ru">Работники сельского хозяйства, животноводства и лесного хозяйства, рыбаки и охотники</com:Name></str:Code>
                 <str:Code id="ISCO68_7-9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_7-9">
                     <com:Name xml:lang="en">Production and related workers, transport equipment operators and labourers</com:Name>
                     <com:Description xml:lang="en">Production and related workers, transport equipment operators and labourers</com:Description>
-                <com:Name xml:lang="zh_Hans">生产和相关工人、运输设备操作员和工人</com:Name><com:Name xml:lang="ru">Производственные и смежные рабочие, операторы транспортного оборудования и разнорабочие</com:Name></str:Code>
+                <com:Name xml:lang="fr">Ouvriers de production et assimilés, conducteurs de matériel de transport et manœuvres</com:Name><com:Name xml:lang="zh_Hans">生产和相关工人、运输设备操作员和工人</com:Name><com:Name xml:lang="ru">Производственные и смежные рабочие, операторы транспортного оборудования и разнорабочие</com:Name></str:Code>
                 <str:Code id="ISCO68_AF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_AF">
                     <com:Name xml:lang="en">Armed Forces</com:Name>
                     <com:Description xml:lang="en">Armed Forces</com:Description>
-                <com:Name xml:lang="zh_Hans">武装力量</com:Name><com:Name xml:lang="ru">Вооруженные силы</com:Name></str:Code>
+                <com:Name xml:lang="fr">Forces armées</com:Name><com:Name xml:lang="zh_Hans">武装力量</com:Name><com:Name xml:lang="ru">Вооруженные силы</com:Name></str:Code>
                 <str:Code id="ISCO68_X" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO68_X">
                     <com:Name xml:lang="en">Not elsewhere classified</com:Name>
                     <com:Description xml:lang="en">Not elsewhere classified</com:Description>
-                <com:Name xml:lang="zh_Hans">其他地方未分类</com:Name><com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
+                <com:Name xml:lang="fr">Non classé ailleurs</com:Name><com:Name xml:lang="zh_Hans">其他地方未分类</com:Name><com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
                 <str:Code id="ISCO88_0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_0">
                     <com:Name xml:lang="en">Armed forces</com:Name>
                     <com:Description xml:lang="en">Armed forces</com:Description>
-                <com:Name xml:lang="zh_Hans">武装力量</com:Name><com:Name xml:lang="ru">Вооруженные силы</com:Name></str:Code>
+                <com:Name xml:lang="fr">Forces armées</com:Name><com:Name xml:lang="zh_Hans">武装力量</com:Name><com:Name xml:lang="ru">Вооруженные силы</com:Name></str:Code>
                 <str:Code id="ISCO88_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_1">
                     <com:Name xml:lang="en">Legislators, senior officials and managers</com:Name>
                     <com:Description xml:lang="en">Legislators, senior officials and managers</com:Description>
-                <com:Name xml:lang="zh_Hans">立法者、高级官员和管理人员</com:Name><com:Name xml:lang="ru">Законодатели, высшие должностные лица и руководители</com:Name></str:Code>
+                <com:Name xml:lang="fr">Législateurs, hauts fonctionnaires et gestionnaires</com:Name><com:Name xml:lang="zh_Hans">立法者、高级官员和管理人员</com:Name><com:Name xml:lang="ru">Законодатели, высшие должностные лица и руководители</com:Name></str:Code>
                 <str:Code id="ISCO88_2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_2">
                     <com:Name xml:lang="en">Professionals</com:Name>
                     <com:Description xml:lang="en">Professionals</com:Description>
-                <com:Name xml:lang="zh_Hans">专业人士</com:Name><com:Name xml:lang="ru">Профессионалы</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pro</com:Name><com:Name xml:lang="zh_Hans">专业人士</com:Name><com:Name xml:lang="ru">Профессионалы</com:Name></str:Code>
                 <str:Code id="ISCO88_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_3">
                     <com:Name xml:lang="en">Technicians and associate professionals</com:Name>
                     <com:Description xml:lang="en">Technicians and associate professionals</com:Description>
-                <com:Name xml:lang="zh_Hans">技术人员和辅助专业人员</com:Name><com:Name xml:lang="ru">Техники и младшие специалисты</com:Name></str:Code>
+                <com:Name xml:lang="fr">Techniciens et professionnels associés</com:Name><com:Name xml:lang="zh_Hans">技术人员和辅助专业人员</com:Name><com:Name xml:lang="ru">Техники и младшие специалисты</com:Name></str:Code>
                 <str:Code id="ISCO88_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_4">
                     <com:Name xml:lang="en">Clerks</com:Name>
                     <com:Description xml:lang="en">Clerks</com:Description>
-                <com:Name xml:lang="zh_Hans">文员</com:Name><com:Name xml:lang="ru">Клерки</com:Name></str:Code>
+                <com:Name xml:lang="fr">Greffiers</com:Name><com:Name xml:lang="zh_Hans">文员</com:Name><com:Name xml:lang="ru">Клерки</com:Name></str:Code>
                 <str:Code id="ISCO88_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_5">
                     <com:Name xml:lang="en">Service workers and shop and market sales workers</com:Name>
                     <com:Description xml:lang="en">Service workers and shop and market sales workers</com:Description>
-                <com:Name xml:lang="zh_Hans">服务人员和商店及市场销售人员</com:Name><com:Name xml:lang="ru">Работники сферы обслуживания и продавцы магазинов и рынков</com:Name></str:Code>
+                <com:Name xml:lang="fr">Travailleurs des services et vendeurs de magasins et de marchés</com:Name><com:Name xml:lang="zh_Hans">服务人员和商店及市场销售人员</com:Name><com:Name xml:lang="ru">Работники сферы обслуживания и продавцы магазинов и рынков</com:Name></str:Code>
                 <str:Code id="ISCO88_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_6">
                     <com:Name xml:lang="en">Skilled agricultural and fishery workers</com:Name>
                     <com:Description xml:lang="en">Skilled agricultural and fishery workers</com:Description>
-                <com:Name xml:lang="zh_Hans">熟练的农业和渔业工人</com:Name><com:Name xml:lang="ru">Квалифицированные работники сельского хозяйства и рыболовства</com:Name></str:Code>
+                <com:Name xml:lang="fr">Travailleurs qualifiés de l'agriculture et de la pêche</com:Name><com:Name xml:lang="zh_Hans">熟练的农业和渔业工人</com:Name><com:Name xml:lang="ru">Квалифицированные работники сельского хозяйства и рыболовства</com:Name></str:Code>
                 <str:Code id="ISCO88_7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_7">
                     <com:Name xml:lang="en">Craft and related trades workers</com:Name>
                     <com:Description xml:lang="en">Craft and related trades workers</com:Description>
-                <com:Name xml:lang="zh_Hans">工匠和相关行业工人</com:Name><com:Name xml:lang="ru">Работники ремесел и смежных профессий</com:Name></str:Code>
+                <com:Name xml:lang="fr">Artisans et travailleurs des métiers connexes</com:Name><com:Name xml:lang="zh_Hans">工匠和相关行业工人</com:Name><com:Name xml:lang="ru">Работники ремесел и смежных профессий</com:Name></str:Code>
                 <str:Code id="ISCO88_8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_8">
                     <com:Name xml:lang="en">Plant and machine operators and assemblers</com:Name>
                     <com:Description xml:lang="en">Plant and machine operators and assemblers</com:Description>
-                <com:Name xml:lang="zh_Hans">工厂和机器操作员及装配工</com:Name><com:Name xml:lang="ru">Операторы и монтажники установок и машин</com:Name></str:Code>
+                <com:Name xml:lang="fr">Opérateurs et monteurs d'installations et de machines</com:Name><com:Name xml:lang="zh_Hans">工厂和机器操作员及装配工</com:Name><com:Name xml:lang="ru">Операторы и монтажники установок и машин</com:Name></str:Code>
                 <str:Code id="ISCO88_9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_9">
                     <com:Name xml:lang="en">Elementary occupations</com:Name>
                     <com:Description xml:lang="en">Elementary occupations</com:Description>
-                <com:Name xml:lang="zh_Hans">初级职业</com:Name><com:Name xml:lang="ru">Элементарные профессии</com:Name></str:Code>
+                <com:Name xml:lang="fr">Professions élémentaires</com:Name><com:Name xml:lang="zh_Hans">初级职业</com:Name><com:Name xml:lang="ru">Элементарные профессии</com:Name></str:Code>
                 <str:Code id="ISCO88_X" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_X">
                     <com:Name xml:lang="en">Not elsewhere classified</com:Name>
                     <com:Description xml:lang="en">Not elsewhere classified</com:Description>
-                <com:Name xml:lang="zh_Hans">其他地方未分类</com:Name><com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
+                <com:Name xml:lang="fr">Non classé ailleurs</com:Name><com:Name xml:lang="zh_Hans">其他地方未分类</com:Name><com:Name xml:lang="ru">Не классифицировано в других рубриках</com:Name></str:Code>
                 <str:Code id="ISCO88_2221" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_2221">
                     <com:Name xml:lang="en">Medical doctors</com:Name>
                     <com:Description xml:lang="en">Medical doctors</com:Description>
-                <com:Name xml:lang="zh_Hans">医学博士</com:Name><com:Name xml:lang="ru">Медицинские врачи</com:Name></str:Code>
+                <com:Name xml:lang="fr">Médecins</com:Name><com:Name xml:lang="zh_Hans">医学博士</com:Name><com:Name xml:lang="ru">Медицинские врачи</com:Name></str:Code>
                 <str:Code id="ISCO88_2222" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_2222">
                     <com:Name xml:lang="en">Dentists</com:Name>
                     <com:Description xml:lang="en">Dentists</com:Description>
-                <com:Name xml:lang="zh_Hans">医生</com:Name><com:Name xml:lang="ru">Стоматологи</com:Name></str:Code>
+                <com:Name xml:lang="fr">Dentistes</com:Name><com:Name xml:lang="zh_Hans">医生</com:Name><com:Name xml:lang="ru">Стоматологи</com:Name></str:Code>
                 <str:Code id="ISCO88_2224" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_2224">
                     <com:Name xml:lang="en">Pharmacists</com:Name>
                     <com:Description xml:lang="en">Pharmacists</com:Description>
-                <com:Name xml:lang="zh_Hans">药剂师</com:Name><com:Name xml:lang="ru">Фармацевты</com:Name></str:Code>
+                <com:Name xml:lang="fr">Pharmaciens</com:Name><com:Name xml:lang="zh_Hans">药剂师</com:Name><com:Name xml:lang="ru">Фармацевты</com:Name></str:Code>
                 <str:Code id="ISCO88_223" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO88_223">
                     <com:Name xml:lang="en">Nursing and midwifery professionals</com:Name>
                     <com:Description xml:lang="en">Nursing and midwifery professionals</com:Description>
-                <com:Name xml:lang="zh_Hans">护理和助产专业人员</com:Name><com:Name xml:lang="ru">Специалисты по сестринскому делу и акушерству</com:Name></str:Code>
+                <com:Name xml:lang="fr">Professionnels des soins infirmiers et des sages-femmes</com:Name><com:Name xml:lang="zh_Hans">护理和助产专业人员</com:Name><com:Name xml:lang="ru">Специалисты по сестринскому делу и акушерству</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_PRODUCT" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_PRODUCT(1.0)" version="1.0">
                 <com:Name xml:lang="en">SDG Type of product code list</com:Name>
                 <str:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0)._T">
                     <com:Name xml:lang="en">No breakdown</com:Name>
                     <com:Description xml:lang="en">No breakdown</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Нет пробоя</com:Name></str:Code>
                 <str:Code id="AGG_ARMS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_ARMS">
                     <com:Name xml:lang="en">Arms</com:Name>
                     <com:Description xml:lang="en">Arms</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Руки</com:Name></str:Code>
                 <str:Code id="AGG_CLTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_CLTH">
                     <com:Name xml:lang="en">Clothing</com:Name>
                     <com:Description xml:lang="en">Clothing</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Одежда</com:Name></str:Code>
                 <str:Code id="AGG_IND" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_IND">
                     <com:Name xml:lang="en">Industrial products</com:Name>
                     <com:Description xml:lang="en">Industrial products</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Промышленные товары</com:Name></str:Code>
                 <str:Code id="AGG_AGR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_AGR">
                     <com:Name xml:lang="en">Agriculture products</com:Name>
                     <com:Description xml:lang="en">Agriculture products</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Сельскохозяйственная продукция</com:Name></str:Code>
                 <str:Code id="AGG_OIL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_OIL">
                     <com:Name xml:lang="en">Oil</com:Name>
                     <com:Description xml:lang="en">Oil</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Нефть/масло</com:Name></str:Code>
                 <str:Code id="AGG_TXT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_TXT">
                     <com:Name xml:lang="en">Textiles</com:Name>
                     <com:Description xml:lang="en">Textiles</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Текстиль</com:Name></str:Code>
                 <str:Code id="CPC2_1_112" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_112">
                     <com:Name xml:lang="en">Maize</com:Name>
                     <com:Description xml:lang="en">Maize</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Кукуруза</com:Name></str:Code>
                 <str:Code id="CPC2_1_118" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_118">
                     <com:Name xml:lang="en">Millet</com:Name>
                     <com:Description xml:lang="en">Millet</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Просо</com:Name></str:Code>
                 <str:Code id="CPC2_1_113" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_113">
                     <com:Name xml:lang="en">Rice</com:Name>
                     <com:Description xml:lang="en">Rice</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Рис</com:Name></str:Code>
                 <str:Code id="CPC2_1_114" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_114">
                     <com:Name xml:lang="en">Sorghum</com:Name>
                     <com:Description xml:lang="en">Sorghum</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Сорго</com:Name></str:Code>
                 <str:Code id="CPC2_1_111" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_111">
                     <com:Name xml:lang="en">Wheat</com:Name>
                     <com:Description xml:lang="en">Wheat</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Пшеница</com:Name></str:Code>
                 <str:Code id="MF1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF1">
                     <com:Name xml:lang="en">Biomass (material flows)</com:Name>
                     <com:Description xml:lang="en">Biomass (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Биомасса (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF2">
                     <com:Name xml:lang="en">Metal ores (material flows)</com:Name>
                     <com:Description xml:lang="en">Metal ores (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Металлические руды (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF3">
                     <com:Name xml:lang="en">Non-metallic minerals (material flows)</com:Name>
                     <com:Description xml:lang="en">Non-metallic minerals (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Неметаллические полезные ископаемые (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF4">
                     <com:Name xml:lang="en">Fossil fuels (material flows)</com:Name>
                     <com:Description xml:lang="en">Fossil fuels (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Ископаемое топливо (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF121" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF121">
                     <com:Name xml:lang="en">Crop residues (material flows)</com:Name>
                     <com:Description xml:lang="en">Crop residues (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Растительные остатки (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF11">
                     <com:Name xml:lang="en">Crops (material flows)</com:Name>
                     <com:Description xml:lang="en">Crops (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Растениеводство (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF122" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF122">
                     <com:Name xml:lang="en">Grazed biomass and fodder crops (material flows)</com:Name>
                     <com:Description xml:lang="en">Grazed biomass and fodder crops (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Пастбищная биомасса и кормовые культуры (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF14">
                     <com:Name xml:lang="en">Wild catch and harvest (material flows)</com:Name>
                     <com:Description xml:lang="en">Wild catch and harvest (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Вылов и сбор диких животных (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF13">
                     <com:Name xml:lang="en">Wood (material flows)</com:Name>
                     <com:Description xml:lang="en">Wood (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Древесина (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF41" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF41">
                     <com:Name xml:lang="en">Coal (material flows)</com:Name>
                     <com:Description xml:lang="en">Coal (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Уголь (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF422" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF422">
                     <com:Name xml:lang="en">Natural gas (material flows)</com:Name>
                     <com:Description xml:lang="en">Natural gas (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Природный газ (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF413" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF413">
                     <com:Name xml:lang="en">Oil shale and tar sands (material flows)</com:Name>
                     <com:Description xml:lang="en">Oil shale and tar sands (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Горючие сланцы и смолистые пески (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF421" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF421">
                     <com:Name xml:lang="en">Petroleum (material flows)</com:Name>
                     <com:Description xml:lang="en">Petroleum (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Нефть (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF21" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF21">
                     <com:Name xml:lang="en">Ferrous ores (material flows)</com:Name>
                     <com:Description xml:lang="en">Ferrous ores (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Черные руды (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF22" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF22">
                     <com:Name xml:lang="en">Non-ferrous ores (material flows)</com:Name>
                     <com:Description xml:lang="en">Non-ferrous ores (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Руды цветных металлов (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF_AGG3A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF_AGG3A">
                     <com:Name xml:lang="en">Non-metallic minerals - construction dominant (material flows)</com:Name>
                     <com:Description xml:lang="en">Non-metallic minerals - construction dominant (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Неметаллические полезные ископаемые - преобладание в строительстве (материальные потоки)</com:Name></str:Code>
                 <str:Code id="MF_AGG3B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF_AGG3B">
                     <com:Name xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</com:Name>
                     <com:Description xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Неметаллические полезные ископаемые - доминирующие в промышленности или сельском хозяйстве (материальные потоки)</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_QUANTILE" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_QUANTILE(1.1)" version="1.1">
                 <com:Name xml:lang="en">Income/wealth quantile code list</com:Name>
@@ -25646,218 +25646,218 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                 <str:Code id="CON_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).CON_USD">
                     <com:Name xml:lang="en">Constant USD</com:Name>
                     <com:Description xml:lang="en">Constant USD</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Постоянный доллар США</com:Name></str:Code>
                 <str:Code id="HA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).HA">
                     <com:Name xml:lang="en">Hectares</com:Name>
                     <com:Description xml:lang="en">Hectares</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Гектары</com:Name></str:Code>
                 <str:Code id="IX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).IX">
                     <com:Name xml:lang="en">Index</com:Name>
                     <com:Description xml:lang="en">Index</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Содержание</com:Name></str:Code>
                 <str:Code id="KG_CO2_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_CO2_PER_GDP_CON_PPP_USD">
                     <com:Name xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</com:Name>
                     <com:Description xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">кг CO2-эквивалента на 1 доллар США постоянного ВВП по ППС</com:Name></str:Code>
                 <str:Code id="KG_OE_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_OE_PER_GDP_CON_PPP_USD">
                     <com:Name xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</com:Name>
                     <com:Description xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">кг нефтяного эквивалента на 1000 долларов США постоянного ВВП по ППС</com:Name></str:Code>
                 <str:Code id="KG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG">
                     <com:Name xml:lang="en">Kilograms</com:Name>
                     <com:Description xml:lang="en">Kilograms</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Килограммы</com:Name></str:Code>
                 <str:Code id="KG_PER_CON_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_PER_CON_USD">
                     <com:Name xml:lang="en">Kilograms per constant USD</com:Name>
                     <com:Description xml:lang="en">Kilograms per constant USD</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Килограммы на постоянный доллар США</com:Name></str:Code>
                 <str:Code id="KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KM">
                     <com:Name xml:lang="en">Kilometers</com:Name>
                     <com:Description xml:lang="en">Kilometers</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Километров</com:Name></str:Code>
                 <str:Code id="KM2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KM2">
                     <com:Name xml:lang="en">Square kilometers</com:Name>
                     <com:Description xml:lang="en">Square kilometers</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Квадратные километры</com:Name></str:Code>
                 <str:Code id="LITRES_PURE_ALCOHOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).LITRES_PURE_ALCOHOL">
                     <com:Name xml:lang="en">Litres pure alcohol</com:Name>
                     <com:Description xml:lang="en">Litres pure alcohol</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Литры чистого спирта</com:Name></str:Code>
                 <str:Code id="CUR_LCU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).CUR_LCU">
                     <com:Name xml:lang="en">Local currency</com:Name>
                     <com:Description xml:lang="en">Local currency</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Местная валюта</com:Name></str:Code>
                 <str:Code id="LCU_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).LCU_PPP_USD">
                     <com:Name xml:lang="en">Local currency per USD (PPP)</com:Name>
                     <com:Description xml:lang="en">Local currency per USD (PPP)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Местная валюта на доллар США (ППС)</com:Name></str:Code>
                 <str:Code id="MJ_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).MJ_PER_GDP_CON_PPP_USD">
                     <com:Name xml:lang="en">Megajoules per USD constant PPP GDP</com:Name>
                     <com:Description xml:lang="en">Megajoules per USD constant PPP GDP</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Мегаджоули на доллар США постоянного ВВП по ППС</com:Name></str:Code>
                 <str:Code id="T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T">
                     <com:Name xml:lang="en">Metric Tons</com:Name>
                     <com:Description xml:lang="en">Metric Tons</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Метрические тонны</com:Name></str:Code>
                 <str:Code id="GPERM3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).GPERM3">
                     <com:Name xml:lang="en">Micrograms per cubic meter</com:Name>
                     <com:Description xml:lang="en">Micrograms per cubic meter</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Микрограммы на кубический метр</com:Name></str:Code>
                 <str:Code id="NUMBER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).NUMBER">
                     <com:Name xml:lang="en">Number</com:Name>
                     <com:Description xml:lang="en">Number</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Номер</com:Name></str:Code>
                 <str:Code id="PER_USD_GDP_PPP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_USD_GDP_PPP">
                     <com:Name xml:lang="en">Per 1 USD GDP (PPP)</com:Name>
                     <com:Description xml:lang="en">Per 1 USD GDP (PPP)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 1 доллар ВВП (ППС)</com:Name></str:Code>
                 <str:Code id="PER_1000_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_LIVE_BIRTHS">
                     <com:Name xml:lang="en">Per 1,000 live births</com:Name>
                     <com:Description xml:lang="en">Per 1,000 live births</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 1 000 живорожденных</com:Name></str:Code>
                 <str:Code id="PER_1000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_POP">
                     <com:Name xml:lang="en">Per 1,000 population</com:Name>
                     <com:Description xml:lang="en">Per 1,000 population</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 1 000 человек населения</com:Name></str:Code>
                 <str:Code id="PER_1000_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_USD">
                     <com:Name xml:lang="en">Per 1,000 USD</com:Name>
                     <com:Description xml:lang="en">Per 1,000 USD</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 1 000 долларов США</com:Name></str:Code>
                 <str:Code id="PER_1000_UNINFECTED_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_UNINFECTED_POP">
                     <com:Name xml:lang="en">Per 1,000 uninfected population</com:Name>
                     <com:Description xml:lang="en">Per 1,000 uninfected population</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 1 000 неинфицированного населения</com:Name></str:Code>
                 <str:Code id="PER_100_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100_LIVE_BIRTHS">
                     <com:Name xml:lang="en">Per 100 live births</com:Name>
                     <com:Description xml:lang="en">Per 100 live births</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 живорожденных</com:Name></str:Code>
                 <str:Code id="PER_100_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100_POP">
                     <com:Name xml:lang="en">Per 100 population</com:Name>
                     <com:Description xml:lang="en">Per 100 population</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 человек населения</com:Name></str:Code>
                 <str:Code id="PER_100000_EMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_EMP">
                     <com:Name xml:lang="en">Per 100,000 employees</com:Name>
                     <com:Description xml:lang="en">Per 100,000 employees</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 000 сотрудников</com:Name></str:Code>
                 <str:Code id="PER_100000_FTE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_FTE">
                     <com:Name xml:lang="en">Per 100,000 full-time equivalents</com:Name>
                     <com:Description xml:lang="en">Per 100,000 full-time equivalents</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 000 эквивалентов полной занятости</com:Name></str:Code>
                 <str:Code id="PER_100000_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_LIVE_BIRTHS">
                     <com:Name xml:lang="en">Per 100,000 live births</com:Name>
                     <com:Description xml:lang="en">Per 100,000 live births</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 000 живорожденных</com:Name></str:Code>
                 <str:Code id="PER_100000_PRSN_INSR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_PRSN_INSR">
                     <com:Name xml:lang="en">Per 100,000 persons insured</com:Name>
                     <com:Description xml:lang="en">Per 100,000 persons insured</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 000 застрахованных лиц</com:Name></str:Code>
                 <str:Code id="PER_100000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_POP">
                     <com:Name xml:lang="en">Per 100,000 population</com:Name>
                     <com:Description xml:lang="en">Per 100,000 population</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 000 населения</com:Name></str:Code>
                 <str:Code id="PER_100000_WKRS_EMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_WKRS_EMP">
                     <com:Name xml:lang="en">Per 100,000 workers employed</com:Name>
                     <com:Description xml:lang="en">Per 100,000 workers employed</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 000 занятых работников</com:Name></str:Code>
                 <str:Code id="PER_100000_WKRS_EXPD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_WKRS_EXPD">
                     <com:Name xml:lang="en">Per 100,000 workers exposed to risk</com:Name>
                     <com:Description xml:lang="en">Per 100,000 workers exposed to risk</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 100 000 работников, подверженных риску</com:Name></str:Code>
                 <str:Code id="PER_1000000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000000_POP">
                     <com:Name xml:lang="en">Per million population</com:Name>
                     <com:Description xml:lang="en">Per million population</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На миллион населения</com:Name></str:Code>
                 <str:Code id="PT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PT">
                     <com:Name xml:lang="en">Percent</com:Name>
                     <com:Description xml:lang="en">Percent</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Проценты</com:Name></str:Code>
                 <str:Code id="PROB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PROB">
                     <com:Name xml:lang="en">Probability</com:Name>
                     <com:Description xml:lang="en">Probability</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Вероятность</com:Name></str:Code>
                 <str:Code id="RO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).RO">
                     <com:Name xml:lang="en">Ratio</com:Name>
                     <com:Description xml:lang="en">Ratio</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Рейтинг</com:Name></str:Code>
                 <str:Code id="T_KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T_KM">
                     <com:Name xml:lang="en">Tonne kilometres</com:Name>
                     <com:Description xml:lang="en">Tonne kilometres</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Тоннокилометры</com:Name></str:Code>
                 <str:Code id="T_PER_HA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T_PER_HA">
                     <com:Name xml:lang="en">Tonnes per hectare</com:Name>
                     <com:Description xml:lang="en">Tonnes per hectare</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Тонны с гектара</com:Name></str:Code>
                 <str:Code id="USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).USD">
                     <com:Name xml:lang="en">USD</com:Name>
                     <com:Description xml:lang="en">USD</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">USD</com:Name></str:Code>
                 <str:Code id="PV_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PV_USD">
                     <com:Name xml:lang="en">USD in net present value terms</com:Name>
                     <com:Description xml:lang="en">USD in net present value terms</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">США в пересчете на чистую приведенную стоимость</com:Name></str:Code>
                 <str:Code id="USD_PER_M3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).USD_PER_M3">
                     <com:Name xml:lang="en">United States dollars per cubic metre</com:Name>
                     <com:Description xml:lang="en">United States dollars per cubic metre</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Доллары США за кубический метр</com:Name></str:Code>
                 <str:Code id="PER_10000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_10000_POP">
                     <com:Name xml:lang="en">Per 10,000 population</com:Name>
                     <com:Description xml:lang="en">Per 10,000 population</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">На 10 000 населения</com:Name></str:Code>
                 <str:Code id="P_KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).P_KM">
                     <com:Name xml:lang="en">Passenger kilometres</com:Name>
                     <com:Description xml:lang="en">Passenger kilometres</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Пассажиро-километры</com:Name></str:Code>
                 <str:Code id="M_M3_PER_YR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).M_M3_PER_YR">
                     <com:Name xml:lang="en">Million of cubic metres per annum</com:Name>
                     <com:Description xml:lang="en">Million of cubic metres per annum</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Миллион кубических метров в год</com:Name></str:Code>
                 <str:Code id="BOOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).BOOL">
                     <com:Name xml:lang="en">Boolean or binary measure</com:Name>
                     <com:Description xml:lang="en">Boolean or binary measure</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Булева или бинарная мера</com:Name></str:Code>
                 <str:Code id="TEU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).TEU">
                     <com:Name xml:lang="en">Twenty-foot equivalent units (TEUs)</com:Name>
                     <com:Description xml:lang="en">Twenty-foot equivalent units (TEUs)</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Единицы измерения в двадцатифутовом эквиваленте (TEUs)</com:Name></str:Code>
                 <str:Code id="PH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PH">
                     <com:Name xml:lang="en">pH</com:Name>
                     <com:Description xml:lang="en">pH</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">pH</com:Name></str:Code>
                 <str:Code id="SCORE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).SCORE">
                     <com:Name xml:lang="en">Score</com:Name>
                     <com:Description xml:lang="en">Score</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Нотный текст</com:Name></str:Code>
                 <str:Code id="W_PER_CAPITA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).W_PER_CAPITA">
                     <com:Name xml:lang="en">Watts per capita</com:Name>
                     <com:Description xml:lang="en">Watts per capita</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Ватт на душу населения</com:Name></str:Code>
                 <str:Code id="KG_OE_PER_GDP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_OE_PER_GDP_USD">
                     <com:Name xml:lang="en">kg oil equivalent per USD1,000 GDP</com:Name>
                     <com:Description xml:lang="en">kg oil equivalent per USD1,000 GDP</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">кг нефтяного эквивалента на 1000 долларов США ВВП</com:Name></str:Code>
                 <str:Code id="KG_C_KM2_PER_DAY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_C_KM2_PER_DAY">
                     <com:Name xml:lang="en">kilograms of carbon from algae biomass per sq. km. of river basin area per day</com:Name>
                     <com:Description xml:lang="en">kilograms of carbon from algae biomass per sq. km. of river basin area per day</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">килограммов углерода из биомассы водорослей на кв. км площади бассейна реки в день</com:Name></str:Code>
                 <str:Code id="TCO2E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).TCO2E">
                     <com:Name xml:lang="en">Tonnes of CO2-equivalent</com:Name>
                     <com:Description xml:lang="en">Tonnes of CO2-equivalent</com:Description>
-                </str:Code>
+                <com:Name xml:lang="ru">Тонны CO2-эквивалента</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="IAEG-SDGs" id="CL_URBANISATION" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_URBANISATION(1.0)" version="1.0">
                 <com:Name xml:lang="en">Degree of urbanisation code list</com:Name>
                 <str:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_URBANISATION(1.0)._T">
                     <com:Name xml:lang="en">Total</com:Name>
                     <com:Description xml:lang="en">Total</com:Description>
-                </str:Code>
+                <com:Name xml:lang="fr">Total TTC</com:Name><com:Name xml:lang="es">Total</com:Name><com:Name xml:lang="zh_Hans">汇总</com:Name><com:Name xml:lang="ru">Полный</com:Name><com:Name xml:lang="ar">إجمالي</com:Name></str:Code>
                 <str:Code id="U" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_URBANISATION(1.0).U">
                     <com:Name xml:lang="en">Urban</com:Name>
                     <com:Description xml:lang="en">Urban</com:Description>
-                </str:Code>
+                <com:Name xml:lang="fr">Urbain</com:Name><com:Name xml:lang="es">Urbano</com:Name><com:Name xml:lang="zh_Hans">都市地区</com:Name><com:Name xml:lang="ru">Городского типа</com:Name><com:Name xml:lang="ar">الحضاري</com:Name></str:Code>
                 <str:Code id="R" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_URBANISATION(1.0).R">
                     <com:Name xml:lang="en">Rural</com:Name>
                     <com:Description xml:lang="en">Rural</com:Description>
-                </str:Code>
+                <com:Name xml:lang="fr">Rural</com:Name><com:Name xml:lang="es">Rural</com:Name><com:Name xml:lang="zh_Hans">乡村地区</com:Name><com:Name xml:lang="ru">Сельского типа</com:Name><com:Name xml:lang="ar">الريفي</com:Name></str:Code>
             </str:Codelist>
             <str:Codelist agencyID="SDMX" id="CL_FREQ" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=SDMX:CL_FREQ(2.0)" version="2.0">
                 <com:Name xml:lang="en">Frequency</com:Name>
