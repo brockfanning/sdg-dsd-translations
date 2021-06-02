@@ -1,1 +1,32 @@
-{}
+UNIT_MULT: Multiplicador de unidades
+'9': Miles de millones
+'8': Cientos de millones
+'7': Decenas de millones
+'6': Millones
+'5': Cientos de miles
+'4': Decenas de miles
+'3': Miles de personas
+'2': Cientos
+'15': Cuadrillones
+'14': Cientos de billones
+'13': Decenas de billones
+'12': Trillones
+'11': Cientos de miles de millones
+'10': Decenas de miles de millones
+'1': Tens
+'0': Unidades
+'-9': Miles de millones
+'-8': Cienmillonésimas
+'-7': Diez millonésimas
+'-6': Milésimas
+'-5': Cien milésimas
+'-4': Diez milésimas
+'-3': Milésimas
+'-2': Centésimas
+'-15': Cuatrillonésimas
+'-14': Cien trillonésimas
+'-13': Diez trillones
+'-12': Trillones
+'-11': Cien mil millonésimas
+'-10': Diez mil millonésimas
+'-1': Décimas
