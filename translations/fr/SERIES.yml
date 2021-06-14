@@ -1,624 +1,1201 @@
-AG_FLS_IDX: ''
-AG_FOOD_WST: ''
-AG_FOOD_WST_PC: ''
-AG_FPA_CFPI: ''
-AG_FPA_COMM: ''
-AG_FPA_HMFP: ''
-AG_LND_DGRD: ''
-AG_LND_FRST: ''
-AG_LND_FRSTBIOM: ''
-AG_LND_FRSTBIOPHA: ''
-AG_LND_FRSTCERT: ''
-AG_LND_FRSTCHG: ''
-AG_LND_FRSTMGT: ''
-AG_LND_FRSTN: ''
-AG_LND_FRSTPRCT: ''
-AG_LND_FRSTPRCTN: ''
-AG_LND_SUST: ''
-AG_LND_TOTL: ''
-AG_PRD_AGVAS: ''
-AG_PRD_FIESMS: ''
-AG_PRD_FIESMSN: ''
-AG_PRD_FIESMSTN: ''
-AG_PRD_FIESS: ''
-AG_PRD_FIESSN: ''
-AG_PRD_FIESSTN: ''
-AG_PRD_ORTIND: ''
-AG_PRD_XSUBDY: ''
-AG_XPD_AGSGB: ''
-BX_TRF_PWKR: ''
-DC_CLC_100B: ''
-DC_CST_EFICP: ''
-DC_FIN_CLIMB: ''
-DC_FIN_CLIMM: ''
-DC_FIN_CLIMT: ''
-DC_FIN_GEN: ''
-DC_FIN_TOT: ''
-DC_FTA_TOTAL: ''
-DC_ODA_BDVDL: ''
-DC_ODA_BDVL: ''
-DC_ODA_LDCG: ''
-DC_ODA_LDCS: ''
-DC_ODA_LLDC: ''
-DC_ODA_LLDCG: ''
-DC_ODA_POVDLG: ''
-DC_ODA_POVG: ''
-DC_ODA_POVLG: ''
-DC_ODA_SIDS: ''
-DC_ODA_SIDSG: ''
-DC_ODA_TOTG: ''
-DC_ODA_TOTGGE: ''
-DC_ODA_TOTL: ''
-DC_ODA_TOTLGE: ''
-DC_SCP_RANDN: ''
-DC_TOF_AGRL: ''
-DC_TOF_ENVTECH: ''
-DC_TOF_HLTHL: ''
-DC_TOF_HLTHNT: ''
-DC_TOF_INFRAL: ''
-DC_TOF_SCHIPSL: ''
-DC_TOF_TRDCMDL: ''
-DC_TOF_TRDCML: ''
-DC_TOF_TRDDBMDL: ''
-DC_TOF_TRDDBML: ''
-DC_TOF_WASHL: ''
-DC_TRF_TFDV: ''
-DC_TRF_TOTDL: ''
-DC_TRF_TOTL: ''
-DI_ILL_IN: ''
-DI_ILL_OUT: ''
-DT_TDS_DECT: ''
-EG_ACS_ELEC: ''
-EG_CFT_COOK: ''
-EG_CFT_LIGHT: ''
-EG_EGY_CLEAN: ''
-EG_EGY_PRIM: ''
-EG_EGY_RNEW: ''
-EG_FEC_RNEW: ''
-EG_IFF_RANDN: ''
-EG_TBA_H2CO: ''
-EG_TBA_H2COAQ: ''
-EG_TBA_H2CORL: ''
-EN_ADAP_COM: ''
-EN_ATM_CO2: ''
-EN_ATM_CO2GDP: ''
-EN_ATM_CO2MVA: ''
-EN_ATM_GHGT_AIP: ''
-EN_ATM_GHGT_NAIP: ''
-EN_ATM_PM25: ''
-EN_BIUREP_AIP: ''
-EN_BIUREP_NAIP: ''
-EN_EWT_COLLPCAP: ''
-EN_EWT_COLLR: ''
-EN_EWT_COLLV: ''
-EN_EWT_GENPCAP: ''
-EN_EWT_GENV: ''
-EN_EWT_RCYPCAP: ''
-EN_EWT_RCYR: ''
-EN_EWT_RCYV: ''
-EN_H2O_GRAMBQ: ''
-EN_H2O_OPAMBQ: ''
-EN_H2O_RVAMBQ: ''
-EN_H2O_WBAMBQ: ''
-EN_HAZ_GENGDP: ''
-EN_HAZ_GENV: ''
-EN_HAZ_PCAP: ''
-EN_HAZ_TREAT: ''
-EN_HAZ_TREATV: ''
-EN_HAZ_TRTDISR: ''
-EN_HAZ_TRTDISV: ''
-EN_LND_CNSPOP: ''
-EN_LND_SLUM: ''
-EN_LND_SLUMN: ''
-EN_MAR_BEALIT: ''
-EN_MAR_BEALITSQ: ''
-EN_MAR_CHLANM: ''
-EN_MAR_CHLDEV: ''
-EN_MAR_COEUPO: ''
-EN_MAR_PLASPA: ''
-EN_MAT_DOMCMPC: ''
-EN_MAT_DOMCMPG: ''
-EN_MAT_DOMCMPT: ''
-EN_MAT_FTPRPC: ''
-EN_MAT_FTPRPG: ''
-EN_MAT_FTPRTN: ''
-EN_MWT_COLLV: ''
-EN_MWT_GENV: ''
-EN_MWT_RCYV: ''
-EN_MWT_TREATR: ''
-EN_NAA_PLAN: ''
-EN_NACOM_AIP: ''
-EN_NACOM_NAIP: ''
-EN_NAD_CONTR: ''
-EN_REF_COLDIS: ''
-EN_REF_WASCOL: ''
-EN_SCP_ECSYBA: ''
-EN_SCP_EZECO: ''
-EN_SCP_FRMN: ''
-EN_SCP_FRMNLG: ''
-EN_SCP_FRMNSM: ''
-EN_SCP_FSHGDP: ''
-EN_URB_OPENSP: ''
-EN_WBE_HMWTL: ''
-EN_WBE_INWTL: ''
-EN_WBE_NDETOT: ''
-EN_WBE_NDOPW: ''
-EN_WBE_NDQLGRW: ''
-EN_WBE_NDQLOPW: ''
-EN_WBE_NDQLRVR: ''
-EN_WBE_NDQLTOT: ''
-EN_WBE_NDQTGRW: ''
-EN_WBE_NDQTOPW: ''
-EN_WBE_NDQTRVR: ''
-EN_WBE_NDQTTOT: ''
-EN_WBE_NDRV: ''
-EN_WBE_NDWTL: ''
-EN_WBE_PMNR: ''
-EN_WBE_PMPN: ''
-EN_WBE_PMPP: ''
-EN_WBE_PMPR: ''
-EN_WWT_GEN: ''
-EN_WWT_TREAT: ''
-EN_WWT_TREATR: ''
-EN_WWT_WWDS: ''
-ER_BDY_ABT2NP: ''
-ER_BDY_SEEA: ''
-ER_BDY_SEEACF: ''
-ER_BDY_SEEAEEA: ''
-ER_CBD_ABSCLRHS: ''
-ER_CBD_NAGOYA: ''
-ER_CBD_ORSPGRFA: ''
-ER_CBD_PTYPGRFA: ''
-ER_CBD_SMTA: ''
-ER_FFS_CMPT: ''
-ER_FFS_CMPT_GDP: ''
-ER_FFS_CMPT_PC: ''
-ER_FFS_PRTSPC: ''
-ER_FFS_PRTSPR: ''
-ER_FFS_PRTSST: ''
-ER_GRF_ANIMKPT: ''
-ER_GRF_ANIMRCNT: ''
-ER_GRF_ANIMRCNTN: ''
-ER_GRF_ANIMSTOR: ''
-ER_GRF_ANIMSTORN: ''
-ER_GRF_GENEBNK: ''
-ER_GRF_PLNTSTOR: ''
-ER_H20_LCMGM: ''
-ER_H2O_FISHFEXP: ''
-ER_H2O_FISHNFEXP: ''
-ER_H2O_FISHOVEXP: ''
-ER_H2O_FWTL: ''
-ER_H2O_IWRMD: ''
-ER_H2O_IWRMP: ''
-ER_H2O_PARTIC: ''
-ER_H2O_PRDU: ''
-ER_H2O_PROCED: ''
-ER_H2O_RURP: ''
-ER_H2O_STRESS: ''
-ER_H2O_WUEYST: ''
-ER_IAS_GLOFUN: ''
-ER_IAS_LEGIS: ''
-ER_IAS_NATBUD: ''
-ER_IAS_NBSAP: ''
-ER_MRN_MARIN: ''
-ER_MRN_MARINT: ''
-ER_MRN_MPA: ''
-ER_MRN_TOTL: ''
-ER_MTN_GRNCOV: ''
-ER_MTN_GRNCVI: ''
-ER_MTN_TOTL: ''
-ER_OAW_MNACD: ''
-ER_PTD_FRHWTR: ''
-ER_PTD_MTN: ''
-ER_PTD_TERR: ''
-ER_RDE_OSEX: ''
-ER_REG_SSFRAR: ''
-ER_REG_UNFCIM: ''
-ER_RSK_LBREDS: ''
-ER_RSK_LST: ''
-ER_UNCLOS_IMPLE: ''
-ER_UNCLOS_RATACC: ''
-ER_WAT_PART: ''
-ER_WAT_PARTIC: ''
-ER_WAT_PRDU: ''
-ER_WAT_PROCED: ''
-ER_WLD_TRPOACH: ''
-FB_ATM_TOTL: ''
-FB_BNK_ACCSS: ''
-FB_CBK_BRCH: ''
-FC_ACC_SSID: ''
-FI_FSI_FSANL: ''
-FI_FSI_FSERA: ''
-FI_FSI_FSKA: ''
-FI_FSI_FSKNL: ''
-FI_FSI_FSKRTC: ''
-FI_FSI_FSLS: ''
-FI_FSI_FSSNO: ''
-GB_POP_SCIERD: ''
-GB_XPD_RSDV: ''
-GC_GOB_TAXD: ''
-GF_COM_CSP: ''
-GF_COM_PPP: ''
-GF_COM_PPPI: ''
-GF_COM_PPPI_KD: ''
-GF_FRN_FDI: ''
-GF_FRN_FDIODASS: ''
-GF_XPD_GBPC: ''
-GR_G14_GDP: ''
-GR_G14_XDC: ''
-IC_FRM_BRIB: ''
-IC_GEN_MGTL: ''
-IC_GEN_MGTN: ''
-IS_RDP_FRGVOL: ''
-IS_RDP_LULFRG: ''
-IS_RDP_PFVOL: ''
-IS_RDP_PORFVOL: ''
-IS_TRP_MAILTKM: ''
-IT_MOB_2GNTWK: ''
-IT_MOB_3GNTWK: ''
-IT_MOB_4GNTWK: ''
-IT_MOB_OWN: ''
-IT_NET_BBND: ''
-IT_NET_BBNDN: ''
-IT_USE_II99: ''
-IU_COR_BRIB: ''
-IU_DMK_ICRS: ''
-NV_IND_MANF: ''
-NV_IND_MANFPC: ''
-NV_IND_MANF_CD: ''
-NV_IND_SSIS: ''
-NV_IND_TECH: ''
-NY_GDP_PCAP: ''
-PD_AGR_LSFP: ''
-PD_AGR_SSFP: ''
-SD_CPA_UPRDP: ''
-SD_MDP_ANDI: ''
-SD_MDP_CSMP: ''
-SD_MDP_MUHC: ''
-SD_MDP_MUHHC: ''
-SD_SDG_AVLB: ''
-SD_XPD_ESED: ''
-SERIES: ''
-SE_ACC_HNDWSH: ''
-SE_ACS_CMPTR: ''
-SE_ACS_ELECT: ''
-SE_ACS_H2O: ''
-SE_ACS_INTNT: ''
-SE_ACS_SANIT: ''
-SE_ADT_ACTS: ''
-SE_ADT_EDUCTRN: ''
-SE_ADT_FUNS: ''
-SE_AGP_CPRA: ''
-SE_ALP_CPLR: ''
-SE_AWP_CPRA: ''
-SE_DEV_ONTRK: ''
-SE_GPI_ICTS: ''
-SE_GPI_PART: ''
-SE_GPI_PTNPRE: ''
-SE_GPI_TCAQ: ''
-SE_IMP_FPOF: ''
-SE_INF_DSBL: ''
-SE_LGP_ACHI: ''
-SE_NAP_ACHI: ''
-SE_PRE_PARTN: ''
-SE_TOT_CPLR: ''
-SE_TOT_GPI: ''
-SE_TOT_PRFL: ''
-SE_TOT_RUPI: ''
-SE_TOT_SESPI: ''
-SE_TRA_GRDL: ''
-SG_CPA_INFORCE_BIT: ''
-SG_CPA_INVPRMLDC: ''
-SG_CPA_MIGR: ''
-SG_CPA_MIGRP: ''
-SG_CPA_MIGRS: ''
-SG_CPA_SDEV: ''
-SG_CPA_SDEVP: ''
-SG_CPA_SIGN_BIT: ''
-SG_DMK_PARLCC_JC: ''
-SG_DMK_PARLCC_LC: ''
-SG_DMK_PARLCC_UC: ''
-SG_DMK_PARLMP_LC: ''
-SG_DMK_PARLMP_UC: ''
-SG_DMK_PARLSP_LC: ''
-SG_DMK_PARLSP_UC: ''
-SG_DMK_PARLYN_LC: ''
-SG_DMK_PARLYN_UC: ''
-SG_DMK_PARLYP_LC: ''
-SG_DMK_PARLYP_UC: ''
-SG_DMK_PARLYR_LC: ''
-SG_DMK_PARLYR_UC: ''
-SG_DSR_LEGREG: ''
-SG_DSR_LGRGSR: ''
-SG_DSR_SFDRR: ''
-SG_DSR_SILN: ''
-SG_DSR_SILS: ''
-SG_GEN_EQPWN: ''
-SG_GEN_LOCG: ''
-SG_GEN_LOCGELS: ''
-SG_GEN_PARL: ''
-SG_GEN_PARLN: ''
-SG_GEN_PARLNT: ''
-SG_GOV_LOGV: ''
-SG_HAZ_CMRBASEL: ''
-SG_HAZ_CMRMNMT: ''
-SG_HAZ_CMRMNTRL: ''
-SG_HAZ_CMRROTDAM: ''
-SG_HAZ_CMRSTHOLM: ''
-SG_INF_ACCSS: ''
-SG_INT_MBRDEV: ''
-SG_INT_VRTDEV: ''
-SG_LGL_GENEQEMP: ''
-SG_LGL_GENEQLFP: ''
-SG_LGL_GENEQMAR: ''
-SG_LGL_GENEQVAW: ''
-SG_LGL_LNDFEMOD: ''
-SG_LGL_LNDWMN: ''
-SG_NHR_IMPL: ''
-SG_NHR_IMPLN: ''
-SG_NHR_INTEXST: ''
-SG_NHR_INTEXSTN: ''
-SG_NHR_NOAPPLN: ''
-SG_NHR_NOSTUSN: ''
-SG_PLN_MSTKSDG: ''
-SG_PLN_MSTKSDG_P: ''
-SG_PLN_MSTKSDG_R: ''
-SG_PLN_PRPOLRES: ''
-SG_PLN_PRVNDI: ''
-SG_PLN_PRVRICTRY: ''
-SG_PLN_PRVRIMON: ''
-SG_PLN_RECNDI: ''
-SG_PLN_RECRICTRY: ''
-SG_PLN_RECRIMON: ''
-SG_PLN_REPOLRES: ''
-SG_POV_DOM: ''
-SG_POV_TOTL: ''
-SG_REG_BRTH: ''
-SG_REG_BRTH90: ''
-SG_REG_BRTH90N: ''
-SG_REG_CENSUS: ''
-SG_REG_CENSUSN: ''
-SG_REG_DETH75: ''
-SG_REG_DETH75N: ''
-SG_RHC_ACCS: ''
-SG_SCP_CNTRY: ''
-SG_SCP_CORMEC: ''
-SG_SCP_MACPOL: ''
-SG_SCP_OTHER: ''
-SG_SCP_POLINS: ''
-SG_SCP_PROCN: ''
-SG_SCP_TOTL: ''
-SG_STT_CAPTY: ''
-SG_STT_FPOS: ''
-SG_STT_NSDSFDDNR: ''
-SG_STT_NSDSFDGVT: ''
-SG_STT_NSDSFDOTHR: ''
-SG_STT_NSDSFND: ''
-SG_STT_NSDSIMPL: ''
-SG_URB_CSPART: ''
-SG_URB_PLAN: ''
-SG_XPD_HLTH: ''
-SG_XPD_PROT: ''
-SG_XPD_VULN: ''
-SH_AAP_ASMORT: ''
-SH_AAP_MORT: ''
-SH_ACS_DTP3: ''
-SH_ACS_HPV: ''
-SH_ACS_MCV2: ''
-SH_ACS_PCV3: ''
-SH_ACS_UNHC: ''
-SH_ACS_VACN: ''
-SH_ALC_CONSPT: ''
-SH_BLD_ECOLI: ''
-SH_BLD_MRSA: ''
-SH_DTH_NCD: ''
-SH_DTH_NCOM: ''
-SH_DYN_IMRT: ''
-SH_DYN_IMRTN: ''
-SH_DYN_MORT: ''
-SH_DYN_MORTN: ''
-SH_DYN_NMRT: ''
-SH_DYN_NMRTN: ''
-SH_FPL_INFM: ''
-SH_FPL_INFMCU: ''
-SH_FPL_INFMRH: ''
-SH_FPL_INFMSR: ''
-SH_FPL_MTMM: ''
-SH_H2O_SAFE: ''
-SH_HAP_ASMORT: ''
-SH_HAP_HBSAG: ''
-SH_HAP_MORT: ''
-SH_HIV_INCD: ''
-SH_HLF_EMED: ''
-SH_IHR_CAPPRD: ''
-SH_IHR_CAPS: ''
-SH_LGR_ACSRHE: ''
-SH_LGR_ACSRHEC1: ''
-SH_LGR_ACSRHEC10: ''
-SH_LGR_ACSRHEC11: ''
-SH_LGR_ACSRHEC12: ''
-SH_LGR_ACSRHEC13: ''
-SH_LGR_ACSRHEC2: ''
-SH_LGR_ACSRHEC3: ''
-SH_LGR_ACSRHEC4: ''
-SH_LGR_ACSRHEC5: ''
-SH_LGR_ACSRHEC6: ''
-SH_LGR_ACSRHEC7: ''
-SH_LGR_ACSRHEC8: ''
-SH_LGR_ACSRHEC9: ''
-SH_LGR_ACSRHES1: ''
-SH_LGR_ACSRHES2: ''
-SH_LGR_ACSRHES3: ''
-SH_LGR_ACSRHES4: ''
-SH_MED_DEN: ''
-SH_MED_HWRKDIS: ''
-SH_PRV_SMOK: ''
-SH_SAN_DEFECT: ''
-SH_SAN_HNDWSH: ''
-SH_SAN_SAFE: ''
-SH_STA_AIRP: ''
-SH_STA_ANEM: ''
-SH_STA_ANEM_NPRG: ''
-SH_STA_ANEM_PREG: ''
-SH_STA_ASAIRP: ''
-SH_STA_BRTC: ''
-SH_STA_FGMS: ''
-SH_STA_MALR: ''
-SH_STA_MORT: ''
-SH_STA_POISN: ''
-SH_STA_SCIDE: ''
-SH_STA_SCIDEN: ''
-SH_STA_STNT: ''
-SH_STA_STNTN: ''
-SH_STA_TRAF: ''
-SH_STA_TRAFN: ''
-SH_STA_WASH: ''
-SH_STA_WAST: ''
-SH_STA_WASTN: ''
-SH_SUD_ALCOL: ''
-SH_SUD_TREAT: ''
-SH_TBS_INCD: ''
-SH_TRP_INTVN: ''
-SH_XPD_EARN10: ''
-SH_XPD_EARN25: ''
-SI_AGR_LSFP: ''
-SI_AGR_SSFP: ''
-SI_COV_BENFTS: ''
-SI_COV_CHLD: ''
-SI_COV_DISAB: ''
-SI_COV_LMKT: ''
-SI_COV_MATNL: ''
-SI_COV_PENSN: ''
-SI_COV_POOR: ''
-SI_COV_SOCAST: ''
-SI_COV_SOCINS: ''
-SI_COV_UEMP: ''
-SI_COV_VULN: ''
-SI_COV_WKINJRY: ''
-SI_DST_FISP: ''
-SI_HEI_TOTL: ''
-SI_POV_50MI: ''
-SI_POV_DAY1: ''
-SI_POV_EMP1: ''
-SI_POV_NAHC: ''
-SI_POV_NMPI: ''
-SI_RMT_COST: ''
-SI_RMT_COST_BC: ''
-SI_RMT_COST_SC: ''
-SL_CPA_YEMP: ''
-SL_DOM_TSPD: ''
-SL_DOM_TSPDCW: ''
-SL_DOM_TSPDDC: ''
-SL_EMP_EARN: ''
-SL_EMP_FTLINJUR: ''
-SL_EMP_GTOTL: ''
-SL_EMP_INJUR: ''
-SL_EMP_PCAP: ''
-SL_EMP_RCOST: ''
-SL_ISV_IFEM: ''
-SL_ISV_IFRM: ''
-SL_LBR_NTLCPL: ''
-SL_TLF_CHLDEA: ''
-SL_TLF_CHLDEAN: ''
-SL_TLF_CHLDEC: ''
-SL_TLF_CHLDECN: ''
-SL_TLF_MANF: ''
-SL_TLF_NEET: ''
-SL_TLF_UEM: ''
-SL_TLF_UEMDIS: ''
-SM_DTH_MIGR: ''
-SM_POP_REFG_OR: ''
-SN_ITK_DEFC: ''
-SN_ITK_DEFCN: ''
-SN_STA_OVWGT: ''
-SN_STA_OVWGTN: ''
-SP_ACS_BSRV: ''
-SP_ACS_BSRVH2O: ''
-SP_ACS_BSRVSAN: ''
-SP_DYN_ADKL: ''
-SP_DYN_MRBF15: ''
-SP_DYN_MRBF18: ''
-SP_GNP_WNOWNS: ''
-SP_LGL_LNDAGSEC: ''
-SP_LGL_LNDDOC: ''
-SP_LGL_LNDSEC: ''
-SP_LGL_LNDSTR: ''
-SP_PSR_SATIS: ''
-SP_ROD_R2KM: ''
-SP_TRN_PUBL: ''
-ST_EEV_ACCSEEA: ''
-ST_EEV_ACCTSA: ''
-ST_EEV_STDACCT: ''
-ST_EMP_SUST: ''
-ST_GDP_ZS: ''
-TM_TAX_DMFN: ''
-TM_TAX_DPRF: ''
-TM_TAX_WM: ''
-TM_TAX_WMFN: ''
-TM_TAX_WMPS: ''
-TM_TRF_ZERO: ''
-TX_EXP_GBMRCH: ''
-TX_EXP_GBSVR: ''
-TX_IMP_GBMRCH: ''
-TX_IMP_GBSVR: ''
-VC_ARM_SZTRACE: ''
-VC_DSR_AFFCT: ''
-VC_DSR_AGLH: ''
-VC_DSR_BSDN: ''
-VC_DSR_CDAN: ''
-VC_DSR_CDYN: ''
-VC_DSR_CHLN: ''
-VC_DSR_CILN: ''
-VC_DSR_DAFF: ''
-VC_DSR_DDHN: ''
-VC_DSR_DDPA: ''
-VC_DSR_DYDN: ''
-VC_DSR_DYHN: ''
-VC_DSR_EFDN: ''
-VC_DSR_ESDN: ''
-VC_DSR_GDPLS: ''
-VC_DSR_HFDN: ''
-VC_DSR_HOLH: ''
-VC_DSR_HSDN: ''
-VC_DSR_IJILN: ''
-VC_DSR_LSGP: ''
-VC_DSR_MISS: ''
-VC_DSR_MMHN: ''
-VC_DSR_MORT: ''
-VC_DSR_MTMP: ''
-VC_DSR_OBDN: ''
-VC_DSR_PDAN: ''
-VC_DSR_PDLN: ''
-VC_DSR_PDYN: ''
-VC_DTH_TOCV: ''
-VC_DTH_TOCVN: ''
-VC_DTH_TOCVR: ''
-VC_HTF_DETV: ''
-VC_HTF_DETVFL: ''
-VC_HTF_DETVOG: ''
-VC_HTF_DETVOP: ''
-VC_HTF_DETVSX: ''
-VC_IHR_PSRC: ''
-VC_IHR_PSRCN: ''
-VC_PRR_PHYV: ''
-VC_PRR_ROBB: ''
-VC_PRR_SEXV: ''
-VC_PRS_UNSNT: ''
-VC_PRS_UNSNTN: ''
-VC_SNS_WALN: ''
-VC_VAW_DIST: ''
-VC_VAW_MARR: ''
-VC_VAW_MTUHRA: ''
-VC_VAW_NONMARR: ''
-VC_VAW_PHYPYV: ''
-VC_VAW_PHYV: ''
-VC_VAW_PSYV: ''
-VC_VAW_SEXV: ''
-VC_VAW_SXVLN: ''
-VC_VOC_ENFDIS: ''
-VC_VOH_SXPH: ''
-VC_VOV_DCMN: ''
-VC_VOV_GDSD: ''
-VC_VOV_PHYL: ''
-VC_VOV_ROBB: ''
-VC_VOV_SEXL: ''
+AG_FLS_IDX: 'Indice mondial des pertes alimentaires [12.3.1]'
+AG_FOOD_WST: 'Gaspillage alimentaire [12.3.1]'
+AG_FOOD_WST_PC: 'Gaspillage alimentaire par habitant [12.3.1]'
+AG_FPA_CFPI: 'Indice des prix alimentaires à la consommation [2.c.1]'
+AG_FPA_COMM: 'Indicateur des Anomalies des Prix Alimentaires (IFPA) [2.c.1]'
+AG_FPA_HMFP: 'Proportion de pays enregistrant des prix alimentaires anormalement élevés
+  ou modérément élevés, selon l''Indicateur des Anomalies des Prix Alimentaires [2.c.1]'
+AG_LND_DGRD: 'Proportion de terres dégradées par rapport à la superficie totale des
+  terres [15.3.1]'
+AG_LND_FRST: 'Superficie forestière en proportion de la superficie totale des terres
+  [15.1.1]'
+AG_LND_FRSTBIOM: 'Biomasse aérienne en forêt (tonnes) [15.2.1]'
+AG_LND_FRSTBIOPHA: 'Biomasse aérienne en forêt par hectare (tonnes par hectare) [15.2.1]'
+AG_LND_FRSTCERT: 'Superficie forestière certifiée dans le cadre d''un système de certification
+  vérifié de manière indépendante (hectares) [15.2.1]'
+AG_LND_FRSTCHG: 'Taux de changement net de la superficie forestière (%) [15.2.1]'
+AG_LND_FRSTMGT: 'Proportion de la superficie forestière avec un plan de gestion à
+  long terme [15.2.1]'
+AG_LND_FRSTN: 'Superficie forestière (hectares) [15.1.1]'
+AG_LND_FRSTPRCT: 'Proportion de la superficie forestière dans les aires protégées
+  légalement établies [15.2.1]'
+AG_LND_FRSTPRCTN: 'Superficie forestière dans les aires protégées légalement établies
+  [15.2.1]'
+AG_LND_SUST: 'Proportion de la superficie agricole en agriculture productive et durable
+  [2.4.1]'
+AG_LND_TOTL: 'Superficie (hectares) [15.1.1]'
+AG_PRD_AGVAS: 'Part de la valeur ajoutée agricole dans le PIB [2.a.1]'
+AG_PRD_FIESMS: 'Prévalence de l''insécurité alimentaire modérée ou sévère dans la
+  population [2.1.2]'
+AG_PRD_FIESMSN: 'Population en insécurité alimentaire modérée ou sévère (nombre) [2.1.2]'
+AG_PRD_FIESMSTN: 'Population vivant dans des ménages où au moins un adulte a connu
+  une insécurité alimentaire modérée ou sévère (nombre) [2.1.2]'
+AG_PRD_FIESS: 'Prévalence de l''insécurité alimentaire sévère dans la population [2.1.2]'
+AG_PRD_FIESSN: 'Population en insécurité alimentaire sévère (nombre) [2.1.2]'
+AG_PRD_FIESSTN: 'Population vivant dans des ménages où au moins un adulte a connu
+  une insécurité alimentaire sévère (nombre) [2.1.2]'
+AG_PRD_ORTIND: 'Indice d''orientation agricole des dépenses publiques [2.a.1]'
+AG_PRD_XSUBDY: 'Subventions à l''exportation agricole [2.b.1]'
+AG_XPD_AGSGB: 'Part de l''agriculture dans les dépenses publiques [2.a.1]'
+BX_TRF_PWKR: 'Volume des envois de fonds (en dollars des États-Unis) en proportion
+  du PIB total [17.3.2]'
+DC_CLC_100B: 'Montant (en dollars des États‐Unis) des ressources mobilisées par
+  année, de 2020 à 2025, au titre de l’engagement de 100 milliards de dollars'
+DC_CST_EFICP: 'Proportion de l’assistance financière allouée aux pays les moins
+  avancés qui est consacrée à la construction de bâtiments durables, résilients
+  et économes en ressources et à la remise à niveau d’anciens bâtiments, en utilisant
+  des matériaux locaux'
+DC_FIN_CLIMB: 'Soutien financier spécifique au climat fourni via des canaux bilatéraux,
+  régionaux et autres, par type de soutien (En milliards de dollars des États-Unis
+  courants) [13.a.1]'
+DC_FIN_CLIMM: 'Soutien financier spécifique au climat fourni via des canaux multilatéraux,
+  par type de soutien (En milliards de dollars courants des États-Unis) [13.a.1]'
+DC_FIN_CLIMT: 'Total du soutien financier spécifique au climat fourni (en milliards
+  de dollars courants des États-Unis) [13.a.1]'
+DC_FIN_GEN: 'Contributions de base/générales versées aux institutions multilatérales
+  (En milliards de dollars courants des États-Unis) [13.a.1]'
+DC_FIN_TOT: 'Soutien financier total fourni (En milliards de dollars courants des
+  États-Unis) [13.a.1]'
+DC_FTA_TOTAL: 'Aide publique au développement totale (décaissement brut) pour la coopération
+  technique [17.9.1]'
+DC_ODA_BDVDL: 'Aide publique au développement totale pour la biodiversité, par pays
+  donateurs [15.a.1, 15.b.1]'
+DC_ODA_BDVL: 'Aide publique au développement totale pour la biodiversité, par pays
+  bénéficiaire [15.a.1, 15.b.1]'
+DC_ODA_LDCG: 'Aide publique au développement (APD) nette aux PMA en pourcentage du
+  RNB des donateurs de l''OCDE-CAD, par pays donateurs [17.2.1]'
+DC_ODA_LDCS: 'Aide publique au développement (APD) nette aux PMA en provenance des
+  pays du CAD de l''OCDE, par pays donateurs [17.2.1]'
+DC_ODA_LLDC: 'Aide publique au développement (APD) nette aux pays en développement
+  sans littoral provenant des pays du CAD de l''OCDE, par pays donateurs [17.2.1]'
+DC_ODA_LLDCG: 'Aide publique au développement (APD) nette aux pays en développement
+  sans littoral en pourcentage du RNB des donateurs de l''OCDE-CAD, par pays donateurs
+  [17.2.1]'
+DC_ODA_POVDLG: 'Subventions d''aide publique au développement pour la réduction de
+  la pauvreté, par pays donateurs (pourcentage du RNB) [1.a.1]'
+DC_ODA_POVG: 'Subventions d''aide publique au développement pour la réduction de la
+  pauvreté (pourcentage du RNB) [1.a.1]'
+DC_ODA_POVLG: 'Subventions d''aide publique au développement pour la réduction de
+  la pauvreté, par pays bénéficiaires (pourcentage du RNB) [1.a.1]'
+DC_ODA_SIDS: 'Aide publique au développement (APD) nette aux petits États insulaires
+  (PEID) des pays de l''OCDE-CAD, par pays donateurs [17.2.1]'
+DC_ODA_SIDSG: 'Aide publique au développement (APD) nette aux petits États insulaires
+  (PEID) en pourcentage du RNB des donateurs de l''OCDE-CAD, par pays donateurs [17.2.1]'
+DC_ODA_TOTG: 'Aide publique au développement (APD) nette en pourcentage du RNB des
+  donateurs du CAD de l''OCDE, par pays donateurs [17.2.1]'
+DC_ODA_TOTGGE: 'Aide publique au développement (APD) nette en pourcentage du RNB des
+  donateurs de l''OCDE-CAD (méthodologie en équivalent don), par pays donateurs (%)
+  [17.2.1]'
+DC_ODA_TOTL: 'Aide publique au développement (APD) nette des pays de l''OCDE-CAD,
+  par pays donateurs [17.2.1]'
+DC_ODA_TOTLGE: 'Aide publique au développement (APD) nette des pays de l''OCDE-CAD
+  (méthodologie des équivalents de dons), par pays donateurs [17.2.1]'
+DC_SCP_RANDN: 'Montant de l’aide apportée aux pays en développement au titre d’activités
+  de recherche-développement consacrées aux modes de consommation et de production
+  durables et aux technologies écologiquement rationnelles'
+DC_TOF_AGRL: 'Flux officiels totaux (décaissements) pour l''agriculture, par pays
+  bénéficiaire [2.a.2]'
+DC_TOF_ENVTECH: 'Montant total des financements approuvés pour les pays en développement
+  aux fins de la promotion de la mise au point, du transfert et de la diffusion de
+  technologies respectueuses de l’environnement'
+DC_TOF_HLTHL: 'Aide publique au développement totale aux secteurs de la recherche
+  médicale et de la santé de base, décaissement brut, par pays bénéficiaire [3.b.2]'
+DC_TOF_HLTHNT: 'Aide publique au développement totale aux secteurs de la recherche
+  médicale et de la santé de base, décaissement net, par pays bénéficiaire [3.b.2]'
+DC_TOF_INFRAL: 'Flux officiels totaux pour les infrastructures, par pays bénéficiaire
+  [9.a.1]'
+DC_TOF_SCHIPSL: 'Flux officiels totaux de bourses, par pays bénéficiaire [4.b.1]'
+DC_TOF_TRDCMDL: 'Flux officiels totaux (engagements) pour l''Aide pour le commerce,
+  par pays donateurs [8.a.1]'
+DC_TOF_TRDCML: 'Flux officiels totaux (engagements) pour l''Aide pour le commerce,
+  par pays bénéficiaire [8.a.1]'
+DC_TOF_TRDDBMDL: 'Flux officiels totaux (décaissements) pour l''Aide pour le commerce,
+  par pays donateurs [8.a.1]'
+DC_TOF_TRDDBML: 'Flux officiels totaux (décaissements) pour l''Aide pour le commerce,
+  par pays bénéficiaire [8.a.1]'
+DC_TOF_WASHL: 'Aide publique au développement totale (décaissement brut) pour l''approvisionnement
+  en eau et l''assainissement, par pays bénéficiaire [6.a.1]'
+DC_TRF_TFDV: 'Flux de ressources totaux pour le développement, par pays bénéficiaire
+  et par pays donateurs [10.b.1]'
+DC_TRF_TOTDL: 'Aide totale au développement, par pays donateurs [10.b.1]'
+DC_TRF_TOTL: 'Aide totale au développement, par pays bénéficiaire [10.b.1]'
+DI_ILL_IN: 'Valeur totale des flux financiers illicites entrants [16.4.1]'
+DI_ILL_OUT: 'Valeur totale des flux financiers illicites sortants [16.4.1]'
+DT_TDS_DECT: 'Service de la dette en proportion des exportations de biens et services
+  [17.4.1]'
+EG_ACS_ELEC: 'Proportion de la population ayant accès à l''électricité [7.1.1]'
+EG_CFT_COOK: 'Proportion de la population dépendant principalement des combustibles
+  propres et des technologies de cuisson [7.1.2]'
+EG_CFT_LIGHT: 'Proportion de la population dépendant principalement de combustibles
+  propres et de technologies d''éclairage [7.1.2]'
+EG_EGY_CLEAN: 'Proportion de la population dépendant principalement de carburants
+  et de technologies propres [7.1.2]'
+EG_EGY_PRIM: 'Niveau d''intensité énergétique de l''énergie primaire [7.3.1]'
+EG_EGY_RNEW: 'Capacité de production d''électricité renouvelable installée (watts
+  par habitant) [7.b.1, 12.a.1]'
+EG_FEC_RNEW: 'Part des énergies renouvelables dans la consommation totale d''énergie
+  finale [7.2.1]'
+EG_IFF_RANDN: 'Flux financiers internationaux à destination des pays en développement
+  à l’appui de la recherche-développement dans le domaine des énergies propres
+  et de la production d’énergie renouvelable, notamment au moyen de systèmes hybrides'
+EG_TBA_H2CO: 'Proportion des bassins transfrontaliers (bassins fluviaux et lacustres
+  et aquifères) avec un accord opérationnel pour la coopération dans le domaine de
+  l''eau [6.5.2]'
+EG_TBA_H2COAQ: 'Proportion des aquifères transfrontaliers avec un accord opérationnel
+  pour la coopération dans le domaine de l''eau [6.5.2]'
+EG_TBA_H2CORL: 'Proportion des bassins fluviaux et lacustres transfrontaliers avec
+  un accord opérationnel pour la coopération dans le domaine de l''eau [6.5.2]'
+EN_ADAP_COM: 'Nombre de pays avec des communications d''adaptation [13.2.1,13.b.1]'
+EN_ATM_CO2: 'Émissions de dioxyde de carbone provenant de la combustion de carburant
+  [9.4.1]'
+EN_ATM_CO2GDP: 'Émissions de dioxyde de carbone par unité de PIB [9.4.1]'
+EN_ATM_CO2MVA: 'Émissions de dioxyde de carbone par unité de valeur ajoutée manufacturière
+  [9.4.1]'
+EN_ATM_GHGT_AIP: 'Émissions totales de gaz à effet de serre sans UTCATF pour les Parties
+  visées à l''annexe I (équivalent CO₂) [13.2.2]'
+EN_ATM_GHGT_NAIP: 'Émissions totales de gaz à effet de serre sans UTCATF pour les
+  Parties non visées à l''annexe I (équivalent CO₂) [13.2.2]'
+EN_ATM_PM25: 'Niveaux moyens annuels de particules fines dans les villes, population
+  urbaine [11.6.2]'
+EN_BIUREP_AIP: 'Nombre de pays ayant présenté des rapports biennaux, Parties visées
+  à l''annexe I [13.2.1]'
+EN_BIUREP_NAIP: 'Nombre de pays avec des rapports biennaux actualisés, Parties non
+  visées à l''annexe I [13.2.1,13.b.1]'
+EN_EWT_COLLPCAP: 'Déchets électroniques collectés, par habitant (KG) [12.4.2]'
+EN_EWT_COLLR: 'Taux de collecte des déchets électroniques (%) [12.4.2]'
+EN_EWT_COLLV: 'Déchets électroniques collectés (Tonnes) [12.4.2]'
+EN_EWT_GENPCAP: 'Déchets électroniques générés, par habitant (Kg) [12.4.2]'
+EN_EWT_GENV: 'Déchets électroniques générés (Tonnes) [12.4.2]'
+EN_EWT_RCYPCAP: 'Recyclage des déchets électroniques, par habitant (Kg) [12.4.2,12.5.1]'
+EN_EWT_RCYR: 'Recyclage des déchets électroniques, taux (%) [12.4.2,12.5.1]'
+EN_EWT_RCYV: 'Recyclage des déchets électroniques (Tonnes) [12.4.2,12.5.1]'
+EN_H2O_GRAMBQ: 'Proportion de masses d''eau souterraine avec une bonne qualité d''eau
+  ambiante [6.3.2]'
+EN_H2O_OPAMBQ: 'Proportion de plans d''eau ouverts avec une bonne qualité d''eau ambiante
+  [6.3.2]'
+EN_H2O_RVAMBQ: 'Proportion de masses d''eau fluviales avec une bonne qualité d''eau
+  ambiante [6.3.2]'
+EN_H2O_WBAMBQ: 'Proportion de plans d''eau avec une bonne qualité d''eau ambiante
+  [6.3.2]'
+EN_HAZ_GENGDP: 'Déchets dangereux générés, par unité de PIB [12.4.2]'
+EN_HAZ_GENV: 'Déchets dangereux générés (Tonnes) [12.4.2]'
+EN_HAZ_PCAP: 'Déchets dangereux générés, par habitant (Kg) [12.4.2]'
+EN_HAZ_TREAT: 'Proportion de déchets dangereux traités [12.4.2]'
+EN_HAZ_TREATV: 'Déchets dangereux traités et par type de traitement (Tonnes) [12.4.2]'
+EN_HAZ_TRTDISR: 'Déchets dangereux traités ou éliminés, taux (%) [12.4.2]'
+EN_HAZ_TRTDISV: 'Déchets dangereux traités ou éliminés (Tonnes) [12.4.2]'
+EN_LND_CNSPOP: 'Ratio du taux de consommation des terres au taux de croissance de
+  la population [11.3.1]'
+EN_LND_SLUM: 'Proportion de la population urbaine vivant dans des bidonvilles [11.1.1]'
+EN_LND_SLUMN: 'Population urbaine vivant dans des bidonvilles (nombre) [11.1.1]'
+EN_MAR_BEALIT: 'Déchets de plage provenant de sources terrestres nationales [14.1.1]'
+EN_MAR_BEALITSQ: 'Déchets de plage par kilomètre carré (Nombre) [14.1.1]'
+EN_MAR_CHLANM: 'Anomalie de chlorophylle-a, télédétection (%) [14.1.1]'
+EN_MAR_CHLDEV: 'Écarts de chlorophylle-a, télédétection [14.1.1]'
+EN_MAR_COEUPO: 'Potentiel d''eutrophisation côtière (charge N et P) [14.1.1]'
+EN_MAR_PLASPA: 'Nombre de plaques de plastique supérieures à 10 mètres carrés [14.1.1]'
+EN_MAT_DOMCMPC: 'Consommation intérieure de matières par habitant, par type de matière
+  première [8.4.2]'
+EN_MAT_DOMCMPG: 'Consommation intérieure de matières par unité de PIB [8.4.2]'
+EN_MAT_DOMCMPT: 'Consommation intérieure de matières [8.4.2]'
+EN_MAT_FTPRPC: 'Empreinte matérielle par habitant [8.4.1, 12.2.1]'
+EN_MAT_FTPRPG: 'Empreinte matérielle par unité de PIB [8.4.1, 12.2.1]'
+EN_MAT_FTPRTN: 'Empreinte matérielle [8.4.1, 12.2.1]'
+EN_MWT_COLLV: 'Déchets municipaux collectés (Tonnes) [12.4.2]'
+EN_MWT_GENV: 'Déchets municipaux générés (Tonnes) [12.4.2]'
+EN_MWT_RCYV: 'Déchets municipaux recyclés (Tonnes) [12.4.2,12.5.1]'
+EN_MWT_TREATR: 'Déchets municipaux traités, par type de traitement (%) [12.4.2]'
+EN_NAA_PLAN: 'Nombre de pays dotés de plans nationaux d''adaptation [13.2.1,13.b.1]'
+EN_NACOM_AIP: 'Nombre de pays ayant des communications nationales, Parties visées
+  à l''annexe I [13.2.1]'
+EN_NACOM_NAIP: 'Nombre de pays ayant des communications nationales, Parties non visées
+  à l''annexe I [13.2.1,13.b.1]'
+EN_NAD_CONTR: 'Nombre de pays avec des contributions déterminées au niveau national
+  [13.2.1,13.b.1]'
+EN_REF_COLDIS: 'Proportion de la population desservie par la collecte des déchets
+  municipaux [11.6.1]'
+EN_REF_WASCOL: 'Couverture de la collecte des déchets solides municipaux, par ville
+  (%) [11.6.1]'
+EN_SCP_ECSYBA: 'Pays utilisant des approches écosystémiques (1 = OUI ; 0 = NON) [14.2.1]'
+EN_SCP_EZECO: 'Proportion de zones économiques exclusives nationales gérées selon
+  des approches écosystémiques [14.2.1]'
+EN_SCP_FRMN: 'Nombre d''entreprises publiant des rapports de développement durable
+  [12.6.1]'
+EN_SCP_FRMNLG: 'Nombre de grandes entreprises publiant des rapports de développement
+  durable [12.6.1]'
+EN_SCP_FRMNSM: 'Nombre de petites et moyennes entreprises publiant des rapports de
+  développement durable [12.6.1]'
+EN_SCP_FSHGDP: 'Pêche durable en proportion du PIB [14.7.1]'
+EN_URB_OPENSP: 'Part moyenne de la surface bâtie des villes qui est un espace ouvert
+  à usage public pour tous [11.7.1]'
+EN_WBE_HMWTL: 'Étendue des zones humides artificielles (kilomètres carrés) [6.6.1]'
+EN_WBE_INWTL: 'Étendue des zones humides intérieures (kilomètres carrés) [6.6.1]'
+EN_WBE_NDETOT: 'Étendue totale dérivée à l''échelle nationale (kilomètres carrés)
+  [6.6.1]'
+EN_WBE_NDOPW: 'Étendue des plans d''eau libre dérivée à l''échelle nationale (kilomètres
+  carrés) [6.6.1]'
+EN_WBE_NDQLGRW: 'Qualité des eaux souterraines dérivée au niveau national (%) [6.6.1]'
+EN_WBE_NDQLOPW: 'Qualité dérivée au niveau national des plans d''eau libres (%) [6.6.1]'
+EN_WBE_NDQLRVR: 'Qualité de la rivière dérivée au niveau national (%) [6.6.1]'
+EN_WBE_NDQLTOT: 'Proportion dérivée au niveau national de masses d''eau de bonne qualité
+  (%) [6.6.1]'
+EN_WBE_NDQTGRW: 'Quantité d''eau souterraine dérivée au niveau national (millions
+  de mètres cubes par an) [6.6.1]'
+EN_WBE_NDQTOPW: 'Quantité de masses d''eau libre dérivée au niveau national (millions
+  de mètres cubes par an) [6.6.1]'
+EN_WBE_NDQTRVR: 'Quantité de rivières dérivée au niveau national (millions de mètres
+  cubes par an) [6.6.1]'
+EN_WBE_NDQTTOT: 'Quantité totale dérivée au niveau national (millions de mètres cubes
+  par an) [6.6.1]'
+EN_WBE_NDRV: 'Étendue des rivières dérivée à l''échelle nationale (kilomètres carrés)
+  [6.6.1]'
+EN_WBE_NDWTL: 'Étendue des terres humides dérivée à l''échelle nationale (kilomètres
+  carrés) [6.6.1]'
+EN_WBE_PMNR: 'Étendue du plan d''eau (permanent) (kilomètres carrés) [6.6.1]'
+EN_WBE_PMPN: 'Étendue de la masse d''eau (permanente et peut-être permanente) (kilomètres
+  carrés) [6.6.1]'
+EN_WBE_PMPP: 'Étendue de la masse d''eau (permanente et peut-être permanente) (% de
+  la superficie totale des terres) [6.6.1]'
+EN_WBE_PMPR: 'Étendue du plan d''eau (permanent) (% de la superficie totale des terres)
+  [6.6.1]'
+EN_WWT_GEN: 'Total des eaux usées générées (millions de m3/an) [6.3.1]'
+EN_WWT_TREAT: 'Total des eaux usées traitées (millions de m3/an) [6.3.1]'
+EN_WWT_TREATR: 'Proportion d''eaux usées traitées [6.3.1]'
+EN_WWT_WWDS: 'Proportion des flux d''eaux usées domestiques traitées en toute sécurité
+  [6.3.1]'
+ER_BDY_ABT2NP: 'Pays qui ont établi des objectifs nationaux conformément à l''Objectif
+  2 d''Aichi pour la biodiversité du Plan stratégique pour la biodiversité 2011-2020
+  dans leur stratégie et leurs plans d''action nationaux pour la biodiversité (1 =
+  OUI ; 0 = NON) [15.9.1]'
+ER_BDY_SEEA: 'Pays ayant intégré des valeurs de biodiversité dans les systèmes nationaux
+  de comptabilité et de notification, définis comme la mise en œuvre du Système de
+  comptabilité environnementale et économique (1 = OUI ; 0 = NON) [15.9.1]'
+ER_BDY_SEEACF: 'Pays qui ont intégré les valeurs de la biodiversité dans les systèmes
+  nationaux de comptabilité et de déclaration, définis comme la mise en œuvre du cadre
+  central du Système de comptabilité environnementale et économique (SEEA-CF) (1 =
+  OUI ; 0 = NON) [15.9.1]'
+ER_BDY_SEEAEEA: 'Pays qui ont intégré les valeurs de la biodiversité dans les systèmes
+  nationaux de comptabilité et de notification, définis comme la mise en œuvre du
+  Système de comptabilité environnementale et économique Comptabilité expérimentale
+  des écosystèmes (SEEA-EEA) (1 = OUI ; 0 = NON) [15.9.1]'
+ER_CBD_ABSCLRHS: 'Pays ayant un cadre législatif, administratif et politique ou des
+  mesures signalés au Centre d''échange sur l''accès et le partage des avantages (1
+  = OUI ; 0 = NON) [15.6.1]'
+ER_CBD_NAGOYA: 'Pays qui sont parties au Protocole de Nagoya (1 = OUI ; 0 = NON) [15.6.1]'
+ER_CBD_ORSPGRFA: 'Pays disposant d''un cadre ou de mesures législatifs, administratifs
+  et politiques signalés via le système de notification en ligne sur le respect du
+  Traité international sur les ressources phytogénétiques pour l''alimentation et
+  l''agriculture (RPGAA) (1 = OUI ; 0 = NON) [15.6.1]'
+ER_CBD_PTYPGRFA: 'Pays qui sont Parties contractantes au Traité international sur
+  les ressources phytogénétiques pour l''alimentation et l''agriculture (RPGAA) (1
+  = OUI ; 0 = NON) [15.6.1]'
+ER_CBD_SMTA: 'Nombre total déclaré d''Accords types de transfert de matériel (ATTM)
+  transférant des ressources phytogénétiques pour l''alimentation et l''agriculture
+  au pays [15.6.1]'
+ER_FFS_CMPT: 'Subventions aux combustibles fossiles (consommation et production) (millions
+  de dollars constants des États-Unis) [12.c.1]'
+ER_FFS_CMPT_GDP: 'Subventions aux combustibles fossiles (consommation et production)
+  en proportion du PIB total [12.c.1]'
+ER_FFS_CMPT_PC: 'Subventions aux combustibles fossiles (consommation et production)
+  par habitant (dollars américains constants) [12.c.1]'
+ER_FFS_PRTSPC: 'Subventions avant impôts aux combustibles fossiles (consommation et
+  production) par habitant [12.c.1]'
+ER_FFS_PRTSPR: 'Subventions avant impôts aux combustibles fossiles (consommation et
+  production) en proportion du PIB total [12.c.1]'
+ER_FFS_PRTSST: 'Subventions avant impôt aux combustibles fossiles (consommation et
+  production) [12.c.1]'
+ER_GRF_ANIMKPT: 'Nombre de races locales détenues dans le pays [2.5.1]'
+ER_GRF_ANIMRCNT: 'Proportion de races locales pour lesquelles des ressources génétiques
+  suffisantes sont stockées pour être reconstituées [2.5.1]'
+ER_GRF_ANIMRCNTN: 'Nombre de races locales pour lesquelles des ressources génétiques
+  suffisantes sont stockées pour la reconstitution [2.5.1]'
+ER_GRF_ANIMSTOR: 'Proportion de races locales avec du matériel génétique stocké [2.5.1]'
+ER_GRF_ANIMSTORN: 'Nombre de races locales avec du matériel génétique stocké [2.5.1]'
+ER_GRF_GENEBNK: 'Banque de gènes in vitro opérationnelle pour les ressources zoogénétiques
+  [2.5.1]'
+ER_GRF_PLNTSTOR: 'Races végétales pour lesquelles des ressources génétiques suffisantes
+  sont stockées (nombre) [2.5.1]'
+ER_H20_LCMGM: 'Proportion d’administrations locales ayant mis en place des politiques
+  et procédures opérationnelles encourageant la participation de la population locale
+  à la gestion de l’eau et de l’assainissement'
+ER_H2O_FISHFEXP: 'Proportion des stocks de poissons pleinement exploités [14.4.1]'
+ER_H2O_FISHNFEXP: 'Proportion des stocks de poissons qui ne sont pas pleinement exploités
+  [14.4.1]'
+ER_H2O_FISHOVEXP: 'Proportion des stocks de poissons surexploités [14.4.1]'
+ER_H2O_FWTL: 'Proportion des stocks de poissons à des niveaux biologiquement durables
+  (non surexploités) [14.4.1]'
+ER_H2O_IWRMD: 'Degré de mise en œuvre de la gestion intégrée des ressources en eau
+  [6.5.1]'
+ER_H2O_IWRMP: 'Proportion de pays par catégorie de mise en œuvre de la GIRE [6.5.1]'
+ER_H2O_PARTIC: 'Proportion de pays avec un niveau élevé d''utilisateurs/communautés
+  participant aux programmes de planification de l''approvisionnement en eau potable
+  en milieu rural [6.b.1]'
+ER_H2O_PRDU: 'Pays avec des procédures légales ou politiques pour la participation
+  des utilisateurs de services/communautés au programme de planification de l''approvisionnement
+  en eau potable en milieu rural, par niveau de définition dans les procédures (10
+  = Clairement défini ; 5 = Pas clairement défini ; 0 = NA) [6.b .1]'
+ER_H2O_PROCED: 'Proportion de pays avec des procédures clairement définies dans la
+  loi ou la politique pour la participation des utilisateurs de services/communautés
+  dans le programme de planification de l''approvisionnement en eau de boisson en
+  milieu rural [6.b.1]'
+ER_H2O_RURP: 'Pays avec des utilisateurs/communautés participant à des programmes
+  de planification d''approvisionnement en eau de boisson en milieu rural, par niveau
+  de participation (3 = élevé ; 2 = modéré ; 1 = faible ; 0 = NA) [6.b.1]'
+ER_H2O_STRESS: 'Niveau de stress hydrique : prélèvement d''eau douce en proportion
+  des ressources en eau douce disponibles [6.4.2]'
+ER_H2O_WUEYST: 'Efficacité de l''utilisation de l''eau (dollars des États-Unis par
+  mètre cube) [6.4.1]'
+ER_IAS_GLOFUN: 'Pays bénéficiaires d''un financement mondial ayant accès à tout financement
+  provenant de mécanismes financiers mondiaux pour des projets liés à la gestion des
+  espèces exotiques envahissantes (1 = OUI, 0 = NON) [15.8.1]'
+ER_IAS_LEGIS: 'Législation, réglementation, loi relative à la prévention de l''introduction
+  et à la gestion des espèces exotiques envahissantes (1 = OUI, 0 = NON) [15.8.1]'
+ER_IAS_NATBUD: 'Pays bénéficiant d''une allocation du budget national pour gérer la
+  menace des espèces exotiques envahissantes (1 = OUI, 0 = NON) [15.8.1]'
+ER_IAS_NBSAP: 'La stratégie et le plan d''action nationaux pour la biodiversité (SPANB)
+  visent l''alignement sur l''objectif 9 d''Aichi pour la biodiversité défini dans
+  le Plan stratégique pour la biodiversité 2011-2020 (1 = OUI, 0 = NON) [15.8.1]'
+ER_MRN_MARIN: 'Couverture des aires protégées par rapport aux aires marines (Zones
+  économiques exclusives) [14.5.1]'
+ER_MRN_MARINT: 'Aire marine protégée (Zones économiques exclusives) (kilomètres carrés)
+  [14.5.1]'
+ER_MRN_MPA: 'Proportion moyenne des zones marines clés pour la biodiversité (ZCB)
+  couvertes par des aires protégées [14.5.1]'
+ER_MRN_TOTL: 'Aire marine (Zones d''exclusion économique) [14.5.1]'
+ER_MTN_GRNCOV: 'Superficie du couvert végétal des montagnes (kilomètres carrés) [15.4.2]'
+ER_MTN_GRNCVI: 'Indice de couverture verte des montagnes [15.4.2]'
+ER_MTN_TOTL: 'Zone de montagne (kilomètres carrés) [15.4.2]'
+ER_OAW_MNACD: 'Acidité marine moyenne (pH) mesurée à une série convenue de stations
+  d''échantillonnage représentatives [14.3.1]'
+ER_PTD_FRHWTR: 'Proportion moyenne des zones clés pour la biodiversité d''eau douce
+  (ZCB) couvertes par des aires protégées [15.1.2]'
+ER_PTD_MTN: 'Proportion moyenne des zones clés pour la biodiversité des montagnes
+  (ZCB) couvertes par des aires protégées [15.4.1]'
+ER_PTD_TERR: 'Proportion moyenne des zones clés pour la biodiversité terrestre (ZCB)
+  couvertes par des aires protégées [15.1.2]'
+ER_RDE_OSEX: 'Dépenses nationales en sciences océaniques en pourcentage du financement
+  total de la recherche et du développement [14.a.1]'
+ER_REG_SSFRAR: 'Degré d''application d''un cadre juridique/réglementaire/politique/institutionnel
+  qui reconnaît et protège les droits d''accès pour la pêche artisanale (niveau de
+  mise en œuvre : 1 le plus bas à 5 le plus élevé) [14.b.1]'
+ER_REG_UNFCIM: 'Progrès réalisés par les pays dans le degré de mise en œuvre des instruments
+  internationaux visant à lutter contre la pêche illégale, non déclarée et non réglementée
+  (niveau de mise en œuvre : 1 le plus bas à 5 le plus élevé) [14.6.1]'
+ER_RSK_LBREDS: 'Proportion de races locales classées comme étant à risque en pourcentage
+  des races locales avec un niveau connu de risque d''extinction [2.5.2]'
+ER_RSK_LST: 'Index de la liste rouge [15.5.1]'
+ER_UNCLOS_IMPLE: 'Note pour la mise en œuvre de la CNUDM et de ses deux accords de
+  mise en œuvre (%) [14.c.1]'
+ER_UNCLOS_RATACC: 'Note pour la ratification et l''adhésion à la CNUDM et à ses deux
+  accords de mise en œuvre (%) [14.c.1]'
+ER_WAT_PART: 'Pays avec des utilisateurs/communautés participant à des programmes
+  de planification de la planification et de la gestion des ressources en eau, par
+  niveau de participation (3 = élevé ; 2 = modéré ; 1 = faible ; 0 = NA) [6.b.1]'
+ER_WAT_PARTIC: 'Proportion de pays avec un niveau élevé d''utilisateurs/communautés
+  participant à des programmes de planification et de gestion des ressources en eau
+  [6.b.1]'
+ER_WAT_PRDU: 'Pays avec des procédures légales ou politiques pour la participation
+  des utilisateurs de services/communautés au programme de planification de la planification
+  et de la gestion des ressources en eau, par niveau de définition dans les procédures
+  (10 = Clairement défini ; 5 = Pas clairement défini ; 0 = NA) [6.b .1]'
+ER_WAT_PROCED: 'Proportion de pays avec des procédures clairement définies dans la
+  loi ou la politique pour la participation des utilisateurs de services/communautés
+  dans le programme de planification dans la planification et la gestion des ressources
+  en eau [6.b.1]'
+ER_WLD_TRPOACH: 'Proportion d''espèces sauvages commercialisées qui ont été braconnées
+  ou ont fait l''objet d''un trafic illicite [15.7.1]'
+FB_ATM_TOTL: 'Nombre de guichets automatiques (DAB) pour 100 000 adultes [8.10.1]'
+FB_BNK_ACCSS: 'Proportion d''adultes (15 ans et plus) ayant un compte dans une institution
+  financière ou un fournisseur de services d''argent mobile [8.10.2]'
+FB_CBK_BRCH: 'Nombre d''agences de banques commerciales pour 100 000 adultes [8.10.1]'
+FC_ACC_SSID: 'Proportion de petites industries disposant d''un prêt ou d''une ligne
+  de crédit [9.3.2]'
+FI_FSI_FSANL: 'Prêts non performants rapportés au total des prêts bruts (%) [10.5.1]'
+FI_FSI_FSERA: 'Rendement des actifs (%) [10.5.1]'
+FI_FSI_FSKA: 'Capital réglementaire/actif (%) [10.5.1]'
+FI_FSI_FSKNL: 'Créances douteuses nettes de provisions sur capital (%) [10.5.1]'
+FI_FSI_FSKRTC: 'Capital réglementaire de catégorie 1 sur actifs pondérés en fonction
+  des risques (%) [10.5.1]'
+FI_FSI_FSLS: 'Actifs liquides/passifs à court terme (%) [10.5.1]'
+FI_FSI_FSSNO: 'Position nette ouverte en devises par rapport au capital (%) [10.5.1]'
+GB_POP_SCIERD: 'Chercheurs (en équivalent temps plein) par million d''habitants [9.5.2]'
+GB_XPD_RSDV: 'Dépenses de recherche et développement en proportion du PIB [9.5.1]'
+GC_GOB_TAXD: 'Proportion du budget intérieur financé par les impôts intérieurs [17.1.2]'
+GF_COM_CSP: 'Montant en dollars des États-Unis consacré aux partenariats avec la société
+  civile'
+GF_COM_PPP: 'Montant en dollars des États-Unis consacré aux partenariats public-privé'
+GF_COM_PPPI: 'Montant en dollars des États-Unis engagé dans les partenariats public-privé
+  pour les infrastructures, nominal en USD [17.17.1]'
+GF_COM_PPPI_KD: 'Montant en dollars des États-Unis engagé dans les partenariats public-privé
+  pour les infrastructures, en dollars américains réels [17.17.1]'
+GF_FRN_FDI: 'Entrées d''investissements directs étrangers (IDE) [17.3.1]'
+GF_FRN_FDIODASS: 'Investissements étrangers directs, aide publique au développement
+  et coopération Sud-Sud, en proportion du budget national total'
+GF_XPD_GBPC: 'Dépenses primaires du gouvernement en proportion du budget initial approuvé
+  [16.6.1]'
+GR_G14_GDP: 'Recettes publiques totales en proportion du PIB [17.1.1]'
+GR_G14_XDC: 'Recettes totales du gouvernement, en monnaie locale [17.1.1]'
+IC_FRM_BRIB: 'Incidence de la corruption (% d''entreprises faisant l''objet d''au
+  moins une demande de paiement de pots-de-vin) [16.5.2]'
+IC_GEN_MGTL: 'Proportion de femmes occupant des postes de direction [5.5.2]'
+IC_GEN_MGTN: 'Proportion de femmes occupant des postes d''encadrement supérieur et
+  intermédiaire [5.5.2]'
+IS_RDP_FRGVOL: 'Volume de fret (tonnes-kilomètres) [9.1.2]'
+IS_RDP_LULFRG: 'Fret chargé et déchargé (tonnes métriques) [9.1.2]'
+IS_RDP_PFVOL: 'Volume de passagers (passagers-kilomètres) [9.1.2]'
+IS_RDP_PORFVOL: 'Trafic portuaire de conteneurs (unités équivalent vingt pieds - EVP)
+  [9.1.2]'
+IS_TRP_MAILTKM: 'Volume de courrier (tonnes-kilomètres) [9.1.2]'
+IT_MOB_2GNTWK: 'Proportion de la population couverte par au moins un réseau mobile
+  2G [9.c.1]'
+IT_MOB_3GNTWK: 'Proportion de la population couverte par au moins un réseau mobile
+  3G [9.c.1]'
+IT_MOB_4GNTWK: 'Proportion de la population couverte par au moins un réseau mobile
+  4G [9.c.1]'
+IT_MOB_OWN: 'Proportion de particuliers possédant un téléphone mobile [5.b.1]'
+IT_NET_BBND: 'Abonnements haut débit fixe pour 100 habitants [17.6.1]'
+IT_NET_BBNDN: 'Abonnements haut débit fixe (nombre) [17.6.1]'
+IT_USE_II99: 'Internautes pour 100 habitants [17.8.1]'
+IU_COR_BRIB: 'Taux de prévalence de la corruption [16.5.1]'
+IU_DMK_ICRS: 'Proportion de la population qui pense que la prise de décision est inclusive
+  et réactive [16.7.2]'
+NV_IND_MANF: 'Valeur ajoutée manufacturière en proportion du PIB [9.2.1]'
+NV_IND_MANFPC: 'Valeur ajoutée manufacturière par habitant [9.2.1]'
+NV_IND_MANF_CD: 'Valeur ajoutée manufacturière (dollars courants des États-Unis) en
+  proportion du PIB [9.2.1]'
+NV_IND_SSIS: 'Proportion des petites industries dans la valeur ajoutée totale de l''industrie
+  [9.3.1]'
+NV_IND_TECH: 'Proportion de la valeur ajoutée des industries de moyenne et de haute
+  technologie dans la valeur ajoutée totale [9.b.1]'
+NY_GDP_PCAP: 'Taux de croissance annuel du PIB réel par habitant [8.1.1]'
+PD_AGR_LSFP: 'Productivité des grands producteurs alimentaires [2.3.1]'
+PD_AGR_SSFP: 'Productivité des petits producteurs alimentaires [2.3.1]'
+SD_CPA_UPRDP: 'Les pays qui ont des politiques urbaines nationales ou des plans de
+  développement régional qui répondent à la dynamique de la population ; assurer un
+  développement territorial équilibré ; et augmenter l''espace fiscal local (1 = OUI
+  ; 0 = NON) [11.a.1]'
+SD_MDP_ANDI: 'Proportion moyenne de privations pour les personnes multidimensionnellement
+  pauvres [1.2.2]'
+SD_MDP_CSMP: 'Proportion d''enfants vivant dans la pauvreté multidimensionnelle spécifique
+  aux enfants [1.2.2]'
+SD_MDP_MUHC: 'Proportion de la population vivant dans la pauvreté multidimensionnelle
+  [1.2.2]'
+SD_MDP_MUHHC: 'Proportion de ménages vivant dans la pauvreté multidimensionnelle [1.2.2]'
+SD_SDG_AVLB: 'Proportion d’indicateurs du développement durable établis à l’échelle
+  nationale, ventilés de manière exhaustive en fonction de la cible conformément
+  aux Principes fondamentaux de la statistique officielle'
+SD_XPD_ESED: 'Proportion des dépenses publiques totales consacrées aux services essentiels,
+  à l''éducation [1.a.2]'
+SERIES: 'Série ODD'
+SE_ACC_HNDWSH: 'Proportion d''écoles dotées d''installations de base pour se laver
+  les mains [4.a.1]'
+SE_ACS_CMPTR: 'Proportion d''écoles ayant accès à des ordinateurs à des fins pédagogiques
+  [4.a.1]'
+SE_ACS_ELECT: 'Proportion d''écoles ayant accès à l''électricité [4.a.1]'
+SE_ACS_H2O: 'Proportion d''écoles ayant accès à l''eau potable de base [4.a.1]'
+SE_ACS_INTNT: 'Proportion d''écoles ayant accès à Internet à des fins pédagogiques
+  [4.a.1]'
+SE_ACS_SANIT: 'Proportion d''écoles ayant accès à un assainissement de base non mixte
+  [4.a.1]'
+SE_ADT_ACTS: 'Proportion de jeunes et d''adultes ayant des compétences en technologies
+  de l''information et des communications (TIC) [4.4.1]'
+SE_ADT_EDUCTRN: 'Taux de participation à l''éducation et à la formation formelles
+  et non formelles [4.3.1]'
+SE_ADT_FUNS: 'Proportion de la population atteignant au moins un niveau fixe de maîtrise
+  des compétences fonctionnelles [4.6.1]'
+SE_AGP_CPRA: 'Indice de parité hommes-femmes ajusté pour le taux d''achèvement, par
+  sexe, lieu, quintile de richesse et niveau d''éducation [4.5.1]'
+SE_ALP_CPLR: 'Indice de parité géographique ajusté pour le taux d''achèvement, par
+  sexe, lieu, quintile de richesse et niveau d''éducation [4.5.1]'
+SE_AWP_CPRA: 'Indice de parité de richesse ajusté pour le taux d''achèvement, par
+  sexe, lieu, quintile de richesse et niveau d''éducation [4.5.1]'
+SE_DEV_ONTRK: 'Proportion d''enfants dont le développement est sur la bonne voie dans
+  au moins trois des domaines suivants : littératie-calcul, développement physique,
+  développement socio-émotionnel et apprentissage [4.2.1]'
+SE_GPI_ICTS: 'Indice de parité entre les sexes pour les jeunes/adultes possédant des
+  compétences en technologies de l''information et de la communication (TIC) [4.5.1]'
+SE_GPI_PART: 'Indice de parité entre les sexes pour le taux de participation à l''éducation
+  et à la formation formelles et non formelles [4.5.1]'
+SE_GPI_PTNPRE: 'Indice de parité entre les sexes pour le taux de participation à l''apprentissage
+  organisé (un an avant l''âge officiel d''entrée dans le primaire) [4.5.1]'
+SE_GPI_TCAQ: 'Indice de parité entre les sexes des enseignants formés [4.5.1]'
+SE_IMP_FPOF: 'Indice de parité du statut d''immigration pour atteindre au moins un
+  niveau fixe de compétence fonctionnelle, par compétences en calcul/alphabétisation
+  [4.5.1]'
+SE_INF_DSBL: 'Proportion d''écoles ayant accès à des infrastructures et à des matériels
+  adaptés pour les élèves handicapés [4.a.1]'
+SE_LGP_ACHI: 'Indice de parité des tests de langue pour la réussite [4.5.1]'
+SE_NAP_ACHI: 'Indice de parité natif de réussite [4.5.1]'
+SE_PRE_PARTN: 'Taux de participation à l''apprentissage organisé (un an avant l''âge
+  officiel d''entrée au primaire) [4.2.2]'
+SE_TOT_CPLR: 'Taux d''achèvement, par sexe, lieu, quintile de richesse et niveau d''éducation
+  (%) [4.1.2]'
+SE_TOT_GPI: 'Indice de parité entre les sexes pour la réussite [4.5.1]'
+SE_TOT_PRFL: 'Proportion d''enfants et de jeunes atteignant un niveau de compétence
+  minimum en lecture et en mathématiques [4.1.1]'
+SE_TOT_RUPI: 'Indice de parité rurale-urbaine de réussite [4.5.1]'
+SE_TOT_SESPI: 'Indice de statut de parité socio-économique faible à élevé pour la
+  réussite [4.5.1]'
+SE_TRA_GRDL: 'Proportion d''enseignants qui ont reçu au moins la formation pédagogique
+  organisée minimale (par exemple, formation pédagogique) préalable ou continue requise
+  pour enseigner au niveau pertinent dans un pays donné [4.c.1]'
+SG_CPA_INFORCE_BIT: 'Nombre de pays ayant un traité bilatéral d''investissement (TBI)
+  en vigueur [17.5.1]'
+SG_CPA_INVPRMLDC: 'Pays qui adoptent et mettent en œuvre des régimes de promotion
+  des investissements pour les pays les moins avancés (1 = OUI ; 0 = NON) [17.5.1]'
+SG_CPA_MIGR: 'Pays qui ont mis en œuvre des politiques migratoires bien gérées (1
+  = OUI ; 0 = NON) [10.7.2]'
+SG_CPA_MIGRP: 'Proportion de pays dotés de politiques migratoires visant à faciliter
+  une migration et une mobilité ordonnées, sûres, régulières et responsables [10.7.2]'
+SG_CPA_MIGRS: 'Pays dotés de politiques migratoires visant à faciliter une migration
+  et une mobilité ordonnées, sûres, régulières et responsables, par domaine politique
+  (1 = Nécessite des progrès supplémentaires ; 2 = Satisfait partiellement ; 3 = Satisfait ;
+  4 = Satisfait entièrement) [10.7.2]'
+SG_CPA_SDEV: 'Pays disposant de mécanismes en place pour améliorer la cohérence des
+  politiques de développement durable (1 = OUI ; 0 = NON) [17.14.1]'
+SG_CPA_SDEVP: 'Mécanismes en place pour améliorer la cohérence des politiques en faveur
+  du développement durable (Pourcentage) [17.14.1 ]'
+SG_CPA_SIGN_BIT: 'Nombre de pays ayant signé un traité bilatéral d''investissement
+  (TBI) [17.5.1]'
+SG_DMK_PARLCC_JC: 'Nombre de présidents de comités permanents, par âge, sexe et orientation
+  du comité, comités mixtes [16.7.1]'
+SG_DMK_PARLCC_LC: 'Nombre de présidents des commissions permanentes, selon l''âge,
+  le sexe et l''orientation de la commission, chambre basse ou monocaméral [16.7.1]'
+SG_DMK_PARLCC_UC: 'Nombre de présidents des commissions permanentes, selon l''âge,
+  le sexe et l''orientation de la commission, Chambre haute [16.7.1]'
+SG_DMK_PARLMP_LC: 'Ratio pour les femmes membres des parlements (ratio de la proportion
+  de femmes au parlement dans la proportion de femmes dans la population nationale
+  avec l''âge d''éligibilité comme limite inférieure), Chambre basse ou monocamérale
+  [16.7.1]'
+SG_DMK_PARLMP_UC: 'Ratio pour les femmes parlementaires (rapport de la proportion
+  de femmes au parlement dans la proportion de femmes dans la population nationale
+  avec l''âge d''éligibilité comme limite inférieure), Chambre haute [16.7.1]'
+SG_DMK_PARLSP_LC: 'Nombre d''orateurs au parlement, par âge et sexe , Chambre basse
+  ou monocaméral [16.7.1]'
+SG_DMK_PARLSP_UC: 'Nombre d''orateurs au parlement, par âge et sexe, Chambre haute
+  [16.7.1]'
+SG_DMK_PARLYN_LC: 'Nombre de jeunes au parlement (45 ans ou moins), à la Chambre basse
+  ou monocaméral [16.7.1]'
+SG_DMK_PARLYN_UC: 'Nombre de jeunes au parlement (45 ans ou moins), Chambre haute
+  [16.7.1]'
+SG_DMK_PARLYP_LC: 'Proportion de jeunes au parlement (45 ans ou moins), à la Chambre
+  basse ou monocaméral [16.7.1]'
+SG_DMK_PARLYP_UC: 'Proportion de jeunes au parlement (45 ans ou moins), Chambre haute
+  [16.7.1]'
+SG_DMK_PARLYR_LC: 'Ratio de jeunes parlementaires (rapport de la proportion de jeunes
+  parlementaires (âgés de 45 ans ou moins) dans la proportion de la population nationale
+  (âgée de 45 ans ou moins) avec l''âge d''éligibilité comme limite inférieure), Chambre
+  basse ou Monocaméral [16.7.1]'
+SG_DMK_PARLYR_UC: 'Ratio de jeunes parlementaires (rapport de la proportion de jeunes
+  parlementaires (âgés de 45 ans ou moins) dans la proportion de la population nationale
+  (âgée de 45 ans ou moins) avec l''âge d''éligibilité comme limite inférieure), Chambre
+  haute [ 16.7.1]'
+SG_DSR_LEGREG: 'Pays disposant de dispositions législatives et/ou réglementaires pour
+  la gestion des risques de catastrophe (1 = OUI ; 0 = NON) [1.5.3]'
+SG_DSR_LGRGSR: 'Score d''adoption et de mise en œuvre des stratégies nationales de
+  RRC conformément au Cadre de Sendai [1.5.3, 11.b.1, 13.1.2]'
+SG_DSR_SFDRR: 'Pays ayant déclaré avoir une stratégie nationale de RRC alignée sur
+  le cadre de Sendai dans une certaine mesure (1 = OUI ; 0 = NON) [1.5.3, 11.b.1,
+  13.1.2]'
+SG_DSR_SILN: 'Nombre de collectivités locales qui adoptent et mettent en œuvre des
+  stratégies locales de RRC conformément aux stratégies nationales [1.5.4, 11.b.2,
+  13.1.3]'
+SG_DSR_SILS: 'Proportion de gouvernements locaux qui adoptent et mettent en œuvre
+  des stratégies locales de réduction des risques de catastrophe conformément aux
+  stratégies nationales de réduction des risques de catastrophe [1.5.4, 11.b.2, 13.1.3]'
+SG_GEN_EQPWN: 'Proportion de pays dotés de systèmes permettant de suivre et de rendre
+  public le montant des ressources allouées à l’égalité des sexes et à l’autonomisation
+  des femmes'
+SG_GEN_LOCG: 'Proportion de sièges occupés par des femmes dans les gouvernements locaux
+  (% du nombre total de sièges) [5.5.1]'
+SG_GEN_LOCGELS: 'Proportion de sièges élus détenus par des femmes dans les organes
+  délibérants des collectivités locales [5.5.1]'
+SG_GEN_PARL: 'Proportion de sièges occupés par des femmes dans les parlements nationaux
+  (% du nombre total de sièges) [5.5.1]'
+SG_GEN_PARLN: 'Nombre de sièges occupés par des femmes dans les parlements nationaux
+  [5.5.1]'
+SG_GEN_PARLNT: 'Nombre de sièges dans les parlements nationaux [5.5.1]'
+SG_GOV_LOGV: 'Nombre de collectivités locales [1.5.4, 11.b.2, 13.1.3]'
+SG_HAZ_CMRBASEL: 'Conformité à la Convention de Bâle sur les déchets dangereux et
+  autres produits chimiques [12.4.1]'
+SG_HAZ_CMRMNMT: 'Les Parties remplissent leurs engagements et obligations en transmettant
+  les informations requises par la Convention de Minamata sur les déchets dangereux
+  et autres produits chimiques (% valeur moyenne) [12.4.1]'
+SG_HAZ_CMRMNTRL: 'Respect du Protocole de Montréal sur les déchets dangereux et autres
+  produits chimiques [12.4.1]'
+SG_HAZ_CMRROTDAM: 'Respect de la Convention de Rotterdam sur les déchets dangereux
+  et autres produits chimiques [12.4.1]'
+SG_HAZ_CMRSTHOLM: 'Conformité à la Convention de Stockholm sur les déchets dangereux
+  et autres produits chimiques [12.4.1]'
+SG_INF_ACCSS: 'Pays qui adoptent et mettent en œuvre des garanties constitutionnelles,
+  statutaires et/ou politiques pour l''accès du public à l''information [16.10.2]'
+SG_INT_MBRDEV: 'Proportion de membres de pays en développement dans les organisations
+  internationales, par organisation [10.6.1, 16.8.1]'
+SG_INT_VRTDEV: 'Part des droits de vote des pays en développement dans les organisations
+  internationales, par organisation [10.6.1, 16.8.1]'
+SG_LGL_GENEQEMP: 'Cadres juridiques qui promeuvent, appliquent et contrôlent l''égalité
+  des sexes (pourcentage de réalisation, 0 - 100) -- Domaine 3 : emploi et avantages
+  économiques. [5.1.1]'
+SG_LGL_GENEQLFP: 'Cadres juridiques qui promeuvent, appliquent et contrôlent l''égalité
+  des sexes (pourcentage de réalisation, 0 - 100) -- Domaine 1 : cadres juridiques
+  généraux et vie publique. [5.1.1]'
+SG_LGL_GENEQMAR: 'Cadres juridiques qui promeuvent, appliquent et contrôlent l''égalité
+  des sexes (pourcentage de réussite, 0 - 100) -- Domaine 4 : mariage et famille.
+  [5.1.1]'
+SG_LGL_GENEQVAW: 'Cadres juridiques qui promeuvent, appliquent et contrôlent l''égalité
+  des sexes (pourcentage de réussite, 0 - 100) -- Domaine 2 : violence à l''égard
+  des femmes. [5.1.1]'
+SG_LGL_LNDFEMOD: 'Degré auquel le cadre juridique (y compris le droit coutumier) garantit
+  l''égalité des droits des femmes à la propriété et/ou au contrôle des terres (1=Aucune
+  preuve à 6=Niveaux de garanties les plus élevés) [5.a.2]'
+SG_LGL_LNDWMN: 'Proportion de pays dotés d’un cadre juridique (y compris le droit
+  coutumier) garantissant aux femmes les mêmes droits que les hommes en matière
+  d’accès à la propriété ou au contrôle des terres'
+SG_NHR_IMPL: 'Proportion de pays dotés d''institutions nationales des droits de l''homme
+  indépendantes et conformes aux Principes de Paris (%) [16.a.1]'
+SG_NHR_IMPLN: 'Pays dotés d''institutions nationales des droits de l''homme conformes
+  aux Principes de Paris, statut A (1 = OUI ; 0 = NON) [16.a.1]'
+SG_NHR_INTEXST: 'Proportion de pays ayant demandé l''accréditation en tant qu''institutions
+  nationales indépendantes des droits de l''homme conformément aux Principes de Paris
+  [16.a.1]'
+SG_NHR_INTEXSTN: 'Pays dont les institutions nationales des droits de l''homme ne
+  sont pas entièrement conformes aux Principes de Paris, statut B (1 = OUI ; 0 = NON)
+  [16.a.1]'
+SG_NHR_NOAPPLN: 'Pays sans demande d''accréditation aux Principes de Paris, statut
+  D (1 = OUI ; 0 = NON) [16.a.1]'
+SG_NHR_NOSTUSN: 'Pays dotés d''institutions nationales des droits de l''homme et sans
+  statut avec les Principes de Paris, statut C (1 = OUI ; 0 = NON) [16.a.1]'
+SG_PLN_MSTKSDG: 'Progrès dans les cadres de suivi de l''efficacité du développement
+  multipartite qui soutiennent la réalisation des objectifs de développement durable
+  (1 = OUI ; 0 = NON) [17.16.1]'
+SG_PLN_MSTKSDG_P: 'Progrès dans les cadres de suivi de l''efficacité du développement
+  multipartite qui soutiennent la réalisation des objectifs de développement durable,
+  fournisseur (1 = OUI ; 0 = NON) [17.16.1]'
+SG_PLN_MSTKSDG_R: 'Progrès dans les cadres de suivi de l''efficacité du développement
+  multipartite qui soutiennent la réalisation des objectifs de développement durable,
+  Bénéficiaire (1 = OUI ; 0 = NON) [17.16.1]'
+SG_PLN_PRPOLRES: 'Degré d''utilisation des cadres de résultats et des outils de planification
+  appartenant au pays par les fournisseurs de coopération au développement - données
+  par fournisseur (%) [17.15.1]'
+SG_PLN_PRVNDI: 'Proportion de nouvelles interventions de développement tirées des
+  cadres de résultats dirigés par les pays - données par prestataire (%) [17.15.1]'
+SG_PLN_PRVRICTRY: 'Proportion d''indicateurs de résultats tirés des cadres de résultats
+  dirigés par les pays - données par prestataire (%) [17.15.1]'
+SG_PLN_PRVRIMON: 'Proportion d''indicateurs de résultats qui seront suivis à l''aide
+  de sources gouvernementales et de systèmes de suivi - données par prestataire (%)
+  [17.15.1]'
+SG_PLN_RECNDI: 'Proportion de nouvelles interventions de développement tirées des
+  cadres de résultats dirigés par les pays - données par bénéficiaire (%) [17.15.1]'
+SG_PLN_RECRICTRY: 'Proportion d''indicateurs de résultats tirés des cadres de résultats
+  dirigés par les pays - données par bénéficiaire (%) [17.15.1]'
+SG_PLN_RECRIMON: 'Proportion d''indicateurs de résultats qui seront suivis à l''aide
+  de sources gouvernementales et de systèmes de suivi - données par bénéficiaire (%)
+  [17.15.1]'
+SG_PLN_REPOLRES: 'Degré d''utilisation des cadres de résultats et des outils de planification
+  appartenant au pays par les fournisseurs de coopération au développement - données
+  par bénéficiaire (%) [17.15.1]'
+SG_POV_DOM: 'Proportion des ressources nationales directement allouée par l’État
+  à des programmes de réduction de la pauvreté'
+SG_POV_TOTL: 'Total des subventions et des flux extérieurs non générateurs d’endettement
+  directement alloués aux programmes de réduction de la pauvreté, exprimé en proportion
+  du PIB'
+SG_REG_BRTH: 'Proportion d''enfants de moins de 5 ans dont les naissances ont été
+  enregistrées auprès d''une autorité civile [16.9.1]'
+SG_REG_BRTH90: 'Proportion de pays dont les données d''enregistrement des naissances
+  sont complètes à au moins 90 % [17.19.2]'
+SG_REG_BRTH90N: 'Pays dont les données d''enregistrement des naissances sont complètes
+  à au moins 90 pour cent (1 = OUI ; 0 = NON) [17.19.2]'
+SG_REG_CENSUS: 'Proportion de pays ayant mené au moins un recensement de la population
+  et des logements au cours des 10 dernières années [17.19.2]'
+SG_REG_CENSUSN: 'Pays ayant mené au moins un recensement de la population et des logements
+  au cours des 10 dernières années (1 = OUI ; 0 = NON) [17.19.2]'
+SG_REG_DETH75: 'Proportion de pays dont les données d''enregistrement des décès sont
+  complètes à au moins 75 % [17.19.2]'
+SG_REG_DETH75N: 'Pays dont les données d''enregistrement des décès sont complètes
+  à au moins 75 pour cent (1 = OUI ; 0 = NON) [17.19.2]'
+SG_RHC_ACCS: 'Pays dotés de lois et de réglementations garantissant un accès complet
+  et égal aux femmes et aux hommes âgés de 15 ans et plus aux soins, à l''information
+  et à l''éducation en matière de santé sexuelle et reproductive (1 = OUI ; 0 = NON)
+  [5.6.2]'
+SG_SCP_CNTRY: 'Pays dotés de plans d''action nationaux de consommation et de production
+  durables (CPD) ou CPD intégrés en tant que priorité ou cible dans les politiques
+  nationales (1 = OUI ; 0 = NON) [12.1.1]'
+SG_SCP_CORMEC: 'Pays dotés d''un mécanisme de coordination pour une consommation et
+  une production durables (1 = OUI ; 0 = NON) [12.1.1]'
+SG_SCP_MACPOL: 'Pays avec une politique macro pour une consommation et une production
+  durables (1 = OUI ; 0 = NON) [12.1.1]'
+SG_SCP_OTHER: 'Pays avec d''autres activités de mise en œuvre pour une consommation
+  et une production durables (1 = OUI ; 0 = NON) [12.1.1]'
+SG_SCP_POLINS: 'Pays disposant d''un instrument politique pour une consommation et
+  une production durables (1 = OUI ; 0 = NON) [12.1.1]'
+SG_SCP_PROCN: 'Pays mettant en œuvre des politiques et des plans d''action en matière
+  de marchés publics durables (1 = OUI ; 0 = NON) [12.7.1]'
+SG_SCP_TOTL: 'Pays disposant de politiques, d''instruments et de mécanismes en place
+  pour une consommation et une production durables (1 = OUI ; 0 = NON) [12.1.1]'
+SG_STT_CAPTY: 'Valeur en dollars de toutes les ressources mises à disposition pour
+  renforcer les capacités statistiques dans les pays en développement [17.19.1]'
+SG_STT_FPOS: 'Il existe des pays dotés d''une législation statistique nationale conforme
+  aux Principes fondamentaux de la statistique officielle (1 = OUI ; 0 = NON) [17.18.2]'
+SG_STT_NSDSFDDNR: 'Pays dotés de plans statistiques nationaux financés par des donateurs
+  (1 = OUI ; 0 = NON) [17.18.3]'
+SG_STT_NSDSFDGVT: 'Pays dotés de plans statistiques nationaux financés par le gouvernement
+  (1 = OUI ; 0 = NON) [17.18.3]'
+SG_STT_NSDSFDOTHR: 'Pays dotés de plans statistiques nationaux financés par d''autres
+  (1 = OUI ; 0 = NON) [17.18.3]'
+SG_STT_NSDSFND: 'Pays dotés de plans statistiques nationaux entièrement financés (1
+  = OUI ; 0 = NON) [17.18.3]'
+SG_STT_NSDSIMPL: 'Pays avec des plans statistiques nationaux en cours de mise en œuvre
+  (1 = OUI ; 0 = NON) [17.18.3]'
+SG_URB_CSPART: 'Proportion de villes avec une structure de participation directe de
+  la société civile dans la planification et la gestion urbaine qui fonctionnent régulièrement
+  et démocratiquement [11.3.2]'
+SG_URB_PLAN: 'Proportion de la population vivant dans des villes qui mettent en œuvre
+  des plans de développement urbain et régional intégrant les projections démographiques
+  et les besoins en ressources'
+SG_XPD_HLTH: 'Proportion des dépenses publiques totales de santé [1.a.2]'
+SG_XPD_PROT: 'Proportion des dépenses totales du gouvernement en matière de protection
+  sociale [1.a.2]'
+SG_XPD_VULN: 'Proportion des dépenses publiques de fonctionnement et d’équipement
+  consacrée aux secteurs répondant plus particulièrement aux besoins des femmes,
+  des pauvres et des groupes vulnérables'
+SH_AAP_ASMORT: 'Taux de mortalité normalisé selon l''âge attribué à la pollution de
+  l''air ambiant [3.9.1]'
+SH_AAP_MORT: 'Taux brut de mortalité attribué à la pollution de l''air ambiant [3.9.1]'
+SH_ACS_DTP3: 'Proportion de la population cible ayant accès à 3 doses de diphtérie-tétanos-coqueluche
+  (DTC3) [3.b.1]'
+SH_ACS_HPV: 'Proportion de la population cible ayant accès à des médicaments et vaccins
+  abordables sur une base durable, virus du papillome humain (VPH) [3.b.1]'
+SH_ACS_MCV2: 'Proportion de la population cible ayant accès au vaccin antirougeoleux
+  de seconde dose (MCV2) [3.b.1]'
+SH_ACS_PCV3: 'Proportion de la population cible ayant accès au pneumocoque conjugué
+  3e dose (PCV3) [3.b.1]'
+SH_ACS_UNHC: 'Indice de couverture des services de couverture sanitaire universelle
+  (CSU) [3.8.1]'
+SH_ACS_VACN: 'Proportion de la population cible couverte par tous les vaccins inclus
+  dans leur programme national [3.b.1]'
+SH_ALC_CONSPT: 'Consommation d''alcool par habitant (âgés de 15 ans et plus) au cours
+  d''une année civile [3.5.2]'
+SH_BLD_ECOLI: 'Pourcentage d''infections sanguines dues à Escherichia coli résistant
+  aux céphalosporines de 3e génération (par exemple, ESBL-E. coli) chez les patients
+  sollicitant des soins et dont un échantillon sanguin est prélevé et testé [3.d.2]'
+SH_BLD_MRSA: 'Pourcentage d''infections sanguines dues à Staphylococcus aureus résistant
+  à la méthicilline (SARM) chez les patients sollicitant des soins et dont le prélèvement
+  sanguin est effectué et testé [3.d.2]'
+SH_DTH_NCD: 'Décès attribués aux maladies non transmissibles (nombre) [3.4.1]'
+SH_DTH_NCOM: 'Taux de mortalité attribué aux maladies cardiovasculaires, au cancer,
+  au diabète ou aux maladies respiratoires chroniques [3.4.1]'
+SH_DYN_IMRT: 'Taux de mortalité infantile [3.2.1]'
+SH_DYN_IMRTN: 'Décès infantiles (nombre) [3.2.1]'
+SH_DYN_MORT: 'Taux de mortalité des moins de cinq ans [3.2.1]'
+SH_DYN_MORTN: 'Décès des moins de cinq ans (nombre) [3.2.1]'
+SH_DYN_NMRT: 'Taux de mortalité néonatale [3.2.2]'
+SH_DYN_NMRTN: 'Décès néonatals (nombre) [3.2.2]'
+SH_FPL_INFM: 'Proportion de femmes qui prennent leurs propres décisions éclairées
+  concernant les relations sexuelles, l''utilisation de contraceptifs et les soins
+  de santé reproductive (% de femmes âgées de 15 à 49 ans) [5.6.1]'
+SH_FPL_INFMCU: 'Proportion de femmes qui prennent leurs propres décisions éclairées
+  concernant l''utilisation de la contraception (% de femmes âgées de 15 à 49 ans)
+  [5.6.1]'
+SH_FPL_INFMRH: 'Proportion de femmes qui prennent leurs propres décisions éclairées
+  concernant les soins de santé reproductive (% de femmes âgées de 15 à 49 ans) [5.6.1]'
+SH_FPL_INFMSR: 'Proportion de femmes qui prennent leurs propres décisions éclairées
+  concernant les relations sexuelles (% de femmes âgées de 15 à 49 ans) [5.6.1]'
+SH_FPL_MTMM: 'Proportion de femmes mariées ou en union en âge de procréer (âgées de
+  15 à 49 ans) dont le besoin de planification familiale est satisfait par les méthodes
+  modernes [3.7.1]'
+SH_H2O_SAFE: 'Proportion de la population utilisant des services d''eau potable gérés
+  en toute sécurité [6.1.1]'
+SH_HAP_ASMORT: 'Taux de mortalité standardisé selon l''âge attribué à la pollution
+  de l''air domestique [3.9.1]'
+SH_HAP_HBSAG: 'Prévalence de l''antigène de surface de l''hépatite B (HBsAg) [3.3.4]'
+SH_HAP_MORT: 'Taux brut de mortalité attribué à la pollution de l''air des ménages
+  [3.9.1]'
+SH_HIV_INCD: 'Nombre de nouvelles infections à VIH pour 1 000 habitants non infectés
+  [3.3.1]'
+SH_HLF_EMED: 'Proportion des établissements de santé disposant constamment d’un
+  ensemble de médicaments essentiels à un coût abordable'
+SH_IHR_CAPPRD: 'Moyenne des 13 capacités de base du Règlement sanitaire international
+  (RSI) [3.d.1]'
+SH_IHR_CAPS: 'Capacité du Règlement sanitaire international (RSI), par type de capacité
+  du RSI [3.d.1]'
+SH_LGR_ACSRHE: 'Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive [5.6.2]'
+SH_LGR_ACSRHEC1: '(S.1.C.1) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 1 : Soins de maternité [5.6 .2]'
+SH_LGR_ACSRHEC10: '(S.4.C.10) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 10 : Conseil et test VIH Prestations [5.6.2]'
+SH_LGR_ACSRHEC11: '(S.4.C.11) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 11 : Traitement et soins du VIH Prestations [5.6.2]'
+SH_LGR_ACSRHEC12: '(S.4.C.12) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 12 : Confidentialité du VIH [5.6 .2]'
+SH_LGR_ACSRHEC13: '(S.4.C.13) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 13 : Vaccin contre le VPH [5.6 .2]'
+SH_LGR_ACSRHEC2: '(S.1.C.2) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 2 : Produits d''importance vitale [ 5.6.2]'
+SH_LGR_ACSRHEC3: '(S.1.C.3) Mesure dans laquelle les pays disposent de lois et de
+  réglementations garantissant un accès complet et égal aux femmes et aux hommes âgés
+  de 15 ans et plus aux soins, à l''information et à l''éducation en matière de santé
+  sexuelle et reproductive : Composante 3 : Avortement [5.6. 2]'
+SH_LGR_ACSRHEC4: '(S.1.C.4) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 4 : Soins après avortement [5.6.2]'
+SH_LGR_ACSRHEC5: '(S.2.C.5) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 5 : Services de contraception [5.6 .2]'
+SH_LGR_ACSRHEC6: '(S.2.C.6) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 6 : Consentement à la contraception [5.6 .2]'
+SH_LGR_ACSRHEC7: '(S.2.C.7) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 7 : Contraception d''urgence [5.6 .2]'
+SH_LGR_ACSRHEC8: '(S.3.C.8) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 8 : Lois relatives aux programmes d''éducation sexuelle
+  [5.6.2]'
+SH_LGR_ACSRHEC9: '(S.3.C.9) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Composante 9 : Programme d''éducation sexuelle Topi [5.6.2]'
+SH_LGR_ACSRHES1: '(S.1) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Section 1 : Soins de maternité [5.6.2]'
+SH_LGR_ACSRHES2: '(S.2) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Section 2 : Contraception et planification familiale [5.6.2 ]'
+SH_LGR_ACSRHES3: '(S.3) Mesure dans laquelle les pays disposent de lois et de réglementations
+  garantissant un accès complet et égal aux femmes et aux hommes âgés de 15 ans et
+  plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Section 3 : Éducation sexuelle [5.6.2]'
+SH_LGR_ACSRHES4: '(S.4) Mesure dans laquelle les pays ont des lois et des réglementations
+  qui garantissent un accès complet et égal aux femmes et aux hommes âgés de 15 ans
+  et plus aux soins, à l''information et à l''éducation en matière de santé sexuelle
+  et reproductive : Section 4 : VIH et VPH [5.6.2]'
+SH_MED_DEN: 'Densité des agents de santé [3.c.1]'
+SH_MED_HWRKDIS: 'Répartition des agents de santé, par sexe et type de profession [3.c.1]'
+SH_PRV_SMOK: 'Prévalence de la consommation actuelle de tabac chez les personnes
+  de 15 ans ou plus (taux comparatifs par âge)'
+SH_SAN_DEFECT: 'Proportion de la population pratiquant la défécation à l''air libre
+  [6.2.1]'
+SH_SAN_HNDWSH: 'Proportion de la population disposant d''installations de base pour
+  se laver les mains sur place [6.2.1]'
+SH_SAN_SAFE: 'Proportion de la population utilisant des services d''assainissement
+  gérés en toute sécurité [6.2.1]'
+SH_STA_AIRP: 'Taux brut de mortalité attribué à la pollution des ménages et de l''air
+  ambiant [3.9.1]'
+SH_STA_ANEM: 'Proportion de femmes âgées de 15 à 49 ans souffrant d''anémie [2.2.3]'
+SH_STA_ANEM_NPRG: 'Proportion de femmes âgées de 15 à 49 ans souffrant d''anémie,
+  non enceintes [2.2.3]'
+SH_STA_ANEM_PREG: 'Proportion de femmes âgées de 15 à 49 ans souffrant d''anémie,
+  enceintes [2.2.3]'
+SH_STA_ASAIRP: 'Taux de mortalité normalisé selon l''âge attribué à la pollution de
+  l''air domestique et ambiant [3.9.1]'
+SH_STA_BRTC: 'Proportion d''accouchements assistés par du personnel de santé qualifié
+  [3.1.2]'
+SH_STA_FGMS: 'Proportion de filles et de femmes âgées de 15 à 49 ans ayant subi une
+  mutilation/excision génitale féminine [5.3.2]'
+SH_STA_MALR: 'Incidence du paludisme pour 1 000 habitants à risque [3.3.3]'
+SH_STA_MORT: 'Taux de mortalité maternelle [3.1.1]'
+SH_STA_POISN: 'Taux de mortalité attribué aux intoxications non intentionnelles [3.9.3]'
+SH_STA_SCIDE: 'Taux de mortalité par suicide [3.4.2]'
+SH_STA_SCIDEN: 'Nombre de décès attribués au suicide [3.4.2]'
+SH_STA_STNT: 'Proportion d''enfants présentant un retard de croissance modéré ou sévère
+  [2.2.1]'
+SH_STA_STNTN: 'Enfants modérément ou sévèrement rabougris (nombre) [2.2.1]'
+SH_STA_TRAF: 'Taux de mortalité par accident de la route [3.6.1]'
+SH_STA_TRAFN: 'Nombre de décès dus aux accidents de la route [3.6.1]'
+SH_STA_WASH: 'Taux de mortalité attribué à l''eau insalubre, à l''assainissement insalubre
+  et au manque d''hygiène [3.9.2]'
+SH_STA_WAST: 'Proportion d''enfants modérément ou gravement émaciés [2.2.2]'
+SH_STA_WASTN: 'Enfants modérément ou gravement émaciés (nombre) [2.2.2]'
+SH_SUD_ALCOL: 'Troubles liés à la consommation d''alcool, prévalence sur 12 mois (%)
+  [3.5.1]'
+SH_SUD_TREAT: 'Couverture des interventions thérapeutiques (services pharmacologiques,
+  psychosociaux, services de désintoxication et de postcure) pour les troubles liés
+  à la toxicomanie'
+SH_TBS_INCD: 'Incidence de la tuberculose [3.3.2]'
+SH_TRP_INTVN: 'Nombre de personnes nécessitant des interventions contre les maladies
+  tropicales négligées [3.3.5]'
+SH_XPD_EARN10: 'Proportion de la population dont les dépenses de santé des ménages
+  sont importantes (supérieures à 10 %) par rapport aux dépenses ou aux revenus totaux
+  des ménages [3.8.2]'
+SH_XPD_EARN25: 'Proportion de la population dont les dépenses de santé des ménages
+  sont importantes (supérieures à 25 %) par rapport aux dépenses ou aux revenus totaux
+  des ménages [3.8.2]'
+SI_AGR_LSFP: 'Revenu moyen des grands producteurs alimentaires [2.3.2]'
+SI_AGR_SSFP: 'Revenu moyen des petits producteurs alimentaires [2.3.2]'
+SI_COV_BENFTS: 'Proportion de la population couverte par au moins une prestation de
+  protection sociale [1.3.1]'
+SI_COV_CHLD: 'Proportion d''enfants/ménages percevant des allocations familiales/enfants
+  en espèces [1.3.1]'
+SI_COV_DISAB: 'Proportion de la population gravement handicapée recevant des prestations
+  d''invalidité [1.3.1]'
+SI_COV_LMKT: 'Proportion de la population couverte par les programmes du marché du
+  travail [1.3.1]'
+SI_COV_MATNL: 'Proportion de mères avec des nouveau-nés recevant des prestations de
+  maternité en espèces [1.3.1]'
+SI_COV_PENSN: 'Proportion de la population ayant dépassé l''âge légal de la retraite
+  et percevant une pension [1.3.1]'
+SI_COV_POOR: 'Proportion de la population pauvre recevant des prestations en espèces
+  de l''aide sociale [1.3.1]'
+SI_COV_SOCAST: 'Proportion de la population couverte par les programmes d''aide sociale
+  [1.3.1]'
+SI_COV_SOCINS: 'Proportion de la population couverte par les programmes d''assurance
+  sociale [1.3.1]'
+SI_COV_UEMP: 'Proportion de chômeurs percevant des allocations de chômage en espèces
+  [1.3.1]'
+SI_COV_VULN: 'Proportion de la population vulnérable recevant des prestations en espèces
+  de l''aide sociale [1.3.1]'
+SI_COV_WKINJRY: 'Proportion de la population active couverte en cas d''accident du
+  travail [1.3.1]'
+SI_DST_FISP: 'Impact redistributif de la politique budgétaire, indice de Gini (%)
+  [10.4.2]'
+SI_HEI_TOTL: 'Taux de croissance des dépenses des ménages ou du revenu par habitant
+  [10.1.1]'
+SI_POV_50MI: 'Proportion de personnes vivant en dessous de 50 % du revenu médian [10.2.1]'
+SI_POV_DAY1: 'Proportion de la population en dessous du seuil de pauvreté international
+  [1.1.1]'
+SI_POV_EMP1: 'Population occupée en dessous du seuil de pauvreté international [1.1.1]'
+SI_POV_NAHC: 'Proportion de la population vivant en dessous du seuil national de pauvreté
+  [1.2.1]'
+SI_POV_NMPI: 'Proportion de la population vivant dans la pauvreté dans toutes ses
+  dimensions selon les définitions nationales [1.2.2]'
+SI_RMT_COST: 'Frais de remise en proportion du montant remis [10.c.1]'
+SI_RMT_COST_BC: 'Frais de remise du corridor en proportion du montant remis [10.c.1]'
+SI_RMT_COST_SC: 'Coûts de remise du corridor SmaRT en proportion du montant remis
+  [10.c.1]'
+SL_CPA_YEMP: 'Existence d''une stratégie nationale élaborée et opérationnalisée pour
+  l''emploi des jeunes, en tant que stratégie distincte ou dans le cadre d''une stratégie
+  nationale pour l''emploi [8.b.1]'
+SL_DOM_TSPD: 'Proportion du temps consacré aux tâches ménagères et aux soins non rémunérés
+  [5.4.1]'
+SL_DOM_TSPDCW: 'Proportion du temps consacré au travail de soins non rémunéré [5.4.1]'
+SL_DOM_TSPDDC: 'Proportion du temps consacré aux tâches ménagères non rémunérées [5.4.1]'
+SL_EMP_EARN: 'Salaire horaire moyen [8.5.1]'
+SL_EMP_FTLINJUR: 'Accidents du travail mortels chez les salariés (taux) [8.8.1]'
+SL_EMP_GTOTL: 'Part du travail dans le PIB [10.4.1]'
+SL_EMP_INJUR: 'Accidents du travail non mortels chez les salariés (taux) [8.8.1]'
+SL_EMP_PCAP: 'Taux de croissance annuel du PIB réel par personne occupée [8.2.1]'
+SL_EMP_RCOST: 'Coût de recrutement supporté par le salarié en proportion du revenu
+  annuel gagné dans le pays de destination [10.7.1]'
+SL_ISV_IFEM: 'Proportion de l''emploi informel, par secteur et par sexe (estimations
+  harmonisées du BIT) [8.3.1]'
+SL_ISV_IFRM: 'Part de l''emploi informel dans l''emploi non agricole'
+SL_LBR_NTLCPL: 'Niveau de conformité nationale avec les droits du travail (liberté
+  d''association et de négociation collective) sur la base des sources textuelles
+  de l''Organisation internationale du travail (OIT) et de la législation nationale
+  [8.8.2]'
+SL_TLF_CHLDEA: 'Proportion d''enfants engagés dans une activité économique [8.7.1]'
+SL_TLF_CHLDEAN: 'Nombre d''enfants engagés dans une activité économique [8.7.1]'
+SL_TLF_CHLDEC: 'Proportion d''enfants engagés dans une activité économique et des
+  tâches ménagères [8.7.1]'
+SL_TLF_CHLDECN: 'Nombre d''enfants engagés dans une activité économique et des tâches
+  ménagères [8.7.1]'
+SL_TLF_MANF: 'Emploi manufacturier en proportion de l''emploi total [9.2.2]'
+SL_TLF_NEET: 'Proportion de jeunes sans études, sans emploi ou sans formation [8.6.1]'
+SL_TLF_UEM: 'Taux de chômage [8.5.2]'
+SL_TLF_UEMDIS: 'Taux de chômage, par handicap [8.5.2]'
+SM_DTH_MIGR: 'Total des décès et disparitions enregistrés pendant la migration [10.7.3]'
+SM_POP_REFG_OR: 'Proportion de la population réfugiée, par pays d''origine [10.7.4]'
+SN_ITK_DEFC: 'Prévalence de la sous-alimentation [2.1.1]'
+SN_ITK_DEFCN: 'Nombre de personnes sous-alimentées [2.1.1]'
+SN_STA_OVWGT: 'Proportion d''enfants en surpoids modéré ou sévère [2.2.2]'
+SN_STA_OVWGTN: 'Enfants en surpoids modéré ou sévère (nombre) [2.2.2]'
+SP_ACS_BSRV: 'Proportion de la population vivant dans des ménages ayant accès aux
+  services de base [1.4.1]'
+SP_ACS_BSRVH2O: 'Proportion de la population utilisant les services d''eau potable
+  de base [1.4.1]'
+SP_ACS_BSRVSAN: 'Proportion de la population utilisant les services d''assainissement
+  de base [1.4.1]'
+SP_DYN_ADKL: 'Taux de natalité chez les adolescentes (pour 1 000 femmes âgées de 15
+  à 19 ans) [3.7.2]'
+SP_DYN_MRBF15: 'Proportion de femmes de 20 à 24 ans mariées ou en couple avant 15
+  ans [5.3.1]'
+SP_DYN_MRBF18: 'Proportion de femmes âgées de 20 à 24 ans mariées ou en couple avant
+  l''âge de 18 ans [5.3.1]'
+SP_GNP_WNOWNS: 'Part des femmes parmi les propriétaires ou titulaires de droits de
+  terres agricoles, par type de tenure [5.a.1]'
+SP_LGL_LNDAGSEC: 'Proportion de la population agricole totale possédant des droits
+  de propriété ou des droits garantis sur les terres agricoles [5.a.1]'
+SP_LGL_LNDDOC: 'Proportion de personnes ayant des documents légalement reconnus de
+  leurs droits à la terre sur la population adulte totale [1.4.2]'
+SP_LGL_LNDSEC: 'Proportion de personnes qui perçoivent leurs droits à la terre comme
+  sûrs sur la population adulte totale [1.4.2]'
+SP_LGL_LNDSTR: 'Proportion de personnes ayant des droits fonciers sûrs sur la terre
+  par rapport à la population adulte totale [1.4.2]'
+SP_PSR_SATIS: 'Proportion de la population satisfaite de sa dernière expérience des
+  services publics [16.6.2]'
+SP_ROD_R2KM: 'Proportion de la population rurale qui habite à moins de 2 km d''une
+  route toutes saisons [9.1.1]'
+SP_TRN_PUBL: 'Proportion de la population qui a un accès pratique aux transports publics
+  [11.2.1]'
+ST_EEV_ACCSEEA: 'Mise en place d''outils comptables standards pour le suivi des aspects
+  économiques et environnementaux du tourisme (tableaux SCEE) [12.b.1]'
+ST_EEV_ACCTSA: 'Mise en place d''outils comptables standards pour le suivi des aspects
+  économiques et environnementaux du tourisme (tables du compte satellite du tourisme)
+  [12.b.1]'
+ST_EEV_STDACCT: 'Mise en place d''outils comptables standards pour le suivi des aspects
+  économiques et environnementaux du tourisme (Nombre total de tableaux) [12.b.1]'
+ST_EMP_SUST: 'Proportion d’emplois dans le secteur du tourisme durable, par rapport
+  au nombre total d’emplois dans l’industrie du tourisme'
+ST_GDP_ZS: 'PIB direct du tourisme en proportion du PIB total [8.9.1]'
+TM_TAX_DMFN: 'Tarif moyen appliqué par les pays développés, statut de nation la plus
+  favorisée, par type de produit (%)  [17.12.1]'
+TM_TAX_DPRF: 'Tarif moyen appliqué par les pays développés, statut préférentiel, par
+  type de produit (%)  [17.12.1]'
+TM_TAX_WM: 'Tarif moyen appliqué par les pays développés [17.12.1]'
+TM_TAX_WMFN: 'Moyenne tarifaire mondiale pondérée, statut de la nation la plus favorisée
+  [17.10.1]'
+TM_TAX_WMPS: 'Moyenne tarifaire mondiale pondérée, statut préférentiel [17.10.1]'
+TM_TRF_ZERO: 'Proportion de lignes tarifaires appliquées aux importations à droit
+  nul [10.a.1]'
+TX_EXP_GBMRCH: 'Part des pays en développement et des pays les moins avancés dans
+  les exportations mondiales de marchandises [17.11.1]'
+TX_EXP_GBSVR: 'Part des pays en développement et des pays les moins avancés dans les
+  exportations mondiales de services [17.11.1]'
+TX_IMP_GBMRCH: 'Part des pays en développement et des pays les moins avancés dans
+  les importations mondiales de marchandises [17.11.1]'
+TX_IMP_GBSVR: 'Part des pays en développement et des pays les moins avancés dans les
+  importations mondiales de services [17.11.1]'
+VC_ARM_SZTRACE: 'Proportion des armes saisies, trouvées ou rendues volontairement
+  dont la provenance ou l’utilisation illicite a été retracée ou établie par des
+  autorités compétentes, conformément aux instruments internationaux'
+VC_DSR_AFFCT: 'Nombre de personnes affectées par la catastrophe [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_AGLH: 'Pertes agricoles directes attribuées aux catastrophes [1.5.2, 11.5.2]'
+VC_DSR_BSDN: 'Nombre de perturbations des services de base attribuées aux catastrophes
+  [11.5.2]'
+VC_DSR_CDAN: 'Nombre d''infrastructures critiques endommagées attribuées aux catastrophes
+  [11.5.2]'
+VC_DSR_CDYN: 'Nombre d''autres unités et installations d''infrastructures critiques
+  détruites ou endommagées attribuées aux catastrophes [11.5.2]'
+VC_DSR_CHLN: 'Perte économique directe du patrimoine culturel endommagé ou détruit
+  attribuée à des catastrophes [1.5.2, 11.5.2]'
+VC_DSR_CILN: 'Perte économique directe résultant d''infrastructures critiques endommagées
+  ou détruites attribuées à des catastrophes [1.5.2, 11.5.2]'
+VC_DSR_DAFF: 'Nombre de personnes directement affectées attribuées aux catastrophes
+  pour 100 000 habitants [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_DDHN: 'Nombre de logements endommagés attribués aux catastrophes [1.5.1, 11.5.1,
+  13.1.1]'
+VC_DSR_DDPA: 'Perte économique directe à d''autres actifs productifs endommagés ou
+  détruits attribuée aux catastrophes [1.5.2, 11.5.2]'
+VC_DSR_DYDN: 'Nombre de logements détruits attribués aux catastrophes [1.5.1, 11.5.1,
+  13.1.1]'
+VC_DSR_DYHN: 'Nombre de logements détruits attribués aux catastrophes, par type d''aléa
+  [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_EFDN: 'Nombre d''établissements d''enseignement détruits ou endommagés attribués
+  aux catastrophes [11.5.2]'
+VC_DSR_ESDN: 'Nombre de perturbations des services éducatifs attribuées aux catastrophes
+  [11.5.2]'
+VC_DSR_GDPLS: 'Perte économique directe attribuée aux catastrophes [1.5.2]'
+VC_DSR_HFDN: 'Nombre d''établissements de santé détruits ou endommagés attribués aux
+  catastrophes [11.5.2]'
+VC_DSR_HOLH: 'Pertes économiques directes dans le secteur du logement attribuées aux
+  catastrophes, par type d''aléa [1.5.2, 11.5.2]'
+VC_DSR_HSDN: 'Nombre de perturbations des services de santé attribuées aux catastrophes
+  [11.5.2]'
+VC_DSR_IJILN: 'Nombre de blessés ou de malades attribués aux catastrophes [1.5.1,
+  11.5.1, 13.1.1]'
+VC_DSR_LSGP: 'Perte économique directe attribuée aux catastrophes par rapport au PIB
+  [1.5.2, 11.5.2]'
+VC_DSR_MISS: 'Nombre de personnes disparues en raison d''une catastrophe [1.5.1, 11.5.1,
+  13.1.1]'
+VC_DSR_MMHN: 'Nombre de décès et de personnes disparues attribués aux catastrophes
+  [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_MORT: 'Nombre de décès dus aux catastrophes [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_MTMP: 'Nombre de décès et de personnes disparues attribués aux catastrophes
+  pour 100 000 habitants [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_OBDN: 'Nombre de perturbations d''autres services de base attribuées aux catastrophes
+  [11.5.2]'
+VC_DSR_PDAN: 'Nombre de personnes dont les logements endommagés ont été attribués
+  à des catastrophes [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_PDLN: 'Nombre de personnes dont les moyens de subsistance ont été perturbés
+  ou détruits, attribués aux catastrophes [1.5.1, 11.5.1, 13.1.1]'
+VC_DSR_PDYN: 'Nombre de personnes dont les habitations détruites ont été attribuées
+  à des catastrophes [1.5.1, 11.5.1, 13.1.1]'
+VC_DTH_TOCV: 'Décès liés aux conflits pour 100 000 habitants [16.1.2]'
+VC_DTH_TOCVN: 'Nombre de décès liés au conflit (civils), par sexe, âge et cause de
+  décès [16.1.2]'
+VC_DTH_TOCVR: 'Taux de mortalité liée aux conflits (civils), par sexe, âge et cause
+  de décès (%) [16.1.2]'
+VC_HTF_DETV: 'Victimes détectées de la traite des êtres humains (nombre) [16.2.2]'
+VC_HTF_DETVFL: 'Victimes détectées de la traite des êtres humains à des fins de travail
+  forcé, de servitude et d''esclavage (nombre) [16.2.2]'
+VC_HTF_DETVOG: 'Victimes détectées de la traite des êtres humains pour prélèvement
+  d''organes (nombre) [16.2.2]'
+VC_HTF_DETVOP: 'Victimes détectées de la traite des êtres humains à d''autres fins
+  (nombre) [16.2.2]'
+VC_HTF_DETVSX: 'Victimes détectées de la traite des êtres humains à des fins d''exploitation
+  sexuelle (nombre) [16.2.2]'
+VC_IHR_PSRC: 'Nombre de victimes d''homicide intentionnel pour 100 000 habitants [16.1.1]'
+VC_IHR_PSRCN: 'Nombre de victimes d''homicide volontaire [16.1.1]'
+VC_PRR_PHYV: 'Taux de déclaration à la police pour agression physique, selon le sexe
+  (%) [16.3.1]'
+VC_PRR_ROBB: 'Taux de déclaration de vol qualifié par la police, selon le sexe (%)
+  [16.3.1]'
+VC_PRR_SEXV: 'Taux de déclaration à la police pour les agressions sexuelles, selon
+  le sexe (%) [16.3.1]'
+VC_PRS_UNSNT: 'Détenus non condamnés en proportion de la population carcérale globale
+  [16.3.2]'
+VC_PRS_UNSNTN: 'Détenus non condamnés (nombre) [16.3.2]'
+VC_SNS_WALN: 'Proportion de la population qui se sent en sécurité lorsqu''elle marche
+  seule dans la zone où elle vit [16.1.4]'
+VC_VAW_DIST: 'Répartition par âge et sexe des victimes détectées de la traite des
+  personnes (%) [16.2.2]'
+VC_VAW_MARR: 'Proportion de femmes et de filles ayant déjà vécu en couple ayant subi
+  des violences physiques et sexuelles de la part d''un partenaire intime actuel ou
+  ancien au cours des 12 derniers mois [5.2.1]'
+VC_VAW_MTUHRA: 'Nombre de cas d''assassinats de défenseurs des droits humains, de
+  journalistes et de syndicalistes [16.10.1]'
+VC_VAW_NONMARR: 'Proportion de femmes et de filles âgées de 15 ans et plus ayant subi
+  des violences sexuelles par des personnes autres qu''un partenaire intime au cours
+  des 12 mois précédents [5.2.2]'
+VC_VAW_PHYPYV: 'Proportion d''enfants âgés de 1 à 14 ans qui ont subi des châtiments
+  corporels et/ou des agressions psychologiques de la part des soignants au cours
+  du mois dernier [16.2.1]'
+VC_VAW_PHYV: 'Proportion de femmes et de filles ayant déjà vécu en couple ayant subi
+  des violences physiques de la part d''un partenaire intime actuel ou ancien au cours
+  des 12 derniers mois [5.2.1]'
+VC_VAW_PSYV: 'Proportion de femmes et de filles ayant déjà vécu en couple ayant subi
+  des violences psychologiques de la part d''un partenaire intime actuel ou ancien
+  au cours des 12 derniers mois [5.2.1]'
+VC_VAW_SEXV: 'Proportion de femmes et de filles ayant déjà vécu en couple ayant subi
+  des violences sexuelles de la part d''un partenaire intime actuel ou ancien au cours
+  des 12 derniers mois [5.2.1]'
+VC_VAW_SXVLN: 'Proportion de la population âgée de 18 à 29 ans ayant subi des violences
+  sexuelles avant l''âge de 18 ans [16.2.3]'
+VC_VOC_ENFDIS: 'Nombre de cas de disparition forcée de défenseurs des droits humains,
+  de journalistes et de syndicalistes [16.10.1]'
+VC_VOH_SXPH: 'Proportion de personnes victimes de harcèlement physique ou sexuel,
+  au cours des 12 derniers mois [11.7.2]'
+VC_VOV_DCMN: 'Proportion de la population déclarant s''être personnellement sentie
+  discriminée ou harcelée au cours des 12 derniers mois sur la base d''un motif de
+  discrimination interdit par le droit international des droits de l''homme [10.3.1,
+  16.b.1]'
+VC_VOV_GDSD: 'Proportion de la population déclarant s''être sentie discriminée [10.3.1,
+  16.b.1]'
+VC_VOV_PHYL: 'Proportion de la population ayant subi des violences physiques au cours
+  des 12 derniers mois [16.1.3]'
+VC_VOV_ROBB: 'Proportion de la population victime de vol au cours des 12 derniers
+  mois [16.1.3]'
+VC_VOV_SEXL: 'Proportion de la population ayant subi des violences sexuelles au cours
+  des 12 derniers mois [16.1.3]'
