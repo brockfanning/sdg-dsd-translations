@@ -1,1 +1,622 @@
-{}
+ZW: Zimbabwe
+ZM: Zambie
+ZA: Afrique du Sud
+YU: Serbie et Monténégro [anciennement]
+YT: Mayotte
+YE: Yémen
+XK: Kosovo
+WS: Samoa
+WF: Wallis et Futuna
+VU: Vanuatu
+VN: Viêt Nam
+VI: Îles Vierges des États-Unis
+VG: Îles Vierges britanniques
+VE: Venezuela (République bolivarienne du)
+VC: Saint-Vincent-et-les-Grenadines
+VA: Saint-Siège
+UZ: Ouzbékistan
+UY: Uruguay
+US: États-Unis d'Amérique
+UM: Îles mineures éloignées des États-Unis
+UG: Ouganda
+UA: Ukraine
+TZ: République-Unie de Tanzanie
+TV: Tuvalu
+TT: Trinité-et-Tobago
+TR: Turquie
+TO: Tonga
+TN: Tunisie
+TM: Turkménistan
+TL: Timor-Leste
+TK: Tokelau
+TJ: Tadjikistan
+TH: Thaïlande
+TG: Togo
+TF: Terres australes et antarctiques françaises
+TD: Tchad
+TC: Îles Turques-et-Caïques
+SZ: Eswatini
+SY: République arabe syrienne
+SX: Saint Martin (partie néerlandaise)
+SV: Salvador
+ST: Sao Tomé-et-Principe
+SS: Soudan du Sud
+SR: Suriname
+SO: Somalie
+SN: Sénégal
+SM: Saint-Marin
+SL: Sierra Leone
+SK: Slovaquie
+SJ: Svalbard et îles Jan Mayen
+SI: Slovénie
+SH: Sainte-Hélène
+SG: Singapour
+SE: Suède
+SD: Soudan
+SC: Seychelles
+SB: Îles Salomon
+SA: Arabie saoudite
+RW: Rwanda
+RU: Fédération de Russie
+RS: Serbie
+RO: Roumanie
+REF_AREA: Zone de référence
+RE: La Réunion
+QA: Qatar
+PY: Paraguay
+PW: Palaos
+PT: Portugal
+PS: État de la Palestine
+PR: Porto Rico
+PN: Pitcairn
+PM: Saint-Pierre-et-Miquelon
+PL: Pologne
+PK: Pakistan
+PH: Philippines
+PG: Papouasie-Nouvelle-Guinée
+PF: Polynésie française
+PE: Pérou
+MK: Macédoine du Nord
+MH: Îles Marshall
+MG: Madagascar
+MF: Saint Martin (Partie française)
+ME: Monténégro
+MD: République de Moldavie
+MC: Monaco
+MA: Maroc
+LY: Libye
+LV: Lettonie
+LU: Luxembourg
+LT: Lituanie
+LS: Lesotho
+LR: Libéria
+LK: Sri Lanka
+LI: Liechtenstein
+LC: Sainte-Lucie
+LB: Liban
+LA: République Démocratique Populaire du Laos
+KZ: Kazakhstan
+KY: Îles Caïmans
+KW: Koweït
+KR: République de Corée
+KP: République populaire démocratique de Corée
+KN: Saint-Christophe-et-Niévès
+KM: Comores
+KI: Kiribati
+KH: Cambodge
+KG: Kirghizistan
+KE: Kenya
+JP: Japon
+JO: Jordanie
+JM: Jamaïque
+JE: Jersey
+IT: Italie
+IS: Islande
+IR: Iran (République Islamique de)
+IQ: Irak
+IO: Territoire britannique de l'océan Indien
+IN: Inde
+IM: Ile of Man
+IL: Israël
+IE: Irlande
+ID: Indonésie
+HU: Hongrie
+HT: Haïti
+HR: Croatie
+HN: Honduras
+HM: Îles Heard-et-McDonald
+HK: Chine, Région administrative spéciale de Hong Kong
+GY: Guyana
+GW: Guinée-Bissau
+GU: Guam
+GT: Guatemala
+GS: Géorgie du Sud-et-les Îles Sandwich du Sud
+GR: Grèce
+GQ: Guinée équatoriale
+GP: Guadeloupe
+GN: Guinée
+GM: Gambie
+GL: Groenland
+GI: Gibraltar
+GH: Ghana
+GG: Guernesey
+GF: Guyane française
+GE: Géorgie
+GD: Grenade
+GB: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+GA: Gabon
+FR: France
+FQ: Terres australes et antarctiques françaises
+FO: Îles Féroé
+FM: Micronésie (États fédérés de)
+FK: Iles Falkland (Malvinas)
+FJ: Îles Fidji
+FI: Finlande
+ET: Éthiopie
+ES: Espagne
+ER: Érythrée
+EH: Sahara occidental
+EG: Égypte
+EE: Estonie
+EC: Équateur
+DZ: Algérie
+DO: République dominicaine
+DM: Dominique
+DK: Danemark
+DJ: Djibouti
+DE: Allemagne
+CZ: République Tchèque
+CY: Chypre
+CX: Île Christmas
+CW: Curaçao
+CV: Cap-Vert
+CU: Cuba
+CR: Costa Rica
+CO: Colombie
+CN: Chine
+CM: Cameroun
+CL: Chili
+CK: Îles Cook
+CI: Côte d'Ivoire
+CH: Suisse
+CG: Congo
+CF: République Centrafricaine
+CD: République Démocratique du Congo
+CC: Iles Cocos (Keeling)
+CA: Canada
+BZ: Belize
+BY: Bélarus
+BW: Botswana
+BV: Île Bouvet
+BT: Bhoutan
+BS: Bahamas
+BR: Brésil
+BQ: Bonaire, Sint Eustatius and Saba
+BO: Bolivie (État plurinational de)
+BN: Brunei Darussalam
+BM: Bermudes
+BL: Saint Barthélemy
+BJ: Bénin
+BI: Burundi
+BH: Bahreïn
+BG: Bulgarie
+BF: Burkina Faso
+BE: Belgique
+BD: Bangladesh
+BB: Barbade
+BA: Bosnie-Herzégovine
+AZ: Azerbaïdjan
+AX: Åland Islands
+AW: Aruba
+AU: Australie
+AT: Autriche
+AS: Samoa américaines
+AR: Argentine
+AQ: Antarctique
+AO: Angola
+AN: Antilles néerlandaises
+AM: Arménie
+AL: Albanie
+AI: Anguilla
+AG: Antigua-et-Barbuda
+AF: Afghanistan
+AE: Émirats arabes unis
+AD: Andorre
+'99041': Belgique et Luxembourg
+'99040': 'APD résiduelle/non allouée : Asie occidentale et Afrique du Nord'
+'99039': 'APD résiduelle/non allouée : Afrique sub-saharienne'
+'99038': 'APD résiduelle/non allouée : Océanie hors Aus. et N. Zélande'
+'99037': 'APD résiduelle/non affectée : Amérique latine et Caraïbes'
+'99036': "APD résiduelle/non allouée : Asie de l'Est et du Sud-Est"
+'99035': 'APD résiduelle/non allouée : Asie centrale et Asie du Sud'
+'99034': Avitaillement de l'aviation mondiale
+'99033': Les soutes maritimes du monde
+'99032': 'Zone de pêche principale de la FAO : Méditerranée et mer Noire'
+'99031': 'Zone de pêche principale de la FAO : Pacifique, Sud-Est'
+'99030': 'Zone de pêche principale de la FAO : Atlantique, Sud-Ouest'
+'99029': 'Principale zone de pêche de la FAO : Atlantique, Centre-Est'
+'99028': 'Zone de pêche principale de la FAO : Atlantique, Centre-Ouest'
+'99027': 'Principale zone de pêche de la FAO : Océan Indien, Ouest'
+'99026': 'Zone de pêche principale de la FAO : Atlantique, Sud-Est'
+'99025': 'Principale zone de pêche de la FAO : Océan Indien, Est'
+'99024': 'Zone de pêche principale de la FAO : Atlantique, Nord-Est'
+'99023': 'Zone de pêche principale de la FAO : Atlantique, Nord-Ouest'
+'99022': 'Zone de pêche principale de la FAO : Pacifique, Sud-Ouest'
+'99021': 'Zone de pêche principale de la FAO : Pacifique, Centre-Ouest'
+'99020': 'Zone de pêche principale de la FAO : Pacifique, Nord-Ouest'
+'99019': 'Zone de pêche principale de la FAO : Pacifique, Nord-Est'
+'99018': 'Principale zone de pêche de la FAO : Pacifique, Centre-Est'
+'97': l'Union européenne
+'96': Brunei Darussalam
+'951': Autre Afrique (AIE)
+'922': Regroupements personnalisés de fournisseurs de données
+'921': APD résiduelle
+'920': Açores (îles)
+'92': Îles Vierges britanniques
+'919': Centres régionaux (FAO)
+'918': Institutions de l'Union européenne (UE)
+'917': Centres internationaux (FAO)
+'916': États membres développés de l'OMC
+'915': États membres en développement de l'OMC
+'914': Économies moyennes supérieures (BM)
+'913': Économies à revenu faible et intermédiaire (BM)
+'912': Économies moyennes inférieures (BM)
+'911': Economies à faible revenu (BM)
+'910': Économies à revenu élevé (BM)
+'909': Asie de l'Est, du Sud et du Sud-Est et Océanie (OMD)
+'908': Europe occidentale (OIT)
+'907': Autres régions (OIT)
+'906': Amérique du Nord (OIT)
+'905': Moyen-Orient (OIT)
+'904': Moyen-Orient et Afrique du Nord (OIT)
+'903': Europe centrale et orientale (OIT)
+'902': Asie et Pacifique (OIT)
+'901': Afrique (OIT)
+'90': Îles Salomon
+'9': Océanie
+'896': Domaines non spécifiés ailleurs
+'894': Zambie
+'891': Serbie et Monténégro [anciennement]
+'890': Yougoslavie [ancienne]
+'889': États membres de l'Organisation mondiale du commerce (OMC)
+'887': Yémen
+'882': Samoa
+'876': Wallis et Futuna
+'862': Venezuela (République bolivarienne du)
+'860': Ouzbékistan
+'86': Territoire britannique de l'océan Indien
+'858': Uruguay
+'854': Burkina Faso
+'850': Îles Vierges des États-Unis
+'840': États-Unis d'Amérique
+'84': Belize
+'836': République unie de Tanzanie (Zanzibar)
+'835': République-Unie de Tanzanie (continentale)
+'270': Gambie
+'268': Géorgie
+'266': Gabon
+'262': Djibouti
+'260': Terres australes et antarctiques françaises
+'258': Polynésie française
+'254': Guyane française
+'250': France
+'248': Åland Islands
+'246': Finlande
+'242': Îles Fidji
+'24': Angola
+'239': Géorgie du Sud-et-les Îles Sandwich du Sud
+'238': Iles Falkland (Malvinas)
+'234': Îles Féroé
+'233': Estonie
+'232': Érythrée
+'231': Éthiopie
+'226': Guinée équatoriale
+'223': Asie de l'Est (hors Japon et Chine)
+'222': Salvador
+'218': Équateur
+'214': République dominicaine
+'212': Dominique
+'21': Amérique du Nord
+'208': Danemark
+'204': Bénin
+'203': République Tchèque
+'202': Afrique sub-saharienne
+'20': Andorre
+'2': Afrique
+'199': Pays les moins avancés (PMA)
+'198': États membres de l'Organisation de coopération et de développement économiques
+  (OCDE)
+'196': Chypre
+'192': Cuba
+'191': Croatie
+'19': Amérique
+'188': Costa Rica
+'184': Îles Cook
+'180': République Démocratique du Congo
+'18': Afrique du Sud
+'178': Congo
+'175': Mayotte
+'174': Comores
+'170': Colombie
+'17': Afrique centrale
+'166': Iles Cocos (Keeling)
+'162': Île Christmas
+'16': Samoa américaines
+'158': Autres zones non spécifiées en Asie orientale
+'156': Chine
+'155': Europe de l'Ouest
+'154': Europe du Nord
+'152': Chili
+'151': Europe de l'Est
+'150': Europe
+'15': Afrique du Nord
+'148': Tchad
+'145': Asie occidentale
+'144': Sri Lanka
+'143': Asie centrale
+'142': Asie
+'140': République Centrafricaine
+'14': Afrique de l'Est
+'136': Îles Caïmans
+'135': Caucase et Asie centrale
+'132': Cap-Vert
+'13': Amérique Centrale
+'127': Asie du Sud (hors Inde)
+'124': Canada
+'120': Cameroun
+'12': Algérie
+'116': Cambodge
+'112': Bélarus
+'11': Afrique occidentale
+'108': Burundi
+'104': Myanmar
+'100': Bulgarie
+'10': Antarctique
+'1': Monde
+PA: Panama
+OM: Oman
+NZ: Nouvelle-Zélande
+NU: Niue
+NR: Nauru
+NP: Népal
+'NO': Norvège
+NL: Pays-Bas
+NI: Nicaragua
+NG: Nigeria
+NF: Île Norfolk
+NE: Niger
+NC: Nouvelle-Calédonie
+NA: Namibie
+MZ: Mozambique
+MY: Malaisie
+MX: Mexique
+MW: Malawi
+MV: Maldives
+MU: Île Maurice
+MT: Malte
+MS: Montserrat
+MR: Mauritanie
+MQ: Martinique
+MP: Îles Mariannes du Nord
+MO: Chine, Région administrative spéciale de Macao
+MN: Mongolie
+MM: Myanmar
+ML: Mali
+'76': Brésil
+'756': Suisse
+'753': Asie de l'Est et du Sud-Est
+'752': Suède
+'748': Eswatini
+'747': Afrique du Nord et Asie occidentale
+'746': Afrique du Nord (sauf le Soudan)
+'744': Svalbard et îles Jan Mayen
+'740': Suriname
+'74': Île Bouvet
+'738': Afrique sub-saharienne (y compris le Soudan)
+'736': Soudan [ancien]
+'732': Sahara occidental
+'729': Soudan
+'728': Soudan du Sud
+'724': Espagne
+'722': Petits États insulaires en développement (PEID)
+'72': Botswana
+'716': Zimbabwe
+'710': Afrique du Sud
+'706': Somalie
+'705': Slovénie
+'704': Viêt Nam
+'703': Slovaquie
+'702': Singapour
+'70': Bosnie-Herzégovine
+'694': Sierra Leone
+'690': Seychelles
+'688': Serbie
+'686': Sénégal
+'682': Arabie saoudite
+'680': Sark
+'68': Bolivie (État plurinational de)
+'678': Sao Tomé-et-Principe
+'674': Saint-Marin
+'670': Saint-Vincent-et-les-Grenadines
+'666': Saint-Pierre-et-Miquelon
+'663': Saint Martin (Partie française)
+'662': Sainte-Lucie
+'660': Anguilla
+'659': Saint-Christophe-et-Niévès
+'654': Sainte-Hélène
+'652': Saint Barthélemy
+'646': Rwanda
+'643': Fédération de Russie
+'642': Roumanie
+'64': Bhoutan
+'638': La Réunion
+'636': Autres Amériques non-oecd
+'634': Qatar
+'630': Porto Rico
+'626': Timor-Leste
+'624': Guinée-Bissau
+'620': Portugal
+'62': Asie centrale et du Sud
+'616': Pologne
+'612': Pitcairn
+'61': Polynésie
+'608': Philippines
+'604': Pérou
+'600': Paraguay
+'60': Bermudes
+'598': Papouasie-Nouvelle-Guinée
+'593': Membres du Comité d'aide au développement (CAD)
+'591': Panama
+'586': Pakistan
+'585': Palaos
+'584': Îles Marshall
+'583': Micronésie (États fédérés de)
+'581': Îles mineures éloignées des États-Unis
+'580': Îles Mariannes du Nord
+'578': Norvège
+'577': Afrique non spécifiée ailleurs
+'574': Île Norfolk
+'570': Niue
+'57': Micronésie
+'566': Nigeria
+'562': Niger
+'56': Belgique
+'558': Nicaragua
+'554': Nouvelle-Zélande
+'548': Vanuatu
+'543': Océanie (sauf Australie et Nouvelle-Zélande)
+'540': Nouvelle-Calédonie
+'54': Mélanésie
+'535': Bonaire, Sint Eustatius and Saba
+'534': Saint Martin (partie néerlandaise)
+'533': Aruba
+'531': Curaçao
+'530': Antilles néerlandaises
+'53': Australie et Nouvelle-Zélande
+'528': Pays-Bas
+'527': Autres pays non-OCDE Océanie
+'524': Népal
+'520': Nauru
+'52': Barbade
+'518': Asie de l'Est (hors Japon)
+'516': Namibie
+'515': Régions en développement
+'514': Régions développées (Europe, Chypre, Israël, Amérique du Nord, Japon, Australie
+  et Nouvelle-Zélande)
+'513': Europe et Amérique du Nord
+'512': Oman
+'51': Arménie
+'508': Mozambique
+'504': Maroc
+'500': Montserrat
+'50': Bangladesh
+'5': Amérique du Sud
+'499': Monténégro
+'498': République de Moldavie
+'496': Mongolie
+'492': Monaco
+'487': Autres pays d'Asie non membres de l'OCDE
+'485': Asie occidentale (sauf Arménie, Azerbaïdjan, Chypre, Israël et Géorgie)
+'484': Mexique
+'480': Île Maurice
+'48': Bahreïn
+'478': Mauritanie
+'474': Martinique
+'470': Malte
+'466': Mali
+'462': Maldives
+'458': Malaisie
+'454': Malawi
+'450': Madagascar
+'446': Chine, Région administrative spéciale de Macao
+'442': Luxembourg
+'440': Lituanie
+'44': Bahamas
+'438': Liechtenstein
+'434': Libye
+'432': Pays en développement sans littoral (LLDC)
+'430': Libéria
+'428': Lettonie
+'426': Lesotho
+'422': Liban
+'420': Latino-américaine
+'419': Amérique latine et Caraïbes
+'418': République Démocratique Populaire du Laos
+'417': Kirghizistan
+'414': Koweït
+'412': Kosovo
+'410': République de Corée
+'408': République populaire démocratique de Corée
+'404': Kenya
+'400': Jordanie
+'40': Autriche
+'4': Afghanistan
+'398': Kazakhstan
+'392': Japon
+'39': Europe du Sud
+'388': Jamaïque
+'384': Côte d'Ivoire
+'380': Italie
+'376': Israël
+'372': Irlande
+'370': Irak (région du Kurdistan)
+'369': Irak (Irak central)
+'368': Irak
+'364': Iran (République Islamique de)
+'360': Indonésie
+'36': Australie
+'356': Inde
+'352': Islande
+'35': Asie du Sud-Est
+'348': Hongrie
+'344': Chine, Région administrative spéciale de Hong Kong
+'340': Honduras
+'34': Asie du Sud
+'336': Saint-Siège
+'334': Îles Heard-et-McDonald
+'332': Haïti
+'328': Guyana
+'324': Guinée
+'320': Guatemala
+'32': Argentine
+'316': Guam
+'312': Guadeloupe
+'31': Azerbaïdjan
+'308': Grenade
+'304': Groenland
+'300': Grèce
+'30': Asie de l'Est
+'296': Kiribati
+'292': Gibraltar
+'29': Caraïbes
+'288': Ghana
+'28': Antigua-et-Barbuda
+'276': Allemagne
+'275': État de la Palestine
+'834': République-Unie de Tanzanie
+'833': Ile of Man
+'832': Jersey
+'831': Guernesey
+'830': Îles Anglo-Normandes
+'829': Royaume-Uni (Écosse)
+'828': Royaume-Uni (Irlande du Nord)
+'827': Royaume-Uni (Angleterre et Pays de Galles)
+'826': Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+'818': Égypte
+'807': Macédoine du Nord
+'804': Ukraine
+'800': Ouganda
+'8': Albanie
+'798': Tuvalu
+'796': Îles Turques-et-Caïques
+'795': Turkménistan
+'792': Turquie
+'788': Tunisie
+'784': Émirats arabes unis
+'780': Trinité-et-Tobago
+'776': Tonga
+'772': Tokelau
+'768': Togo
+'764': Thaïlande
+'762': Tadjikistan
+'760': République arabe syrienne
