@@ -4,7 +4,7 @@ This project serves to convert the SDG DSD into a format suitable for computer-a
 
 Translations can be performed [here](https://hosted.weblate.org/projects/sdg-dsd/).
 
-The latest translated SDMX DSD is available [here](dsd-exported.xml).
+The latest translated SDMX DSD is available [here](http://brock.tips/sdg-dsd-translations/dsd-exported.xml).
 
 <a href="https://hosted.weblate.org/engage/sdg-dsd/">
 <img src="https://hosted.weblate.org/widgets/sdg-dsd/-/open-graph.png" alt="Translation status" />
