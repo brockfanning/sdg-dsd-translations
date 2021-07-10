@@ -23,10 +23,10 @@ ISIC4_E: Approvisionnement en eau ; assainissement, gestion des déchets et acti
   de dépollution
 ISIC4_D: Fourniture d'électricité, de gaz, de vapeur et d'air conditionné
 ISIC4_C10T32X19: Fabrication, à l'exclusion du coke et des produits pétroliers raffinés,
-  et réparation et installation de machines et d'équipements
-ISIC4_C: Paramètres des outils de fabrication
-ISIC4_BTU: Non-agriculture
-ISIC4_BTFXE: Branches
+  de la réparation et de l'installation de machines et d'équipements
+ISIC4_C: Fabrication
+ISIC4_BTU: Non-agricole
+ISIC4_BTFXE: Industries
 ISIC4_B: Mines et carrières
 ISIC4_A: Agriculture, sylviculture et pêche
 HH: Activités des ménages
