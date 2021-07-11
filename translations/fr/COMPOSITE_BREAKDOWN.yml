@@ -116,7 +116,7 @@ IHR_02: 'Capacité RSI : Coordination et communications avec les points focaux 
 IHR_01: 'Capacité RSI : législation, politique et financement nationaux'
 HZT_WNDST: 'Type de danger : tempête de vent'
 HZT_WLDFR: 'Type de danger : Feu de forêt'
-HZT_VOLER: 'Type de danger : éruption volcanique'
+HZT_VOLER: 'Type de danger : Eruption volcanique'
 HZT_TSUNM: Type de danger : Tsunami
 HZT_TORND: 'Type de danger : tornade'
 HZT_TECHH: 'Type de danger : Danger technologique'
@@ -131,7 +131,7 @@ HZT_POLUT: 'Type de danger : Pollution'
 HZT_PLGUE: 'Type de danger : Peste'
 HZT_PESTX: 'Type de danger : Ravageur'
 HZT_PEATX: 'Type de danger : tourbe'
-HZT_PANIC: 'Type de danger : panique'
+HZT_PANIC: 'Type de danger : Panique'
 HZT_OTHER: 'Type de danger : Autre'
 HZT_NUCIN: 'Type de danger : incident nucléaire'
 HZT_LNDSL: 'Type de danger : glissement de terrain'
@@ -147,7 +147,7 @@ HZT_GLCFL: 'Type de danger : inondation du lac glaciaire'
 HZT_FRZRN: 'Type de danger : pluie verglaçante'
 HZT_FROST: 'Type de danger : Gel'
 HZT_FOGXX: 'Type de danger : Brouillard'
-HZT_FLSFL: 'Type de danger : crue éclair'
+HZT_FLSFL: 'Type de danger : Crue éclair'
 HZT_FLOOD: 'Type de danger : inondation'
 HZT_FIREX: 'Type de danger : Incendie'
 HZT_EXTEM: 'Type de danger : température extrême'
@@ -162,23 +162,23 @@ HZT_DROUG: 'Type de danger : Sécheresse'
 HZT_DFRST: 'Type de danger : Déforestation'
 HZT_CYCLN: 'Type de danger : Cyclone'
 HZT_CSOLD: 'Type de danger : Consolider'
-HZT_COSFL: 'Type de danger : inondation côtière'
-HZT_COSER: 'Type de danger : érosion côtière'
+HZT_COSFL: 'Type de danger : Inondation côtière'
+HZT_COSER: 'Type de danger : Erosion côtière'
 HZT_CONTM: 'Type de danger : Contamination'
 HZT_COLDW: 'Type de danger : Vague de froid'
-HZT_CHESP: 'Type de danger : déversement de produits chimiques'
-HZT_BIOGL: 'Type de danger : biologique'
+HZT_CHESP: 'Type de danger : Déversement de produits chimiques'
+HZT_BIOGL: 'Type de danger : Biologique'
 HZT_AVALE: 'Type de danger : Avalanche'
-HZT_ANIAK: "Type de danger : attaque d'animaux"
+HZT_ANIAK: "Type de danger : Attaque d'animaux"
 HZT_ALLUV: 'Type de danger : Alluvion'
 HZT_ACIDT: 'Type de danger : Accident'
-HZT_ACIDR: 'Type de danger : pluie acide'
-GRD_WEDLOCK: 'Motifs de discrimination : né hors mariage'
-GRD_WEALTH: 'Motifs de discrimination : situation de fortune'
-GRD_SOCIOECON: 'Motifs de discrimination : statut socio-économique'
-GRD_SEXOGENID: 'Motifs de discrimination : orientation sexuelle et identité de genre'
-GRD_SEXO: 'Motifs de discrimination : orientation sexuelle'
-GRD_SEX: 'Motifs de discrimination : sexe'
+HZT_ACIDR: 'Type de danger : Pluie acide'
+GRD_WEDLOCK: 'Motifs de discrimination : Né hors mariage'
+GRD_WEALTH: 'Motifs de discrimination : Richesse'
+GRD_SOCIOECON: 'Motifs de discrimination : Statut socio-économique'
+GRD_SEXOGENID: 'Motifs de discrimination : Orientation sexuelle et identité de genre'
+GRD_SEXO: 'Motifs de discrimination : Orientation sexuelle'
+GRD_SEX: 'Motifs de discrimination : Sexe'
 GRD_RES: 'Motifs de discrimination : Lieu de résidence'
 GRD_RELIGION: 'Motifs de discrimination : Religion'
 GRD_RACE: 'Motifs de discrimination : Race'
@@ -187,26 +187,26 @@ GRD_POLVIEW: 'Motifs de discrimination : Opinion politique'
 GRD_OTHER: 'Motifs de discrimination : Autre'
 GRD_MIG: 'Motifs de discrimination : Statut migratoire'
 GRD_MARFAM: 'Motifs de discrimination : Situation matrimoniale et familiale'
-GRD_MAR: 'Motifs de discrimination : état civil'
+GRD_MAR: 'Motifs de discrimination : Situation matrimoniale'
 GRD_LANDIA: 'Motifs de discrimination : Langue ou dialecte'
 GRD_GEO: 'Motifs de discrimination : Situation géographique'
 GRD_GENID: 'Motifs de discrimination : Identité de genre'
 GRD_FAM: 'Motifs de discrimination : Situation familiale'
 GRD_ETHCOLLANNAL: 'Motifs de discrimination : Ethnicité, couleur, langue, nationalité'
-GRD_ETHCOLLAN: 'Motifs de discrimination : origine ethnique, couleur, langue'
-GRD_ETH: 'Motifs de discrimination : ethnique'
+GRD_ETHCOLLAN: 'Motifs de discrimination : Origine ethnique, couleur, langue'
+GRD_ETH: 'Motifs de discrimination : Ethnique'
 GRD_EDU: 'Motifs de discrimination : Éducation'
 GRD_DISHEA: 'Motifs de discrimination : Handicap ou état de santé'
 GRD_AGE: 'Motifs de discrimination : Âge'
 FWS_RTL: 'Secteur des déchets alimentaires : Commerce de détail'
 FWS_OOHC: 'Filière Déchets Alimentaires : Consommation Hors Domicile'
-FWS_MNFC: 'Secteur des déchets alimentaires : fabrication'
-FWS_HHS: Secteur des déchets alimentaires : ménages
-FIS_PREFIS_INC: "Étape d'intervention fiscale : Recettes préfiscales"
+FWS_MNFC: 'Secteur des déchets alimentaires : Fabrication'
+FWS_HHS: Secteur des déchets alimentaires : Ménages
+FIS_PREFIS_INC: "Étape d'intervention fiscale : Revenu pré-fiscal"
 FIS_POSTFIS_DIS_INC: "Étape d'intervention fiscale : Revenu disponible post-fiscal"
 FIS_POSTFIS_CON_INC: "Étape de l'intervention fiscale : Revenu consommable post-fiscal"
-FCC_M: 'Fréquence de concentration de chlorophylle-a : modérée'
-FCC_H: 'Fréquence de la concentration de chlorophylle-a : élevée'
+FCC_M: 'Fréquence de concentration de chlorophylle-a : Modérée'
+FCC_H: 'Fréquence de la concentration de chlorophylle-a : Elevée'
 FCC_E: 'Fréquence de concentration de chlorophylle-a : Extrême'
 ELV_6: Élévation de 300 à 1 000 mètres et plage d'élévation locale (rayon de 7 kilomètres)
   > 300 mètres
@@ -216,21 +216,21 @@ ELV_4: Altitude 1.500-2.500 mètres et pente > 2
 ELV_3: Altitude 2.500-3.500 mètres
 ELV_2: Altitude 3.500-4.500 mètres
 ELV_1: Altitude > 4.500 mètres
-DEG_VLOW: 'Degré : Niveau très bas'
+DEG_VLOW: 'Diplôme : Niveau très bas'
 DEG_VHIG: 'Diplôme : Très haut niveau'
 DEG_MLOW: 'Diplôme : niveau moyen-bas'
 DEG_MHIG: 'Diplôme : Niveau moyen-élevé'
 DEG_LOW: 'Diplôme : Niveau bas'
 DEG_HIG: 'Diplôme : Haut niveau'
-COMPOSITE_BREAKDOWN: Répartition composite
-COD_U: 'Cause du décès : inconnue'
-COD_SMALLARMS: 'Cause du décès : Armes légères et de petit calibre'
+COMPOSITE_BREAKDOWN: Ventilation composite
+COD_U: 'Cause de décès : inconnue'
+COD_SMALLARMS: 'Cause de décès : Armes légères et de petit calibre'
 COD_OTHER: Incendiaire; Chimique, biologique, radiologique, nucléaire (CBRN); Armes
   électromagnétiques; Armes moins meurtrières ; Refus d'accès/destruction des objets
   indispensables à la survie ; Accidents liés à un conflit ; Utilisation d'objets
   et d'autres moyens ; Plusieurs armes utilisées.
-COD_HEAVYWEAPONS: 'Cause de la mort : Armes lourdes et munitions explosives'
-COD_EXPLOSIVES: 'Cause du décès : Explosifs plantés et munitions non explosées (UXO)'
+COD_HEAVYWEAPONS: 'Cause de décès : Armes lourdes et munitions explosives'
+COD_EXPLOSIVES: 'Cause de décès : Explosifs plantés et munitions non explosées (UXO)'
 ABT2_NOPROG: "Statut ABT2 : L'objectif national reflétant l'ABT2 existe, mais aucun\
   \ progrès"
 ABT2_NONTLT: "Statut ABT2 : Pas d'objectif national reflétant ABT 2"
