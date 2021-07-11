@@ -1,10 +1,10 @@
-W: Chaque semaine
-S: Semestrielle, semestrielle
+W: Hebdomadaire
+S: Semestriel
 Q: Trimestriel
 N: Chaque minute
 M: Mensuel
 H: Horaire
 FREQ: Fréquence d'observation
-D: Journalier
-B: Quotidiennement - businessweek
+D: Quotidien
+B: Quotidien sur la semaine ouvrable
 A: Annuel
