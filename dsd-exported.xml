@@ -163,7 +163,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Mining and quarrying</com:Description>
                 </str:Code>
                 <str:Code id="ISIC4_C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_C">
-                    <com:Name xml:lang="zh">制造参数</com:Name><com:Name xml:lang="fr">Paramètres des outils de fabrication</com:Name><com:Name xml:lang="ar">أبعاد التصنيع</com:Name><com:Name xml:lang="ru">Производство</com:Name><com:Name xml:lang="es">Fabricación</com:Name><com:Name xml:lang="en">Manufacturing</com:Name>
+                    <com:Name xml:lang="zh">制造参数</com:Name><com:Name xml:lang="fr">Fabrication</com:Name><com:Name xml:lang="ar">أبعاد التصنيع</com:Name><com:Name xml:lang="ru">Производство</com:Name><com:Name xml:lang="es">Fabricación</com:Name><com:Name xml:lang="en">Manufacturing</com:Name>
                     <com:Description xml:lang="en">Manufacturing</com:Description>
                 </str:Code>
                 <str:Code id="ISIC4_D" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_D">
@@ -239,11 +239,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Activities of extraterritorial organisations and bodies</com:Description>
                 </str:Code>
                 <str:Code id="ISIC4_BTU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_BTU">
-                    <com:Name xml:lang="zh">非农业</com:Name><com:Name xml:lang="fr">Non-agriculture</com:Name><com:Name xml:lang="ar">غير الزراعة</com:Name><com:Name xml:lang="ru">Несельскохозяйственные</com:Name><com:Name xml:lang="es">No agrícola</com:Name><com:Name xml:lang="en">Non-agriculture</com:Name>
+                    <com:Name xml:lang="zh">非农业</com:Name><com:Name xml:lang="fr">Non-agricole</com:Name><com:Name xml:lang="ar">غير الزراعة</com:Name><com:Name xml:lang="ru">Несельскохозяйственные</com:Name><com:Name xml:lang="es">No agrícola</com:Name><com:Name xml:lang="en">Non-agriculture</com:Name>
                     <com:Description xml:lang="en">Non-agriculture</com:Description>
                 </str:Code>
                 <str:Code id="ISIC4_C10T32X19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_C10T32X19">
-                    <com:Name xml:lang="zh">制造业，不包括焦炭和精炼石油产品，以及机械和设备的修理和安装</com:Name><com:Name xml:lang="fr">Fabrication, à l'exclusion du coke et des produits pétroliers raffinés, et réparation et installation de machines et d'équipements</com:Name><com:Name xml:lang="ar">التصنيع باستثناء فحم الكوك والمنتجات البترولية المكررة وإصلاح وتركيب الآلات والمعدات</com:Name><com:Name xml:lang="ru">Обрабатывающие производства, за исключением производства кокса и нефтепродуктов, а также ремонта и монтажа машин и оборудования</com:Name><com:Name xml:lang="es">Fabricación, excepto coque y productos petrolíferos refinados, y reparación e instalación de maquinaria y equipos</com:Name><com:Name xml:lang="en">Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment</com:Name>
+                    <com:Name xml:lang="zh">制造业，不包括焦炭和精炼石油产品，以及机械和设备的修理和安装</com:Name><com:Name xml:lang="fr">Fabrication, à l'exclusion du coke et des produits pétroliers raffinés, de la réparation et de l'installation de machines et d'équipements</com:Name><com:Name xml:lang="ar">التصنيع باستثناء فحم الكوك والمنتجات البترولية المكررة وإصلاح وتركيب الآلات والمعدات</com:Name><com:Name xml:lang="ru">Обрабатывающие производства, за исключением производства кокса и нефтепродуктов, а также ремонта и монтажа машин и оборудования</com:Name><com:Name xml:lang="es">Fabricación, excepto coque y productos petrolíferos refinados, y reparación e instalación de maquinaria y equipos</com:Name><com:Name xml:lang="en">Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment</com:Name>
                     <com:Description xml:lang="en">Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment</com:Description>
                 </str:Code>
                 <str:Code id="ISIC4_GTS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_GTS">
@@ -255,7 +255,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Services, and activities by households</com:Description>
                 </str:Code>
                 <str:Code id="ISIC4_BTFXE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).ISIC4_BTFXE">
-                    <com:Name xml:lang="zh">行业</com:Name><com:Name xml:lang="fr">Branches</com:Name><com:Name xml:lang="ar">الصناعات</com:Name><com:Name xml:lang="ru">Отрасли</com:Name><com:Name xml:lang="es">Industrias</com:Name><com:Name xml:lang="en">Industries</com:Name>
+                    <com:Name xml:lang="zh">行业</com:Name><com:Name xml:lang="fr">Industries</com:Name><com:Name xml:lang="ar">الصناعات</com:Name><com:Name xml:lang="ru">Отрасли</com:Name><com:Name xml:lang="es">Industrias</com:Name><com:Name xml:lang="en">Industries</com:Name>
                     <com:Description xml:lang="en">Industries</com:Description>
                 </str:Code>
                 <str:Code id="HH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_ACTIVITY(1.4).HH">
@@ -4432,7 +4432,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Hazard Type: Accident</com:Description>
                 </str:Code>
                 <str:Code id="HZT_ACIDR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ACIDR">
-                    <com:Name xml:lang="zh">危害类型。酸雨</com:Name><com:Name xml:lang="fr">Type de danger : pluie acide</com:Name><com:Name xml:lang="ar">نوع الخطر: المطر الحمضي</com:Name><com:Name xml:lang="ru">Тип опасности: Кислотный дождь</com:Name><com:Name xml:lang="es">Tipo de peligro: Lluvia ácida</com:Name><com:Name xml:lang="en">Hazard Type: Acid Rain</com:Name>
+                    <com:Name xml:lang="zh">危害类型。酸雨</com:Name><com:Name xml:lang="fr">Type de danger : Pluie acide</com:Name><com:Name xml:lang="ar">نوع الخطر: المطر الحمضي</com:Name><com:Name xml:lang="ru">Тип опасности: Кислотный дождь</com:Name><com:Name xml:lang="es">Tipo de peligro: Lluvia ácida</com:Name><com:Name xml:lang="en">Hazard Type: Acid Rain</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Acid Rain</com:Description>
                 </str:Code>
                 <str:Code id="HZT_ALLUV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ALLUV">
@@ -4440,7 +4440,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Hazard Type: Alluvion</com:Description>
                 </str:Code>
                 <str:Code id="HZT_ANIAK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_ANIAK">
-                    <com:Name xml:lang="zh">危险类型。动物攻击</com:Name><com:Name xml:lang="fr">Type de danger : attaque d'animaux</com:Name><com:Name xml:lang="ar">نوع الخطر: هجوم على الحيوانات</com:Name><com:Name xml:lang="ru">Тип опасности: Нападение животных</com:Name><com:Name xml:lang="es">Tipo de peligro: Ataque de animales</com:Name><com:Name xml:lang="en">Hazard Type: Animal Attack</com:Name>
+                    <com:Name xml:lang="zh">危险类型。动物攻击</com:Name><com:Name xml:lang="fr">Type de danger : Attaque d'animaux</com:Name><com:Name xml:lang="ar">نوع الخطر: هجوم على الحيوانات</com:Name><com:Name xml:lang="ru">Тип опасности: Нападение животных</com:Name><com:Name xml:lang="es">Tipo de peligro: Ataque de animales</com:Name><com:Name xml:lang="en">Hazard Type: Animal Attack</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Animal Attack</com:Description>
                 </str:Code>
                 <str:Code id="HZT_AVALE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_AVALE">
@@ -4448,19 +4448,19 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Hazard Type: Avalanche</com:Description>
                 </str:Code>
                 <str:Code id="HZT_BIOGL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_BIOGL">
-                    <com:Name xml:lang="zh">危害类型。生物学</com:Name><com:Name xml:lang="fr">Type de danger : biologique</com:Name><com:Name xml:lang="ar">نوع الخطر: بيولوجي</com:Name><com:Name xml:lang="ru">Тип опасности: Биологические</com:Name><com:Name xml:lang="es">Tipo de peligro: Biológico</com:Name><com:Name xml:lang="en">Hazard Type: Biological</com:Name>
+                    <com:Name xml:lang="zh">危害类型。生物学</com:Name><com:Name xml:lang="fr">Type de danger : Biologique</com:Name><com:Name xml:lang="ar">نوع الخطر: بيولوجي</com:Name><com:Name xml:lang="ru">Тип опасности: Биологические</com:Name><com:Name xml:lang="es">Tipo de peligro: Biológico</com:Name><com:Name xml:lang="en">Hazard Type: Biological</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Biological</com:Description>
                 </str:Code>
                 <str:Code id="HZT_CHESP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_CHESP">
-                    <com:Name xml:lang="zh">危险类型。化学品泄漏</com:Name><com:Name xml:lang="fr">Type de danger : déversement de produits chimiques</com:Name><com:Name xml:lang="ar">نوع الخطر: تسرب كيميائي</com:Name><com:Name xml:lang="ru">Тип опасности: Химический разлив</com:Name><com:Name xml:lang="es">Tipo de peligro: Derrame químico</com:Name><com:Name xml:lang="en">Hazard Type: Chemical Spill</com:Name>
+                    <com:Name xml:lang="zh">危险类型。化学品泄漏</com:Name><com:Name xml:lang="fr">Type de danger : Déversement de produits chimiques</com:Name><com:Name xml:lang="ar">نوع الخطر: تسرب كيميائي</com:Name><com:Name xml:lang="ru">Тип опасности: Химический разлив</com:Name><com:Name xml:lang="es">Tipo de peligro: Derrame químico</com:Name><com:Name xml:lang="en">Hazard Type: Chemical Spill</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Chemical Spill</com:Description>
                 </str:Code>
                 <str:Code id="HZT_COSER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_COSER">
-                    <com:Name xml:lang="zh">灾害类型。海岸侵蚀</com:Name><com:Name xml:lang="fr">Type de danger : érosion côtière</com:Name><com:Name xml:lang="ar">نوع الخطر: تآكل ساحلي</com:Name><com:Name xml:lang="ru">Тип опасности: Прибрежная эрозия</com:Name><com:Name xml:lang="es">Tipo de peligro: Erosión costera</com:Name><com:Name xml:lang="en">Hazard Type: Coastal Erosion</com:Name>
+                    <com:Name xml:lang="zh">灾害类型。海岸侵蚀</com:Name><com:Name xml:lang="fr">Type de danger : Erosion côtière</com:Name><com:Name xml:lang="ar">نوع الخطر: تآكل ساحلي</com:Name><com:Name xml:lang="ru">Тип опасности: Прибрежная эрозия</com:Name><com:Name xml:lang="es">Tipo de peligro: Erosión costera</com:Name><com:Name xml:lang="en">Hazard Type: Coastal Erosion</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Coastal Erosion</com:Description>
                 </str:Code>
                 <str:Code id="HZT_COSFL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_COSFL">
-                    <com:Name xml:lang="zh">灾害类型。沿海洪水</com:Name><com:Name xml:lang="fr">Type de danger : inondation côtière</com:Name><com:Name xml:lang="ar">نوع الخطر: فيضانات ساحلية</com:Name><com:Name xml:lang="ru">Тип опасности: Прибрежное наводнение</com:Name><com:Name xml:lang="es">Tipo de peligro: Inundación costera</com:Name><com:Name xml:lang="en">Hazard Type: Coastal Flood</com:Name>
+                    <com:Name xml:lang="zh">灾害类型。沿海洪水</com:Name><com:Name xml:lang="fr">Type de danger : Inondation côtière</com:Name><com:Name xml:lang="ar">نوع الخطر: فيضانات ساحلية</com:Name><com:Name xml:lang="ru">Тип опасности: Прибрежное наводнение</com:Name><com:Name xml:lang="es">Tipo de peligro: Inundación costera</com:Name><com:Name xml:lang="en">Hazard Type: Coastal Flood</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Coastal Flood</com:Description>
                 </str:Code>
                 <str:Code id="HZT_COLDW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_COLDW">
@@ -4524,7 +4524,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Hazard Type: Fire</com:Description>
                 </str:Code>
                 <str:Code id="HZT_FLSFL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FLSFL">
-                    <com:Name xml:lang="zh">灾害类型。山洪暴发</com:Name><com:Name xml:lang="fr">Type de danger : crue éclair</com:Name><com:Name xml:lang="ar">نوع الخطر: فيضان مفاجئ</com:Name><com:Name xml:lang="ru">Тип опасности: Внезапное наводнение</com:Name><com:Name xml:lang="es">Tipo de peligro: Inundación repentina</com:Name><com:Name xml:lang="en">Hazard Type: Flash Flood</com:Name>
+                    <com:Name xml:lang="zh">灾害类型。山洪暴发</com:Name><com:Name xml:lang="fr">Type de danger : Crue éclair</com:Name><com:Name xml:lang="ar">نوع الخطر: فيضان مفاجئ</com:Name><com:Name xml:lang="ru">Тип опасности: Внезапное наводнение</com:Name><com:Name xml:lang="es">Tipo de peligro: Inundación repentina</com:Name><com:Name xml:lang="en">Hazard Type: Flash Flood</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Flash Flood</com:Description>
                 </str:Code>
                 <str:Code id="HZT_FLOOD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_FLOOD">
@@ -4592,7 +4592,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Hazard Type: Other</com:Description>
                 </str:Code>
                 <str:Code id="HZT_PANIC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_PANIC">
-                    <com:Name xml:lang="zh">危险类型。恐慌</com:Name><com:Name xml:lang="fr">Type de danger : panique</com:Name><com:Name xml:lang="ar">نوع الخطر: الذعر</com:Name><com:Name xml:lang="ru">Тип опасности: Паника</com:Name><com:Name xml:lang="es">Tipo de peligro: Pánico</com:Name><com:Name xml:lang="en">Hazard Type: Panic</com:Name>
+                    <com:Name xml:lang="zh">危险类型。恐慌</com:Name><com:Name xml:lang="fr">Type de danger : Panique</com:Name><com:Name xml:lang="ar">نوع الخطر: الذعر</com:Name><com:Name xml:lang="ru">Тип опасности: Паника</com:Name><com:Name xml:lang="es">Tipo de peligro: Pánico</com:Name><com:Name xml:lang="en">Hazard Type: Panic</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Panic</com:Description>
                 </str:Code>
                 <str:Code id="HZT_PEATX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_PEATX">
@@ -4652,7 +4652,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Hazard Type: Tsunami</com:Description>
                 </str:Code>
                 <str:Code id="HZT_VOLER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_VOLER">
-                    <com:Name xml:lang="zh">灾害类型。火山喷发</com:Name><com:Name xml:lang="fr">Type de danger : éruption volcanique</com:Name><com:Name xml:lang="ar">نوع الخطر: انفجار بركاني</com:Name><com:Name xml:lang="ru">Тип опасности: Извержение вулкана</com:Name><com:Name xml:lang="es">Tipo de peligro: Erupción volcánica</com:Name><com:Name xml:lang="en">Hazard Type: Volcanic Eruption</com:Name>
+                    <com:Name xml:lang="zh">灾害类型。火山喷发</com:Name><com:Name xml:lang="fr">Type de danger : Eruption volcanique</com:Name><com:Name xml:lang="ar">نوع الخطر: انفجار بركاني</com:Name><com:Name xml:lang="ru">Тип опасности: Извержение вулкана</com:Name><com:Name xml:lang="es">Tipo de peligro: Erupción volcánica</com:Name><com:Name xml:lang="en">Hazard Type: Volcanic Eruption</com:Name>
                     <com:Description xml:lang="en">Hazard Type: Volcanic Eruption</com:Description>
                 </str:Code>
                 <str:Code id="HZT_WLDFR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).HZT_WLDFR">
@@ -4816,7 +4816,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Degree: Very high level</com:Description>
                 </str:Code>
                 <str:Code id="DEG_VLOW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_VLOW">
-                    <com:Name xml:lang="zh">度。非常低的水平</com:Name><com:Name xml:lang="fr">Degré : Niveau très bas</com:Name><com:Name xml:lang="ar">الدرجة العلمية: مستوى منخفض جدا</com:Name><com:Name xml:lang="ru">Степень: Очень низкий уровень</com:Name><com:Name xml:lang="es">Grado: Nivel muy bajo</com:Name><com:Name xml:lang="en">Degree: Very low level</com:Name>
+                    <com:Name xml:lang="zh">度。非常低的水平</com:Name><com:Name xml:lang="fr">Diplôme : Niveau très bas</com:Name><com:Name xml:lang="ar">الدرجة العلمية: مستوى منخفض جدا</com:Name><com:Name xml:lang="ru">Степень: Очень низкий уровень</com:Name><com:Name xml:lang="es">Grado: Nivel muy bajo</com:Name><com:Name xml:lang="en">Degree: Very low level</com:Name>
                     <com:Description xml:lang="en">Degree: Very low level</com:Description>
                 </str:Code>
                 <str:Code id="DEG_MLOW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).DEG_MLOW">
@@ -4824,19 +4824,19 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Degree: Medium-low level</com:Description>
                 </str:Code>
                 <str:Code id="COD_EXPLOSIVES" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_EXPLOSIVES">
-                    <com:Name xml:lang="zh">死亡的原因。种植的爆炸物和未爆弹药（UXO）。</com:Name><com:Name xml:lang="fr">Cause du décès : Explosifs plantés et munitions non explosées (UXO)</com:Name><com:Name xml:lang="ar">سبب الوفاة: متفجرات مزروعة وذخائر غير منفجرة.</com:Name><com:Name xml:lang="ru">Причина смерти: Заложенные взрывчатые вещества и неразорвавшиеся боеприпасы (НРБ)</com:Name><com:Name xml:lang="es">Causa de la muerte: Explosivos plantados y munición sin explotar (UXO)</com:Name><com:Name xml:lang="en">Cause of death: Planted explosives and unexploded ordnance (UXO)</com:Name>
+                    <com:Name xml:lang="zh">死亡的原因。种植的爆炸物和未爆弹药（UXO）。</com:Name><com:Name xml:lang="fr">Cause de décès : Explosifs plantés et munitions non explosées (UXO)</com:Name><com:Name xml:lang="ar">سبب الوفاة: متفجرات مزروعة وذخائر غير منفجرة.</com:Name><com:Name xml:lang="ru">Причина смерти: Заложенные взрывчатые вещества и неразорвавшиеся боеприпасы (НРБ)</com:Name><com:Name xml:lang="es">Causa de la muerte: Explosivos plantados y munición sin explotar (UXO)</com:Name><com:Name xml:lang="en">Cause of death: Planted explosives and unexploded ordnance (UXO)</com:Name>
                     <com:Description xml:lang="en">Cause of death: Planted explosives and unexploded ordnance (UXO)</com:Description>
                 </str:Code>
                 <str:Code id="COD_SMALLARMS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_SMALLARMS">
-                    <com:Name xml:lang="zh">死亡原因。小武器和轻武器</com:Name><com:Name xml:lang="fr">Cause du décès : Armes légères et de petit calibre</com:Name><com:Name xml:lang="ar">سبب الوفاة: أسلحة صغيرة وخفيفة</com:Name><com:Name xml:lang="ru">Причина смерти: Стрелковое оружие и легкие вооружения</com:Name><com:Name xml:lang="es">Causa de la muerte: Armas pequeñas y ligeras</com:Name><com:Name xml:lang="en">Cause of death: Small arms and light weapons</com:Name>
+                    <com:Name xml:lang="zh">死亡原因。小武器和轻武器</com:Name><com:Name xml:lang="fr">Cause de décès : Armes légères et de petit calibre</com:Name><com:Name xml:lang="ar">سبب الوفاة: أسلحة صغيرة وخفيفة</com:Name><com:Name xml:lang="ru">Причина смерти: Стрелковое оружие и легкие вооружения</com:Name><com:Name xml:lang="es">Causa de la muerte: Armas pequeñas y ligeras</com:Name><com:Name xml:lang="en">Cause of death: Small arms and light weapons</com:Name>
                     <com:Description xml:lang="en">Cause of death: Small arms and light weapons</com:Description>
                 </str:Code>
                 <str:Code id="COD_HEAVYWEAPONS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_HEAVYWEAPONS">
-                    <com:Name xml:lang="zh">死亡原因。重型武器和爆炸性弹药</com:Name><com:Name xml:lang="fr">Cause de la mort : Armes lourdes et munitions explosives</com:Name><com:Name xml:lang="ar">سبب الوفاة: أسلحة ثقيلة وذخائر متفجرة</com:Name><com:Name xml:lang="ru">Причина смерти: Тяжелое оружие и взрывчатые боеприпасы</com:Name><com:Name xml:lang="es">Causa de la muerte: Armas pesadas y municiones explosivas</com:Name><com:Name xml:lang="en">Cause of death: Heavy weapons and explosive munitions</com:Name>
+                    <com:Name xml:lang="zh">死亡原因。重型武器和爆炸性弹药</com:Name><com:Name xml:lang="fr">Cause de décès : Armes lourdes et munitions explosives</com:Name><com:Name xml:lang="ar">سبب الوفاة: أسلحة ثقيلة وذخائر متفجرة</com:Name><com:Name xml:lang="ru">Причина смерти: Тяжелое оружие и взрывчатые боеприпасы</com:Name><com:Name xml:lang="es">Causa de la muerte: Armas pesadas y municiones explosivas</com:Name><com:Name xml:lang="en">Cause of death: Heavy weapons and explosive munitions</com:Name>
                     <com:Description xml:lang="en">Cause of death: Heavy weapons and explosive munitions</com:Description>
                 </str:Code>
                 <str:Code id="COD_U" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_U">
-                    <com:Name xml:lang="zh">死因。未知</com:Name><com:Name xml:lang="fr">Cause du décès : inconnue</com:Name><com:Name xml:lang="ar">سبب الوفاة: غير معروف</com:Name><com:Name xml:lang="ru">Причина смерти: Неизвестно</com:Name><com:Name xml:lang="es">Causa de la muerte: Desconocida</com:Name><com:Name xml:lang="en">Cause of death: Unknown</com:Name>
+                    <com:Name xml:lang="zh">死因。未知</com:Name><com:Name xml:lang="fr">Cause de décès : inconnue</com:Name><com:Name xml:lang="ar">سبب الوفاة: غير معروف</com:Name><com:Name xml:lang="ru">Причина смерти: Неизвестно</com:Name><com:Name xml:lang="es">Causa de la muerte: Desconocida</com:Name><com:Name xml:lang="en">Cause of death: Unknown</com:Name>
                     <com:Description xml:lang="en">Cause of death: Unknown</com:Description>
                 </str:Code>
                 <str:Code id="COD_OTHER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).COD_OTHER">
@@ -4848,7 +4848,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Grounds of discrimination: Age</com:Description>
                 </str:Code>
                 <str:Code id="GRD_WEDLOCK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_WEDLOCK">
-                    <com:Name xml:lang="zh">歧视的理由。非婚生子女</com:Name><com:Name xml:lang="fr">Motifs de discrimination : né hors mariage</com:Name><com:Name xml:lang="ar">أسباب التمييز: ولد خارج رباط الزوجية</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Внебрачное рождение</com:Name><com:Name xml:lang="es">Motivos de discriminación: Nacido fuera del matrimonio</com:Name><com:Name xml:lang="en">Grounds of discrimination: Born out of wedlock</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。非婚生子女</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Né hors mariage</com:Name><com:Name xml:lang="ar">أسباب التمييز: ولد خارج رباط الزوجية</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Внебрачное рождение</com:Name><com:Name xml:lang="es">Motivos de discriminación: Nacido fuera del matrimonio</com:Name><com:Name xml:lang="en">Grounds of discrimination: Born out of wedlock</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Born out of wedlock</com:Description>
                 </str:Code>
                 <str:Code id="GRD_DISHEA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_DISHEA">
@@ -4860,11 +4860,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Grounds of discrimination: Educational</com:Description>
                 </str:Code>
                 <str:Code id="GRD_ETH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_ETH">
-                    <com:Name xml:lang="zh">歧视的理由。族裔</com:Name><com:Name xml:lang="fr">Motifs de discrimination : ethnique</com:Name><com:Name xml:lang="ar">أسباب التمييز: إثني</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Этническая</com:Name><com:Name xml:lang="es">Motivos de discriminación: Etnia</com:Name><com:Name xml:lang="en">Grounds of discrimination: Ethnic</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。族裔</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Ethnique</com:Name><com:Name xml:lang="ar">أسباب التمييز: إثني</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Этническая</com:Name><com:Name xml:lang="es">Motivos de discriminación: Etnia</com:Name><com:Name xml:lang="en">Grounds of discrimination: Ethnic</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Ethnic</com:Description>
                 </str:Code>
                 <str:Code id="GRD_ETHCOLLAN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_ETHCOLLAN">
-                    <com:Name xml:lang="zh">歧视的理由。族裔、肤色、语言</com:Name><com:Name xml:lang="fr">Motifs de discrimination : origine ethnique, couleur, langue</com:Name><com:Name xml:lang="ar">أسباب التمييز: العرق واللون واللغة</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Этническая принадлежность, цвет кожи, язык</com:Name><com:Name xml:lang="es">Motivos de discriminación: Origen étnico, color, idioma</com:Name><com:Name xml:lang="en">Grounds of discrimination: Ethnicity, colour, language</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。族裔、肤色、语言</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Origine ethnique, couleur, langue</com:Name><com:Name xml:lang="ar">أسباب التمييز: العرق واللون واللغة</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Этническая принадлежность, цвет кожи, язык</com:Name><com:Name xml:lang="es">Motivos de discriminación: Origen étnico, color, idioma</com:Name><com:Name xml:lang="en">Grounds of discrimination: Ethnicity, colour, language</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Ethnicity, colour, language</com:Description>
                 </str:Code>
                 <str:Code id="GRD_ETHCOLLANNAL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_ETHCOLLANNAL">
@@ -4892,7 +4892,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Grounds of discrimination: Marital and family status</com:Description>
                 </str:Code>
                 <str:Code id="GRD_MAR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_MAR">
-                    <com:Name xml:lang="zh">歧视的理由。婚姻状况</com:Name><com:Name xml:lang="fr">Motifs de discrimination : état civil</com:Name><com:Name xml:lang="ar">أسباب التمييز: الحالة الاجتماعية</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Семейное положение</com:Name><com:Name xml:lang="es">Motivos de discriminación: Estado civil</com:Name><com:Name xml:lang="en">Grounds of discrimination: Marital status</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。婚姻状况</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Situation matrimoniale</com:Name><com:Name xml:lang="ar">أسباب التمييز: الحالة الاجتماعية</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Семейное положение</com:Name><com:Name xml:lang="es">Motivos de discriminación: Estado civil</com:Name><com:Name xml:lang="en">Grounds of discrimination: Marital status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Marital status</com:Description>
                 </str:Code>
                 <str:Code id="GRD_MIG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_MIG">
@@ -4924,23 +4924,23 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Grounds of discrimination: Religion</com:Description>
                 </str:Code>
                 <str:Code id="GRD_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SEX">
-                    <com:Name xml:lang="zh">歧视的理由。性别</com:Name><com:Name xml:lang="fr">Motifs de discrimination : sexe</com:Name><com:Name xml:lang="ar">أسباب التمييز: الجنس</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Пол</com:Name><com:Name xml:lang="es">Motivos de discriminación: Sexo</com:Name><com:Name xml:lang="en">Grounds of discrimination: Sex</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。性别</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Sexe</com:Name><com:Name xml:lang="ar">أسباب التمييز: الجنس</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Пол</com:Name><com:Name xml:lang="es">Motivos de discriminación: Sexo</com:Name><com:Name xml:lang="en">Grounds of discrimination: Sex</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Sex</com:Description>
                 </str:Code>
                 <str:Code id="GRD_SEXOGENID" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SEXOGENID">
-                    <com:Name xml:lang="zh">歧视的理由。性取向和性别认同</com:Name><com:Name xml:lang="fr">Motifs de discrimination : orientation sexuelle et identité de genre</com:Name><com:Name xml:lang="ar">أسباب التمييز: التوجه الجنسي والهوية الجنسية</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Сексуальная ориентация и гендерная идентичность</com:Name><com:Name xml:lang="es">Motivos de discriminación: Orientación sexual e identidad de género</com:Name><com:Name xml:lang="en">Grounds of discrimination: Sexual orientation and gender identity</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。性取向和性别认同</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Orientation sexuelle et identité de genre</com:Name><com:Name xml:lang="ar">أسباب التمييز: التوجه الجنسي والهوية الجنسية</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Сексуальная ориентация и гендерная идентичность</com:Name><com:Name xml:lang="es">Motivos de discriminación: Orientación sexual e identidad de género</com:Name><com:Name xml:lang="en">Grounds of discrimination: Sexual orientation and gender identity</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Sexual orientation and gender identity</com:Description>
                 </str:Code>
                 <str:Code id="GRD_SEXO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SEXO">
-                    <com:Name xml:lang="zh">歧视的理由。性取向</com:Name><com:Name xml:lang="fr">Motifs de discrimination : orientation sexuelle</com:Name><com:Name xml:lang="ar">أسباب التمييز: التوجه الجنسي</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Сексуальная ориентация</com:Name><com:Name xml:lang="es">Motivos de discriminación: Orientación sexual</com:Name><com:Name xml:lang="en">Grounds of discrimination: Sexual orientation</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。性取向</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Orientation sexuelle</com:Name><com:Name xml:lang="ar">أسباب التمييز: التوجه الجنسي</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Сексуальная ориентация</com:Name><com:Name xml:lang="es">Motivos de discriminación: Orientación sexual</com:Name><com:Name xml:lang="en">Grounds of discrimination: Sexual orientation</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Sexual orientation</com:Description>
                 </str:Code>
                 <str:Code id="GRD_SOCIOECON" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_SOCIOECON">
-                    <com:Name xml:lang="zh">歧视的理由。社会经济地位</com:Name><com:Name xml:lang="fr">Motifs de discrimination : statut socio-économique</com:Name><com:Name xml:lang="ar">أسباب التمييز: الوضع الاجتماعي والاقتصادي</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Социально-экономический статус</com:Name><com:Name xml:lang="es">Motivos de discriminación: Situación socioeconómica</com:Name><com:Name xml:lang="en">Grounds of discrimination: Socioeconomic status</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。社会经济地位</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Statut socio-économique</com:Name><com:Name xml:lang="ar">أسباب التمييز: الوضع الاجتماعي والاقتصادي</com:Name><com:Name xml:lang="ru">Основания для дискриминации: Социально-экономический статус</com:Name><com:Name xml:lang="es">Motivos de discriminación: Situación socioeconómica</com:Name><com:Name xml:lang="en">Grounds of discrimination: Socioeconomic status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Socioeconomic status</com:Description>
                 </str:Code>
                 <str:Code id="GRD_WEALTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).GRD_WEALTH">
-                    <com:Name xml:lang="zh">歧视的理由。财富状况</com:Name><com:Name xml:lang="fr">Motifs de discrimination : situation de fortune</com:Name><com:Name xml:lang="ar">أسباب التمييز: حالة الثروة</com:Name><com:Name xml:lang="ru">Основания для дискриминации: имущественное положение</com:Name><com:Name xml:lang="es">Motivos de discriminación: Situación patrimonial</com:Name><com:Name xml:lang="en">Grounds of discrimination: Wealth status</com:Name>
+                    <com:Name xml:lang="zh">歧视的理由。财富状况</com:Name><com:Name xml:lang="fr">Motifs de discrimination : Richesse</com:Name><com:Name xml:lang="ar">أسباب التمييز: حالة الثروة</com:Name><com:Name xml:lang="ru">Основания для дискриминации: имущественное положение</com:Name><com:Name xml:lang="es">Motivos de discriminación: Situación patrimonial</com:Name><com:Name xml:lang="en">Grounds of discrimination: Wealth status</com:Name>
                     <com:Description xml:lang="en">Grounds of discrimination: Wealth status</com:Description>
                 </str:Code>
                 <str:Code id="ABT2_ACHIEVE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).ABT2_ACHIEVE">
@@ -5116,11 +5116,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Elevation 300–1.000 meters and local elevation range (7 kilometer radius) &gt; 300 meters</com:Description>
                 </str:Code>
                 <str:Code id="FCC_M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FCC_M">
-                    <com:Name xml:lang="zh">叶绿素a浓度的频率。中度</com:Name><com:Name xml:lang="fr">Fréquence de concentration de chlorophylle-a : modérée</com:Name><com:Name xml:lang="ar">تردد تركيز الكلوروفيل أ: متوسط</com:Name><com:Name xml:lang="ru">Частота концентрации хлорофилла-а: Умеренная</com:Name><com:Name xml:lang="es">Frecuencia de la concentración de clorofila-a: Moderada</com:Name><com:Name xml:lang="en">Frequency of Chlorophyll-a concentration: Moderate</com:Name>
+                    <com:Name xml:lang="zh">叶绿素a浓度的频率。中度</com:Name><com:Name xml:lang="fr">Fréquence de concentration de chlorophylle-a : Modérée</com:Name><com:Name xml:lang="ar">تردد تركيز الكلوروفيل أ: متوسط</com:Name><com:Name xml:lang="ru">Частота концентрации хлорофилла-а: Умеренная</com:Name><com:Name xml:lang="es">Frecuencia de la concentración de clorofila-a: Moderada</com:Name><com:Name xml:lang="en">Frequency of Chlorophyll-a concentration: Moderate</com:Name>
                     <com:Description xml:lang="en">Frequency of Chlorophyll-a concentration: Moderate</com:Description>
                 </str:Code>
                 <str:Code id="FCC_H" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FCC_H">
-                    <com:Name xml:lang="zh">叶绿素a浓度的频率。高</com:Name><com:Name xml:lang="fr">Fréquence de la concentration de chlorophylle-a : élevée</com:Name><com:Name xml:lang="ar">تردد تركيز الكلوروفيل أ: مرتفع</com:Name><com:Name xml:lang="ru">Частота концентрации хлорофилла-а: Высокая</com:Name><com:Name xml:lang="es">Frecuencia de la concentración de clorofila-a: Alta</com:Name><com:Name xml:lang="en">Frequency of Chlorophyll-a concentration: High</com:Name>
+                    <com:Name xml:lang="zh">叶绿素a浓度的频率。高</com:Name><com:Name xml:lang="fr">Fréquence de la concentration de chlorophylle-a : Elevée</com:Name><com:Name xml:lang="ar">تردد تركيز الكلوروفيل أ: مرتفع</com:Name><com:Name xml:lang="ru">Частота концентрации хлорофилла-а: Высокая</com:Name><com:Name xml:lang="es">Frecuencia de la concentración de clorofila-a: Alta</com:Name><com:Name xml:lang="en">Frequency of Chlorophyll-a concentration: High</com:Name>
                     <com:Description xml:lang="en">Frequency of Chlorophyll-a concentration: High</com:Description>
                 </str:Code>
                 <str:Code id="FCC_E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FCC_E">
@@ -5136,15 +5136,15 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Food Waste Sector: Out-of-home consumption</com:Description>
                 </str:Code>
                 <str:Code id="FWS_HHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FWS_HHS">
-                    <com:Name xml:lang="zh">食物垃圾部门。住户</com:Name><com:Name xml:lang="fr">Secteur des déchets alimentaires : ménages</com:Name><com:Name xml:lang="ar">قطاع المخلفات الغذائية: الأسر</com:Name><com:Name xml:lang="ru">Сектор пищевых отходов: Домашние хозяйства</com:Name><com:Name xml:lang="es">Sector de los residuos alimentarios: Hogares</com:Name><com:Name xml:lang="en">Food Waste Sector: Households</com:Name>
+                    <com:Name xml:lang="zh">食物垃圾部门。住户</com:Name><com:Name xml:lang="fr">Secteur des déchets alimentaires : Ménages</com:Name><com:Name xml:lang="ar">قطاع المخلفات الغذائية: الأسر</com:Name><com:Name xml:lang="ru">Сектор пищевых отходов: Домашние хозяйства</com:Name><com:Name xml:lang="es">Sector de los residuos alimentarios: Hogares</com:Name><com:Name xml:lang="en">Food Waste Sector: Households</com:Name>
                     <com:Description xml:lang="en">Food Waste Sector: Households</com:Description>
                 </str:Code>
                 <str:Code id="FWS_MNFC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FWS_MNFC">
-                    <com:Name xml:lang="zh">食物垃圾部门。制造业</com:Name><com:Name xml:lang="fr">Secteur des déchets alimentaires : fabrication</com:Name><com:Name xml:lang="ar">قطاع المخلفات الغذائية: التصنيع</com:Name><com:Name xml:lang="ru">Пищевые отходы Сектор: Производство</com:Name><com:Name xml:lang="es">Sector de los residuos alimentarios: Fabricación</com:Name><com:Name xml:lang="en">Food Waste Sector: Manufacturing</com:Name>
+                    <com:Name xml:lang="zh">食物垃圾部门。制造业</com:Name><com:Name xml:lang="fr">Secteur des déchets alimentaires : Fabrication</com:Name><com:Name xml:lang="ar">قطاع المخلفات الغذائية: التصنيع</com:Name><com:Name xml:lang="ru">Пищевые отходы Сектор: Производство</com:Name><com:Name xml:lang="es">Sector de los residuos alimentarios: Fabricación</com:Name><com:Name xml:lang="en">Food Waste Sector: Manufacturing</com:Name>
                     <com:Description xml:lang="en">Food Waste Sector: Manufacturing</com:Description>
                 </str:Code>
                 <str:Code id="FIS_PREFIS_INC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FIS_PREFIS_INC">
-                    <com:Name xml:lang="zh">财政干预阶段。前期财政收入</com:Name><com:Name xml:lang="fr">Étape d'intervention fiscale : Recettes préfiscales</com:Name><com:Name xml:lang="ar">مرحلة التدخل المالي: الدخل قبل المالي</com:Name><com:Name xml:lang="ru">Этап фискального вмешательства: Предфискальный доход</com:Name><com:Name xml:lang="es">Etapa de intervención fiscal: Ingresos prefiscales</com:Name><com:Name xml:lang="en">Fiscal intervention stage: Prefiscal income</com:Name>
+                    <com:Name xml:lang="zh">财政干预阶段。前期财政收入</com:Name><com:Name xml:lang="fr">Étape d'intervention fiscale : Revenu pré-fiscal</com:Name><com:Name xml:lang="ar">مرحلة التدخل المالي: الدخل قبل المالي</com:Name><com:Name xml:lang="ru">Этап фискального вмешательства: Предфискальный доход</com:Name><com:Name xml:lang="es">Etapa de intervención fiscal: Ingresos prefiscales</com:Name><com:Name xml:lang="en">Fiscal intervention stage: Prefiscal income</com:Name>
                     <com:Description xml:lang="en">Fiscal intervention stage: Prefiscal income</com:Description>
                 </str:Code>
                 <str:Code id="FIS_POSTFIS_DIS_INC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_COMP_BREAKDOWN(1.4).FIS_POSTFIS_DIS_INC">
@@ -9463,11 +9463,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
             <str:Codelist agencyID="IAEG-SDGs" id="CL_NATURE" isExternalReference="false" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_NATURE(1.0)" version="1.0">
                 <com:Name xml:lang="en">Nature code list</com:Name>
                 <str:Code id="C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_NATURE(1.0).C">
-                    <com:Name xml:lang="zh">国家数据</com:Name><com:Name xml:lang="fr">Données par pays</com:Name><com:Name xml:lang="ar">بيانات الدولة</com:Name><com:Name xml:lang="ru">Данные по стране</com:Name><com:Name xml:lang="es">Datos del país</com:Name><com:Name xml:lang="en">Country Data</com:Name>
+                    <com:Name xml:lang="zh">国家数据</com:Name><com:Name xml:lang="fr">Données du pays</com:Name><com:Name xml:lang="ar">بيانات الدولة</com:Name><com:Name xml:lang="ru">Данные по стране</com:Name><com:Name xml:lang="es">Datos del país</com:Name><com:Name xml:lang="en">Country Data</com:Name>
                     <com:Description xml:lang="en">Country Data</com:Description>
                 </str:Code>
                 <str:Code id="CA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_NATURE(1.0).CA">
-                    <com:Name xml:lang="zh">国家调整后</com:Name><com:Name xml:lang="fr">Pays Ajusté</com:Name><com:Name xml:lang="ar">تعديل الدولة</com:Name><com:Name xml:lang="ru">Страна Скорректированный</com:Name><com:Name xml:lang="es">País ajustado</com:Name><com:Name xml:lang="en">Country Adjusted</com:Name>
+                    <com:Name xml:lang="zh">国家调整后</com:Name><com:Name xml:lang="fr">Données du pays ajustées</com:Name><com:Name xml:lang="ar">تعديل الدولة</com:Name><com:Name xml:lang="ru">Страна Скорректированный</com:Name><com:Name xml:lang="es">País ajustado</com:Name><com:Name xml:lang="en">Country Adjusted</com:Name>
                     <com:Description xml:lang="en">Country Adjusted</com:Description>
                 </str:Code>
                 <str:Code id="E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_NATURE(1.0).E">
@@ -9498,7 +9498,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">All occupations or no breakdown by Occupation</com:Description>
                 </str:Code>
                 <str:Code id="ISCO08_0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_0">
-                    <com:Name xml:lang="zh">武装部队职业</com:Name><com:Name xml:lang="fr">Professions des forces armées</com:Name><com:Name xml:lang="ar">احتلال القوات المسلحة</com:Name><com:Name xml:lang="ru">Профессии в вооруженных силах</com:Name><com:Name xml:lang="es">Ocupaciones de las fuerzas armadas</com:Name><com:Name xml:lang="en">Armed forces occupations</com:Name>
+                    <com:Name xml:lang="zh">武装部队职业</com:Name><com:Name xml:lang="fr">Métiers des forces armées</com:Name><com:Name xml:lang="ar">احتلال القوات المسلحة</com:Name><com:Name xml:lang="ru">Профессии в вооруженных силах</com:Name><com:Name xml:lang="es">Ocupaciones de las fuerzas armadas</com:Name><com:Name xml:lang="en">Armed forces occupations</com:Name>
                     <com:Description xml:lang="en">Armed forces occupations</com:Description>
                 </str:Code>
                 <str:Code id="ISCO08_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_1">
@@ -9514,7 +9514,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">Technicians and associate professionals</com:Description>
                 </str:Code>
                 <str:Code id="ISCO08_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_4">
-                    <com:Name xml:lang="zh">文书支持人员</com:Name><com:Name xml:lang="fr">Employés de soutien administratif</com:Name><com:Name xml:lang="ar">عمال الدعم الكتابي</com:Name><com:Name xml:lang="ru">Вспомогательные работники</com:Name><com:Name xml:lang="es">Personal de apoyo administrativo</com:Name><com:Name xml:lang="en">Clerical support workers</com:Name>
+                    <com:Name xml:lang="zh">文书支持人员</com:Name><com:Name xml:lang="fr">Employés de bureau</com:Name><com:Name xml:lang="ar">عمال الدعم الكتابي</com:Name><com:Name xml:lang="ru">Вспомогательные работники</com:Name><com:Name xml:lang="es">Personal de apoyo administrativo</com:Name><com:Name xml:lang="en">Clerical support workers</com:Name>
                     <com:Description xml:lang="en">Clerical support workers</com:Description>
                 </str:Code>
                 <str:Code id="ISCO08_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_OCCUPATION(1.1).ISCO08_5">
@@ -25917,7 +25917,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">To be used for data collected or disseminated every year.</com:Description>
                 </str:Code>
                 <str:Code id="S" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).S">
-                    <com:Name xml:lang="zh">半年一次，学期一次</com:Name><com:Name xml:lang="fr">Semestrielle, semestrielle</com:Name><com:Name xml:lang="ar">نصف سنوي ، فصل دراسي</com:Name><com:Name xml:lang="ru">Полугодие, семестр</com:Name><com:Name xml:lang="es">Semestral, semestral</com:Name><com:Name xml:lang="en">Half-yearly, semester</com:Name>
+                    <com:Name xml:lang="zh">半年一次，学期一次</com:Name><com:Name xml:lang="fr">Semestriel</com:Name><com:Name xml:lang="ar">نصف سنوي ، فصل دراسي</com:Name><com:Name xml:lang="ru">Полугодие, семестр</com:Name><com:Name xml:lang="es">Semestral, semestral</com:Name><com:Name xml:lang="en">Half-yearly, semester</com:Name>
                     <com:Description xml:lang="en">To be used for data collected or disseminated every semester.</com:Description>
                 </str:Code>
                 <str:Code id="Q" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).Q">
@@ -25929,11 +25929,11 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">To be used for data collected or disseminated every month.</com:Description>
                 </str:Code>
                 <str:Code id="W" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).W">
-                    <com:Name xml:lang="zh">每周</com:Name><com:Name xml:lang="fr">Chaque semaine</com:Name><com:Name xml:lang="ar">اسبوعي</com:Name><com:Name xml:lang="ru">Еженедельно</com:Name><com:Name xml:lang="es">Semanal</com:Name><com:Name xml:lang="en">Weekly</com:Name>
+                    <com:Name xml:lang="zh">每周</com:Name><com:Name xml:lang="fr">Hebdomadaire</com:Name><com:Name xml:lang="ar">اسبوعي</com:Name><com:Name xml:lang="ru">Еженедельно</com:Name><com:Name xml:lang="es">Semanal</com:Name><com:Name xml:lang="en">Weekly</com:Name>
                     <com:Description xml:lang="en">To be used for data collected or disseminated every week.</com:Description>
                 </str:Code>
                 <str:Code id="D" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).D">
-                    <com:Name xml:lang="zh">每天</com:Name><com:Name xml:lang="fr">Journalier</com:Name><com:Name xml:lang="ar">يوميا</com:Name><com:Name xml:lang="ru">Ежедневно</com:Name><com:Name xml:lang="es">Diariamente</com:Name><com:Name xml:lang="en">Daily</com:Name>
+                    <com:Name xml:lang="zh">每天</com:Name><com:Name xml:lang="fr">Quotidien</com:Name><com:Name xml:lang="ar">يوميا</com:Name><com:Name xml:lang="ru">Ежедневно</com:Name><com:Name xml:lang="es">Diariamente</com:Name><com:Name xml:lang="en">Daily</com:Name>
                     <com:Description xml:lang="en">To be used for data collected or disseminated every day.</com:Description>
                 </str:Code>
                 <str:Code id="H" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).H">
@@ -25941,7 +25941,7 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
                     <com:Description xml:lang="en">To be used for data collected or disseminated every hour.</com:Description>
                 </str:Code>
                 <str:Code id="B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).B">
-                    <com:Name xml:lang="zh">日报--商业周刊</com:Name><com:Name xml:lang="fr">Quotidiennement - businessweek</com:Name><com:Name xml:lang="ar">يوميا - بيزنس ويك</com:Name><com:Name xml:lang="ru">Ежедневно - businessweek</com:Name><com:Name xml:lang="es">Diario - businessweek</com:Name><com:Name xml:lang="en">Daily – businessweek</com:Name>
+                    <com:Name xml:lang="zh">日报--商业周刊</com:Name><com:Name xml:lang="fr">Quotidien sur la semaine ouvrable</com:Name><com:Name xml:lang="ar">يوميا - بيزنس ويك</com:Name><com:Name xml:lang="ru">Ежедневно - businessweek</com:Name><com:Name xml:lang="es">Diario - businessweek</com:Name><com:Name xml:lang="en">Daily – businessweek</com:Name>
                     <com:Description xml:lang="en">Similar to "daily", however there are no observations for Saturdays and Sundays (so, neither "missing values" nor "numeric values" should be provided for Saturday and Sunday). This treatment  ("business") is one way to deal with such cases, but it is not the only option. Such a time series could alternatively be considered daily ("D"), thus, with missing values in the weekend.</com:Description>
                 </str:Code>
                 <str:Code id="N" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).N">
